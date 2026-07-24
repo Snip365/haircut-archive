@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+
+<meta charset="UTF-8">
+
+<title>Mangá</title>
+
+<link rel="stylesheet" href="style.css">
+
+</head>
+
+
+<body>
+
+<h1>Mangá</h1>
+
+<div id="lista"></div>
+
+
+<script src="dados.js"></script>
+
+
+<script>
+
+const lista = document.getElementById("lista");
+
+
+const obras = Object.keys(dados).sort((a, b) => {
+
+    const aLatino = /^[A-Za-z]/.test(a.trim());
+
+    const bLatino = /^[A-Za-z]/.test(b.trim());
+
+
+    // Coloca os nomes com A-Z antes dos demais
+    if (aLatino && !bLatino) {
+        return -1;
+    }
+
+
+    if (!aLatino && bLatino) {
+        return 1;
+    }
+
+
+    return a.localeCompare(b);
+
+});
+
+
+let categoriaAtual = "";
+
+
+obras.forEach(obra => {
+
+
+    const primeiroCaractere =
+        obra.trim().charAt(0);
+
+
+    let categoria;
+
+
+    if (
+        /^[A-Za-z]$/.test(primeiroCaractere)
+    ) {
+
+        categoria =
+            primeiroCaractere.toUpperCase();
+
+    }
+
+    else {
+
+        categoria =
+            "OUTROS IDIOMAS";
+
+    }
+
+
+    if (categoria !== categoriaAtual) {
+
+
+        categoriaAtual = categoria;
+
+
+        const titulo =
+            document.createElement("h2");
+
+
+        titulo.textContent =
+            categoria;
+
+
+        lista.appendChild(titulo);
+
+    }
+
+
+    const link =
+        document.createElement("a");
+
+
+    link.href =
+        "obra.html?nome=" +
+        encodeURIComponent(obra);
+
+
+    link.textContent =
+        obra;
+
+
+    lista.appendChild(link);
+
+
+    lista.appendChild(
+        document.createElement("br")
+    );
+
+
+});
+
+</script>
+
+</body>
+
+</html>
