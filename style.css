@@ -54,6 +54,23 @@ a:hover {
 
 }
 
+.nav-button {
+    display: inline-block;
+    margin-bottom: 15px;
+    padding: 8px 14px;
+    border-radius: 6px;
+    background: #0969da;
+    color: white;
+    font-size: 16px;
+    text-decoration: none;
+}
+
+.nav-button:hover {
+    text-decoration: none;
+    background: #0757b3;
+    color: white;
+}
+
 #scrollTopBtn {
     position: fixed;
     right: 20px;
