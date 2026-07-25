@@ -947,6 +947,14 @@ const dados = {
             "data_adicao": "2026-07-25"
         }
     ],
+    "Mattaku Saikin no Tantei to Kitara": [
+        {
+            "personagem": "Hana Kazamaki",
+            "info": "episode 9 flashback",
+            "arquivo": "Hana Kazamaki from Mattaku Saikin no Tantei to Kitara [episode 9 flashback].webp",
+            "data_adicao": "2026-07-25"
+        }
+    ],
     "Katekyou Hitman Reborn": [
         {
             "personagem": "Hana Kurokawa",
