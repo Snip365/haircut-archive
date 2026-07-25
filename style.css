@@ -54,6 +54,20 @@ a:hover {
 
 }
 
+.categories {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 24px;
+    margin-top: 24px;
+}
+
+.categories a {
+    display: inline-block;
+    min-width: 180px;
+    text-align: center;
+}
+
 .nav-button {
     display: inline-block;
     margin-bottom: 15px;
