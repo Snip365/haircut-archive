@@ -53,6 +53,34 @@ a:hover {
     text-decoration: underline;
 
 }
+
+#scrollTopBtn {
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+    width: 48px;
+    height: 48px;
+    border: none;
+    border-radius: 50%;
+    background: #0969da;
+    color: white;
+    font-size: 24px;
+    cursor: pointer;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.3s ease, transform 0.3s ease;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    z-index: 1000;
+}
+
+#scrollTopBtn:hover {
+    transform: translateY(-2px);
+}
+
+#scrollTopBtn.visible {
+    opacity: 1;
+    pointer-events: auto;
+}
 .galeria {
 
     display: grid;
