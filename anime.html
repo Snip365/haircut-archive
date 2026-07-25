@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="pt-BR">
+<html lang="en">
 
 <head>
     <meta charset="UTF-8">
@@ -9,11 +9,18 @@
 
 <body>
 
+    <img src="assets/banner.webp" alt="Manga Haircut Archive banner" class="hero-banner">
+
+    <div class="page-controls">
+        <button id="theme-toggle" type="button">Dark Mode</button>
+    </div>
+
     <h1>Anime</h1>
 
     <div id="lista"></div>
 
     <script src="anime-dados.js"></script>
+    <script src="theme.js"></script>
 
     <script>
 
@@ -42,7 +49,7 @@
             if (/^[A-Za-z]$/.test(primeiroCaractere)) {
                 categoria = primeiroCaractere.toUpperCase();
             } else {
-                categoria = "OUTROS IDIOMAS";
+                categoria = "OTHER LANGUAGES";
             }
 
             if (categoria !== categoriaAtual) {
@@ -63,7 +70,6 @@
 
             link.textContent = obra;
 
-            // Salva a posição da rolagem antes de abrir a obra
             link.addEventListener("click", function () {
                 localStorage.setItem("posicao_anime", window.scrollY);
             });
@@ -73,7 +79,6 @@
 
         });
 
-        // Restaura a posição quando voltar para esta página
         window.addEventListener("load", function () {
 
             const posicao = localStorage.getItem("posicao_anime");

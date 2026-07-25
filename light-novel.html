@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="pt-BR">
+<html lang="en">
 
 <head>
 
@@ -13,11 +13,18 @@
 
 <body>
 
+<img src="assets/banner.webp" alt="Manga Haircut Archive banner" class="hero-banner">
+
+<div class="page-controls">
+    <button id="theme-toggle" type="button">Dark Mode</button>
+</div>
+
 <h1>Light Novel</h1>
 
 <div id="lista"></div>
 
 <script src="ln-dados.js"></script>
+<script src="theme.js"></script>
 
 <script>
 
@@ -28,7 +35,6 @@ const obras = Object.keys(dados).sort((a, b) => {
     const aLatino = /^[A-Za-z]/.test(a.trim());
     const bLatino = /^[A-Za-z]/.test(b.trim());
 
-    // Coloca os nomes com A-Z antes dos demais
     if (aLatino && !bLatino) {
         return -1;
     }
@@ -52,7 +58,7 @@ obras.forEach(obra => {
     if (/^[A-Za-z]$/.test(primeiroCaractere)) {
         categoria = primeiroCaractere.toUpperCase();
     } else {
-        categoria = "OUTROS IDIOMAS";
+        categoria = "OTHER LANGUAGES";
     }
 
     if (categoria !== categoriaAtual) {
@@ -68,26 +74,16 @@ obras.forEach(obra => {
 
     const link = document.createElement("a");
 
-    link.href =
-        "ln-obra.html?nome=" +
-        encodeURIComponent(obra);
+    link.href = "ln-obra.html?nome=" + encodeURIComponent(obra);
 
     link.textContent = obra;
 
-    // Salva a posição da rolagem
-    link.addEventListener("click", function () {
-        localStorage.setItem("posicao_ln", window.scrollY);
-    });
-
     lista.appendChild(link);
 
-    lista.appendChild(
-        document.createElement("br")
-    );
+    lista.appendChild(document.createElement("br"));
 
 });
 
-// Restaura a posição da rolagem
 window.addEventListener("load", function () {
 
     const posicao = localStorage.getItem("posicao_ln");

@@ -1,58 +1,54 @@
 <!DOCTYPE html>
-<html lang="pt-BR">
+<html lang="en">
 
 <head>
 
 <meta charset="UTF-8">
 
-<title>Mangá</title>
+<title>Manga</title>
 
 <link rel="stylesheet" href="style.css">
 
 </head>
 
-
 <body>
 
-<h1>Mangá</h1>
+<img src="assets/banner.webp" alt="Manga Haircut Archive banner" class="hero-banner">
+
+<div class="page-controls">
+    <button id="theme-toggle" type="button">Dark Mode</button>
+</div>
+
+<h1>Manga</h1>
 
 <div id="lista"></div>
 
-
 <script src="dados.js"></script>
-
+<script src="theme.js"></script>
 
 <script>
 
 const lista = document.getElementById("lista");
 
-
 const obras = Object.keys(dados).sort((a, b) => {
 
     const aLatino = /^[A-Za-z]/.test(a.trim());
-
     const bLatino = /^[A-Za-z]/.test(b.trim());
 
-
-    // Coloca os nomes com A-Z antes dos demais
     if (aLatino && !bLatino) {
         return -1;
     }
-
 
     if (!aLatino && bLatino) {
         return 1;
     }
 
-
     return a.localeCompare(b);
 
 });
 
-
 let categoriaAtual = "";
 
-// Salva a posição da lista antes de abrir uma obra
 window.addEventListener("beforeunload", function () {
 
     localStorage.setItem(
@@ -64,85 +60,53 @@ window.addEventListener("beforeunload", function () {
 
 obras.forEach(obra => {
 
-
-    const primeiroCaractere =
-        obra.trim().charAt(0);
-
+    const primeiroCaractere = obra.trim().charAt(0);
 
     let categoria;
 
+    if (/^[A-Za-z]$/.test(primeiroCaractere)) {
 
-    if (
-        /^[A-Za-z]$/.test(primeiroCaractere)
-    ) {
-
-        categoria =
-            primeiroCaractere.toUpperCase();
+        categoria = primeiroCaractere.toUpperCase();
 
     }
 
     else {
 
-        categoria =
-            "OUTROS IDIOMAS";
+        categoria = "OTHER LANGUAGES";
 
     }
 
-
     if (categoria !== categoriaAtual) {
-
 
         categoriaAtual = categoria;
 
+        const titulo = document.createElement("h2");
 
-        const titulo =
-            document.createElement("h2");
-
-
-        titulo.textContent =
-            categoria;
-
+        titulo.textContent = categoria;
 
         lista.appendChild(titulo);
 
     }
 
+    const link = document.createElement("a");
 
-    const link =
-        document.createElement("a");
+    link.href = "obra.html?nome=" + encodeURIComponent(obra);
 
-
-    link.href =
-        "obra.html?nome=" +
-        encodeURIComponent(obra);
-
-
-    link.textContent =
-        obra;
-
+    link.textContent = obra;
 
     lista.appendChild(link);
 
-
-    lista.appendChild(
-        document.createElement("br")
-    );
-
+    lista.appendChild(document.createElement("br"));
 
 });
 
-// Restaura a posição anterior da lista
 window.addEventListener("load", function () {
 
-    const posicao =
-        localStorage.getItem("posicao_manga");
+    const posicao = localStorage.getItem("posicao_manga");
 
     if (posicao !== null) {
 
-        window.scrollTo(
-            0,
-            parseInt(posicao)
-        );
+        window.scrollTo(0, parseInt(posicao));
 
     }
 
