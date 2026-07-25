@@ -2,7 +2,7 @@ document.addEventListener("DOMContentLoaded", function () {
     const button = document.createElement("button");
     button.id = "scrollTopBtn";
     button.type = "button";
-    button.setAttribute("aria-label", "Voltar ao topo");
+    button.setAttribute("aria-label", "Back to top");
     button.innerHTML = "↑";
 
     document.body.appendChild(button);
