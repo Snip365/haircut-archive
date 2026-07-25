@@ -1,128 +1,53 @@
 <!DOCTYPE html>
-<html lang="pt-BR">
+<html lang="en">
 
 <head>
 
-<meta charset="UTF-8">
+    <meta charset="UTF-8">
 
-<title>Mangá</title>
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0">
 
-<link rel="stylesheet" href="style.css">
+    <title>Manga Haircut Archive</title>
+
+    <link rel="stylesheet"
+          href="style.css">
 
 </head>
 
 
 <body>
 
-<h1>Mangá</h1>
 
-<div id="lista"></div>
-
-
-<script src="dados.js"></script>
+    <h1>Manga Haircut Archive</h1>
 
 
-<script>
-
-const lista = document.getElementById("lista");
+    <div class="categories">
 
 
-const obras = Object.keys(dados).sort((a, b) => {
+        <a href="manga.html">
 
-    const aLatino = /^[A-Za-z]/.test(a.trim());
+            Manga
 
-    const bLatino = /^[A-Za-z]/.test(b.trim());
-
-
-    // Coloca os nomes com A-Z antes dos demais
-    if (aLatino && !bLatino) {
-        return -1;
-    }
+        </a>
 
 
-    if (!aLatino && bLatino) {
-        return 1;
-    }
+        <a href="light-novel.html">
+
+            Light Novel
+
+        </a>
 
 
-    return a.localeCompare(b);
+        <a href="anime.html">
 
-});
+            Anime
 
-
-let categoriaAtual = "";
-
-
-obras.forEach(obra => {
+        </a>
 
 
-    const primeiroCaractere =
-        obra.trim().charAt(0);
+    </div>
 
-
-    let categoria;
-
-
-    if (
-        /^[A-Za-z]$/.test(primeiroCaractere)
-    ) {
-
-        categoria =
-            primeiroCaractere.toUpperCase();
-
-    }
-
-    else {
-
-        categoria =
-            "OUTROS IDIOMAS";
-
-    }
-
-
-    if (categoria !== categoriaAtual) {
-
-
-        categoriaAtual = categoria;
-
-
-        const titulo =
-            document.createElement("h2");
-
-
-        titulo.textContent =
-            categoria;
-
-
-        lista.appendChild(titulo);
-
-    }
-
-
-    const link =
-        document.createElement("a");
-
-
-    link.href =
-        "obra.html?nome=" +
-        encodeURIComponent(obra);
-
-
-    link.textContent =
-        obra;
-
-
-    lista.appendChild(link);
-
-
-    lista.appendChild(
-        document.createElement("br")
-    );
-
-
-});
-
-</script>
 
 </body>
 

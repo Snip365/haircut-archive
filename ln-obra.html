@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+
+<meta charset="UTF-8">
+
+<title>Obra</title>
+
+<link rel="stylesheet" href="style.css">
+
+</head>
+
+
+<body>
+
+
+<a href="light-novel.html">← Voltar</a>
+<a href="index.html">Homepage</a>
+
+<h1 id="titulo"></h1>
+
+
+<div id="galeria"></div>
+
+
+
+<script src="ln-dados.js"></script>
+
+
+<script>
+
+
+const parametros = new URLSearchParams(
+    window.location.search
+);
+
+
+const nomeObra = parametros.get("nome");
+
+
+const titulo = document.getElementById("titulo");
+
+const galeria = document.getElementById("galeria");
+
+
+
+titulo.textContent = nomeObra;
+
+
+
+const imagens = dados[nomeObra];
+
+
+
+if (!imagens) {
+
+
+    galeria.innerHTML =
+    "<p>Obra não encontrada.</p>";
+
+
+}
+
+else {
+
+
+    imagens.forEach(item => {
+
+
+        const bloco = document.createElement("div");
+
+        bloco.className = "item";
+
+
+        const imagem = document.createElement("img");
+
+
+        imagem.src =
+        "imagens_ln/" + item.arquivo;
+
+
+        imagem.loading = "lazy";
+	imagem.decoding = "async";
+
+        const texto = document.createElement("p");
+
+
+        texto.innerHTML =
+        "<b>" + item.personagem + "</b><br>" +
+        item.info;
+
+
+
+        bloco.appendChild(imagem);
+
+        bloco.appendChild(texto);
+
+
+        galeria.appendChild(bloco);
+
+
+    });
+
+
+}
+
+
+
+</script>
+
+
+</body>
+
+</html>
