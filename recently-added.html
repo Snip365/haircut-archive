@@ -1,4 +1,18 @@
-<div class="page-controls">
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recently Added</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <img src="assets/banner.webp" alt="Manga Haircut Archive banner" class="hero-banner">
+
+    <div class="page-controls">
     <a href="#" class="nav-button" id="back-button">Back</a>
 
     <a href="index.html" class="nav-button">
@@ -128,12 +142,12 @@ function adicionarItens(
 
 
                     // ------------------------------------------------
-                    // If there is no creation date, ignore the item.
+                    // If there is no addition date, ignore the item.
                     // ------------------------------------------------
 
                     if (
 
-                        !item.data_criacao
+                        !item.data_adicao
 
                     ) {
 
@@ -142,10 +156,10 @@ function adicionarItens(
                     }
 
 
-                    const dataCriacao =
+                    const dataAdicionada =
                         new Date(
 
-                            item.data_criacao
+                            item.data_adicao
 
                         );
 
@@ -158,7 +172,7 @@ function adicionarItens(
 
                         Number.isNaN(
 
-                            dataCriacao.getTime()
+                            dataAdicionada.getTime()
 
                         )
 
@@ -183,7 +197,7 @@ function adicionarItens(
 
                     if (
 
-                        dataCriacao <
+                        dataAdicionada <
 
                         dataMinima
 
@@ -219,8 +233,8 @@ function adicionarItens(
                             item.arquivo,
 
 
-                        data_criacao:
-                            item.data_criacao,
+                        data_adicao:
+                            item.data_adicao,
 
 
                         obra:
@@ -416,7 +430,7 @@ async function carregarTodos() {
 
                 new Date(
 
-                    b.data_criacao
+                    b.data_adicao
 
                 ).getTime()
 
@@ -424,7 +438,7 @@ async function carregarTodos() {
 
                 new Date(
 
-                    a.data_criacao
+                    a.data_adicao
 
                 ).getTime()
 
@@ -450,7 +464,7 @@ async function carregarTodos() {
             const grupo =
                 formatarMes(
 
-                    item.data_criacao
+                    item.data_adicao
 
                 );
 
@@ -776,3 +790,7 @@ carregarTodos().catch(
 );
 
 </script>
+
+</body>
+
+</html>
