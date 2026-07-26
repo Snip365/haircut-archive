@@ -1101,6 +1101,14 @@ const dados = {
             "data_adicao": "2025-05-14T12:26:03"
         }
     ],
+    "Yokuoni": [
+        {
+            "personagem": "Amy Ward",
+            "info": "chapter 30",
+            "arquivo": "Amy Ward from Yokuoni [chapter 30].webp",
+            "data_adicao": "2026-07-26T16:59:35"
+        }
+    ],
     "Once More": [
         {
             "personagem": "An An",
