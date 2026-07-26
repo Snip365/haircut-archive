@@ -78,6 +78,19 @@ const recentes =
 
 
 // ============================================================
+// MINIMUM DATE
+// ============================================================
+
+
+// Only items added on or after this date
+// will appear in Recently Added.
+
+
+const DATA_MINIMA =
+    "2026-07-01";
+
+
+// ============================================================
 // ALL ITEMS
 // ============================================================
 
@@ -374,6 +387,55 @@ async function carregarTodos() {
 
 
     // ========================================================
+    // FILTER BY MINIMUM DATE
+    // ========================================================
+
+
+    todosItens =
+
+        todosItens.filter(
+
+            item => {
+
+
+                const data =
+                    new Date(
+
+                        item.data_adicao
+
+                    );
+
+
+                if (
+
+                    isNaN(
+
+                        data.getTime()
+
+                    )
+
+                ) {
+
+
+                    return false;
+
+                }
+
+
+                return (
+
+                    item.data_adicao >=
+
+                    DATA_MINIMA
+
+                );
+
+            }
+
+        );
+
+
+    // ========================================================
     // SORT BY DATE AND TIME
     // MOST RECENT FIRST
     // ========================================================
@@ -467,25 +529,6 @@ async function carregarTodos() {
                     item.data_adicao
 
                 );
-
-
-            // Ignore invalid dates
-
-
-            if (
-
-                isNaN(
-
-                    data.getTime()
-
-                )
-
-            ) {
-
-
-                return;
-
-            }
 
 
             const ano =
