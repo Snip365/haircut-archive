@@ -8729,6 +8729,14 @@ const dados = {
             "data_adicao": "2026-07-26T11:33:27"
         }
     ],
+    "This Is My Second and Final First Love": [
+        {
+            "personagem": "Kotone",
+            "info": "ch 4",
+            "arquivo": "Kotone from This Is My Second and Final First Love [ch 4].webp",
+            "data_adicao": "2026-07-26T15:54:27"
+        }
+    ],
     "Atsumare! Fushigi Kenkyu-bu": [
         {
             "personagem": "Kotone Oohara",
