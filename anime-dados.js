@@ -86,7 +86,7 @@ const dados = {
     "Housekishou Richard-shi no Nazo Kantei": [
         {
             "personagem": "Akashi Mami",
-            "info": "ep 2",
+            "info": "episode 2",
             "arquivo": "Akashi Mami from Housekishou Richard-shi no Nazo Kantei [ep 2].webp",
             "data_adicao": "2026-07-25"
         }
@@ -110,7 +110,7 @@ const dados = {
     "Tekkaman Blade": [
         {
             "personagem": "Aki",
-            "info": "ep 49",
+            "info": "episode 49",
             "arquivo": "Aki from Tekkaman Blade [ep 49].webp",
             "data_adicao": "2026-07-25"
         }
@@ -168,7 +168,7 @@ const dados = {
     "Special A": [
         {
             "personagem": "Akira Todo",
-            "info": "ep18",
+            "info": "episode 18",
             "arquivo": "Akira Todo from Special A [ep18].webp",
             "data_adicao": "2026-07-25"
         }
