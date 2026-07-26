@@ -88,20 +88,6 @@ obras.forEach(obra => {
 
 });
 
-window.addEventListener("load", function () {
-
-    const posicao = localStorage.getItem("posicao_ln");
-
-    if (posicao !== null) {
-
-        setTimeout(function () {
-            window.scrollTo(0, parseInt(posicao, 10));
-        }, 50);
-
-    }
-
-});
-
 </script>
 
 </body>

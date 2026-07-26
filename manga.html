@@ -53,15 +53,6 @@ const obras = Object.keys(dados).sort((a, b) => {
 
 let categoriaAtual = "";
 
-window.addEventListener("beforeunload", function () {
-
-    localStorage.setItem(
-        "posicao_manga",
-        window.scrollY
-    );
-
-});
-
 obras.forEach(obra => {
 
     const primeiroCaractere = obra.trim().charAt(0);
@@ -101,18 +92,6 @@ obras.forEach(obra => {
     lista.appendChild(link);
 
     lista.appendChild(document.createElement("br"));
-
-});
-
-window.addEventListener("load", function () {
-
-    const posicao = localStorage.getItem("posicao_manga");
-
-    if (posicao !== null) {
-
-        window.scrollTo(0, parseInt(posicao));
-
-    }
 
 });
 
