@@ -15,61 +15,17 @@ const dados = {
             "data_adicao": "2025-05-14T12:25:42"
         }
     ],
-    "SEM IDENTIFICAÇÃO": [
-        {
-            "personagem": "Angelita Dealbert from Kuro no Hiera Glaphicos [vol 9] 2",
-            "info": "",
-            "arquivo": "Angelita Dealbert from Kuro no Hiera Glaphicos [vol 9] 2.webp",
-            "data_adicao": "2025-05-14T12:25:42"
-        },
-        {
-            "personagem": "asuka1",
-            "info": "",
-            "arquivo": "asuka1.webp",
-            "data_adicao": "2025-05-14T12:25:42"
-        },
-        {
-            "personagem": "Lefiya Viridis from DanMachi Sword Oratoria [vol 13]2",
-            "info": "",
-            "arquivo": "Lefiya Viridis from DanMachi Sword Oratoria [vol 13]2.webp",
-            "data_adicao": "2025-05-14T12:25:46"
-        },
-        {
-            "personagem": "ln spice and wolf (1)",
-            "info": "",
-            "arquivo": "ln spice and wolf (1).webp",
-            "data_adicao": "2025-11-09T05:22:33"
-        },
-        {
-            "personagem": "ln spice and wolf (2)",
-            "info": "",
-            "arquivo": "ln spice and wolf (2).webp",
-            "data_adicao": "2025-11-09T05:22:39"
-        },
-        {
-            "personagem": "ln spice and wolf (3)",
-            "info": "",
-            "arquivo": "ln spice and wolf (3).webp",
-            "data_adicao": "2025-11-09T05:22:44"
-        },
-        {
-            "personagem": "Megumi from Kawaiikereba Hentai demo Suki ni Natte Kuremasu ka[vol10]",
-            "info": "",
-            "arquivo": "Megumi from Kawaiikereba Hentai demo Suki ni Natte Kuremasu ka[vol10].webp",
-            "data_adicao": "2025-05-14T12:25:47"
-        },
-        {
-            "personagem": "Ul Fenesis from Magdala de Nemure [vol 5]2",
-            "info": "",
-            "arquivo": "Ul Fenesis from Magdala de Nemure [vol 5]2.webp",
-            "data_adicao": "2025-05-14T12:25:48"
-        }
-    ],
     "Kuro no Hiera Glaphicos": [
         {
             "personagem": "Angelita Dealbert",
             "info": "vol 9",
             "arquivo": "Angelita Dealbert from Kuro no Hiera Glaphicos [vol 9].webp",
+            "data_adicao": "2025-05-14T12:25:42"
+        },
+        {
+            "personagem": "Angelita Dealbert",
+            "info": "volume  9",
+            "arquivo": "Angelita Dealbert from Kuro no Hiera Glaphicos [volume  9].webp",
             "data_adicao": "2025-05-14T12:25:42"
         }
     ],
@@ -86,6 +42,12 @@ const dados = {
             "personagem": "Asuka Langley Soryu",
             "info": "vol 2 ch11",
             "arquivo": "Asuka Langley Soryu from Neon Genesis Evangelion ANIMA [vol 2 ch11].webp",
+            "data_adicao": "2025-05-14T12:25:42"
+        },
+        {
+            "personagem": "Asuka Langley Soryu",
+            "info": "volume 2 ch11",
+            "arquivo": "Asuka Langley Soryu from Neon Genesis Evangelion ANIMA [volume 2 ch11].webp",
             "data_adicao": "2025-05-14T12:25:42"
         }
     ],
@@ -181,6 +143,12 @@ const dados = {
             "info": "vol 13",
             "arquivo": "Lefiya Viridis from DanMachi Sword Oratoria [vol 13].webp",
             "data_adicao": "2025-05-14T12:25:43"
+        },
+        {
+            "personagem": "Lefiya Viridis",
+            "info": "volume 13",
+            "arquivo": "Lefiya Viridis from DanMachi Sword Oratoria [volume 13].webp",
+            "data_adicao": "2025-05-14T12:25:46"
         }
     ],
     "Genjitsu Shugi Yuusha no Oukoku Saikenki": [
@@ -226,6 +194,14 @@ const dados = {
             "personagem": "Maggot Cornelius",
             "info": "vol 2",
             "arquivo": "Maggot Cornelius from Isekai Tensei Soudouki [vol 2].webp",
+            "data_adicao": "2025-05-14T12:25:47"
+        }
+    ],
+    "Kawaiikereba Hentai demo Suki ni Natte Kuremasu ka": [
+        {
+            "personagem": "Megumi",
+            "info": "vol10",
+            "arquivo": "Megumi from Kawaiikereba Hentai demo Suki ni Natte Kuremasu ka [vol10].webp",
             "data_adicao": "2025-05-14T12:25:47"
         }
     ],
@@ -330,6 +306,12 @@ const dados = {
             "personagem": "Ul Fenesis",
             "info": "vol 5",
             "arquivo": "Ul Fenesis from Magdala de Nemure [vol 5].webp",
+            "data_adicao": "2025-05-14T12:25:48"
+        },
+        {
+            "personagem": "Ul Fenesis",
+            "info": "volume 5",
+            "arquivo": "Ul Fenesis from Magdala de Nemure [volume 5].webp",
             "data_adicao": "2025-05-14T12:25:48"
         }
     ],

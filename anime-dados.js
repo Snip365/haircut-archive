@@ -70,6 +70,12 @@ const dados = {
         },
         {
             "personagem": "Shion Kamiya",
+            "info": "episode  14",
+            "arquivo": "Shion Kamiya from Aikatsu [episode  14].webp",
+            "data_adicao": "2025-05-14T12:25:27"
+        },
+        {
+            "personagem": "Shion Kamiya",
             "info": "episode 14",
             "arquivo": "Shion Kamiya from Aikatsu [episode 14].webp",
             "data_adicao": "2025-05-14T12:25:27"
@@ -391,126 +397,12 @@ const dados = {
             "data_adicao": "2025-05-14T12:24:22"
         }
     ],
-    "SEM IDENTIFICAÇÃO": [
+    "Uchouten Kazoku": [
         {
-            "personagem": "Benten from Uchouten Kazoku",
-            "info": "",
-            "arquivo": "Benten from Uchouten Kazoku.webp",
+            "personagem": "Benten",
+            "info": "episode",
+            "arquivo": "Benten from Uchouten Kazoku [episode ].webp",
             "data_adicao": "2025-05-14T12:24:22"
-        },
-        {
-            "personagem": "Boku no Hero Academia [2nd movie]",
-            "info": "",
-            "arquivo": "Boku no Hero Academia [2nd movie].webp",
-            "data_adicao": "2025-05-14T12:24:22"
-        },
-        {
-            "personagem": "Bort from Houseki no Kuni",
-            "info": "",
-            "arquivo": "Bort from Houseki no Kuni.webp",
-            "data_adicao": "2025-05-14T12:24:23"
-        },
-        {
-            "personagem": "Eliza from Duel Master WIN Duel Academy",
-            "info": "",
-            "arquivo": "Eliza from Duel Master WIN Duel Academy.webp",
-            "data_adicao": "2025-05-14T12:24:27"
-        },
-        {
-            "personagem": "ERsS6ryUwAAoi6M",
-            "info": "",
-            "arquivo": "ERsS6ryUwAAoi6M.webp",
-            "data_adicao": "2025-05-14T12:24:27"
-        },
-        {
-            "personagem": "Hikage Miyauchi from Non Non Biyori",
-            "info": "",
-            "arquivo": "Hikage Miyauchi from Non Non Biyori.webp",
-            "data_adicao": "2025-05-14T12:24:32"
-        },
-        {
-            "personagem": "Hinata Hyuuga from Boruto",
-            "info": "",
-            "arquivo": "Hinata Hyuuga from Boruto.webp",
-            "data_adicao": "2025-05-14T12:24:33"
-        },
-        {
-            "personagem": "Isuzu Sohma - Rin from Fruits Basket",
-            "info": "",
-            "arquivo": "Isuzu Sohma - Rin from Fruits Basket.webp",
-            "data_adicao": "2025-05-14T12:24:36"
-        },
-        {
-            "personagem": "Josee from Josee to Tora to Sakana-tachi [movie] 2",
-            "info": "",
-            "arquivo": "Josee from Josee to Tora to Sakana-tachi [movie] 2.webp",
-            "data_adicao": "2025-05-14T12:24:39"
-        },
-        {
-            "personagem": "Josee from Josee to Tora to Sakana-tachi [movie] 3",
-            "info": "",
-            "arquivo": "Josee from Josee to Tora to Sakana-tachi [movie] 3.webp",
-            "data_adicao": "2025-05-14T12:24:39"
-        },
-        {
-            "personagem": "Kasey from Super Crooks [ep10] 2",
-            "info": "",
-            "arquivo": "Kasey from Super Crooks [ep10] 2.webp",
-            "data_adicao": "2025-05-14T12:24:43"
-        },
-        {
-            "personagem": "Kuguru Sahara from PetoPeto-san",
-            "info": "",
-            "arquivo": "Kuguru Sahara from PetoPeto-san.webp",
-            "data_adicao": "2025-05-14T12:24:45"
-        },
-        {
-            "personagem": "Kuugen Tenko from Wagaya no Oinari-sama",
-            "info": "",
-            "arquivo": "Kuugen Tenko from Wagaya no Oinari-sama.webp",
-            "data_adicao": "2025-05-14T12:24:45"
-        },
-        {
-            "personagem": "Liscia Elfrieden from Genjitsu Shugi Yuusha no Oukoku Saikenki [episode 9] 2",
-            "info": "",
-            "arquivo": "Liscia Elfrieden from Genjitsu Shugi Yuusha no Oukoku Saikenki [episode 9] 2.webp",
-            "data_adicao": "2025-05-14T12:24:48"
-        },
-        {
-            "personagem": "Misa Hagashita from Zombie Land Saga [s2e6] 2",
-            "info": "",
-            "arquivo": "Misa Hagashita from Zombie Land Saga [s2e6] 2.webp",
-            "data_adicao": "2025-05-14T12:25:02"
-        },
-        {
-            "personagem": "Nanako Tenjou from Devils Line",
-            "info": "",
-            "arquivo": "Nanako Tenjou from Devils Line.webp",
-            "data_adicao": "2025-05-14T12:24:39"
-        },
-        {
-            "personagem": "Ryoko Sakaki from Shokugeki no Soma [s4e12] 2",
-            "info": "",
-            "arquivo": "Ryoko Sakaki from Shokugeki no Soma [s4e12] 2.webp",
-            "data_adicao": "2025-05-14T12:25:20"
-        },
-        {
-            "personagem": "Shion Kamiya from Aikatsu [episode 14]2",
-            "info": "",
-            "arquivo": "Shion Kamiya from Aikatsu [episode 14]2.webp",
-            "data_adicao": "2025-05-14T12:25:27"
-        },
-        {
-            "personagem": "Wendy Marvell from Fairy Tail [ep 250] 2",
-            "info": "",
-            "arquivo": "Wendy Marvell from Fairy Tail [ep 250] 2.webp",
-            "data_adicao": "2025-05-14T12:25:39"
-        },
-        {
-            "personagem": "Yumi Ikoma from Soukyuu no Fafner Dead Aggressor Right of Left",
-            "info": "",
-            "arquivo": "Yumi Ikoma from Soukyuu no Fafner Dead Aggressor Right of Left.webp",
-            "data_adicao": "2025-05-14T12:25:40"
         }
     ],
     "Fairy Tail": [
@@ -543,6 +435,12 @@ const dados = {
             "info": "ep 250",
             "arquivo": "Wendy Marvell from Fairy Tail [ep 250].webp",
             "data_adicao": "2025-05-14T12:25:39"
+        },
+        {
+            "personagem": "Wendy Marvell",
+            "info": "episode 250",
+            "arquivo": "Wendy Marvell from Fairy Tail [episode 250].webp",
+            "data_adicao": "2025-05-14T12:25:39"
         }
     ],
     "Hunter x Hunter": [
@@ -551,6 +449,14 @@ const dados = {
             "info": "ep 63",
             "arquivo": "Biscuit Krueger from Hunter x Hunter [ep 63].webp",
             "data_adicao": "2025-05-14T12:24:22"
+        }
+    ],
+    "Houseki no Kuni": [
+        {
+            "personagem": "Bort",
+            "info": "episode",
+            "arquivo": "Bort from Houseki no Kuni [episode ].webp",
+            "data_adicao": "2025-05-14T12:24:23"
         }
     ],
     "Patapata Hikousen no Bouken": [
@@ -737,6 +643,14 @@ const dados = {
             "data_adicao": "2025-05-14T12:24:27"
         }
     ],
+    "Duel Master WIN Duel Academy": [
+        {
+            "personagem": "Eliza",
+            "info": "episode",
+            "arquivo": "Eliza from Duel Master WIN Duel Academy [episode ].webp",
+            "data_adicao": "2025-05-14T12:24:27"
+        }
+    ],
     "Kobayashi-san Chi no Maid": [
         {
             "personagem": "Elma",
@@ -889,6 +803,26 @@ const dados = {
             "info": "ep 9",
             "arquivo": "Gaw Ha Leccee from Heavy Metal L-Gaim [ep 9].webp",
             "data_adicao": "2025-05-14T12:24:28"
+        }
+    ],
+    "Boku no Hero Academia": [
+        {
+            "personagem": "Girl",
+            "info": "2nd movie",
+            "arquivo": "Girl from Boku no Hero Academia [2nd movie].webp",
+            "data_adicao": "2025-05-14T12:24:22"
+        },
+        {
+            "personagem": "Lady Nagant",
+            "info": "s6e21 flashback",
+            "arquivo": "Lady Nagant from Boku no Hero Academia [s6e21 flashback].webp",
+            "data_adicao": "2025-05-14T12:24:47"
+        },
+        {
+            "personagem": "Rei Todoroki",
+            "info": "flashback s6e17",
+            "arquivo": "Rei Todoroki from Boku no Hero Academia [flashback s6e17].webp",
+            "data_adicao": "2025-05-14T12:25:11"
         }
     ],
     "Shigofumi": [
@@ -1093,6 +1027,14 @@ const dados = {
             "data_adicao": "2025-05-14T12:24:32"
         }
     ],
+    "Non Non Biyori": [
+        {
+            "personagem": "Hikage Miyauchi",
+            "info": "episode",
+            "arquivo": "Hikage Miyauchi from Non Non Biyori [episode ].webp",
+            "data_adicao": "2025-05-14T12:24:32"
+        }
+    ],
     "Centaur no Nayami": [
         {
             "personagem": "Hime",
@@ -1128,6 +1070,14 @@ const dados = {
             "personagem": "Hina Satou",
             "info": "episode 10",
             "arquivo": "Hina Satou from Kamisama ni Natta Hi [episode 10].webp",
+            "data_adicao": "2025-05-14T12:24:33"
+        }
+    ],
+    "Boruto": [
+        {
+            "personagem": "Hinata Hyuuga",
+            "info": "episode",
+            "arquivo": "Hinata Hyuuga from Boruto [episode ].webp",
             "data_adicao": "2025-05-14T12:24:33"
         }
     ],
@@ -1245,6 +1195,26 @@ const dados = {
             "data_adicao": "2025-05-14T12:24:36"
         }
     ],
+    "Fruits Basket": [
+        {
+            "personagem": "Isuzu Sohma (Rin)",
+            "info": "episode",
+            "arquivo": "Isuzu Sohma (Rin) from Fruits Basket [episode ].webp",
+            "data_adicao": "2025-05-14T12:24:36"
+        },
+        {
+            "personagem": "Kyoko Honda",
+            "info": "flashback",
+            "arquivo": "Kyoko Honda from Fruits Basket [flashback].webp",
+            "data_adicao": "2025-05-14T12:24:45"
+        },
+        {
+            "personagem": "Mayuko Shiraki",
+            "info": "s3e12",
+            "arquivo": "Mayuko Shiraki from Fruits Basket [s3e12].webp",
+            "data_adicao": "2025-05-14T12:24:52"
+        }
+    ],
     "Saijaku Tamer wa Gomi Hiroi no Tabi wo Hajimemashita": [
         {
             "personagem": "Ivy",
@@ -1303,9 +1273,21 @@ const dados = {
     ],
     "Josee to Tora to Sakana-tachi": [
         {
-            "personagem": "Josee",
+            "personagem": "Josee1",
             "info": "movie",
-            "arquivo": "Josee from Josee to Tora to Sakana-tachi [movie].webp",
+            "arquivo": "Josee1 from Josee to Tora to Sakana-tachi [movie].webp",
+            "data_adicao": "2025-05-14T12:24:39"
+        },
+        {
+            "personagem": "Josee2",
+            "info": "movie",
+            "arquivo": "Josee2 from Josee to Tora to Sakana-tachi [movie].webp",
+            "data_adicao": "2025-05-14T12:24:39"
+        },
+        {
+            "personagem": "Josee3",
+            "info": "movie",
+            "arquivo": "Josee3 from Josee to Tora to Sakana-tachi [movie].webp",
             "data_adicao": "2025-05-14T12:24:39"
         }
     ],
@@ -1456,6 +1438,12 @@ const dados = {
             "personagem": "Kasey",
             "info": "ep10",
             "arquivo": "Kasey from Super Crooks [ep10].webp",
+            "data_adicao": "2025-05-14T12:24:43"
+        },
+        {
+            "personagem": "Kasey",
+            "info": "episode 10",
+            "arquivo": "Kasey from Super Crooks [episode 10].webp",
             "data_adicao": "2025-05-14T12:24:43"
         }
     ],
@@ -1631,6 +1619,14 @@ const dados = {
             "data_adicao": "2025-05-14T12:24:45"
         }
     ],
+    "PetoPeto-san": [
+        {
+            "personagem": "Kuguru Sahara",
+            "info": "episode",
+            "arquivo": "Kuguru Sahara from PetoPeto-san [episode ].webp",
+            "data_adicao": "2025-05-14T12:24:45"
+        }
+    ],
     "Mahoujin Guru Guru": [
         {
             "personagem": "Kukuri",
@@ -1647,18 +1643,12 @@ const dados = {
             "data_adicao": "2025-05-14T12:24:45"
         }
     ],
-    "Fruits Basket": [
+    "Wagaya no Oinari-sama": [
         {
-            "personagem": "Kyoko Honda",
-            "info": "flashback",
-            "arquivo": "Kyoko Honda from Fruits Basket [flashback].webp",
+            "personagem": "Kuugen Tenko",
+            "info": "episode",
+            "arquivo": "Kuugen Tenko from Wagaya no Oinari-sama [episode ].webp",
             "data_adicao": "2025-05-14T12:24:45"
-        },
-        {
-            "personagem": "Mayuko Shiraki",
-            "info": "s3e12",
-            "arquivo": "Mayuko Shiraki from Fruits Basket [s3e12].webp",
-            "data_adicao": "2025-05-14T12:24:52"
         }
     ],
     "Skip Beat": [
@@ -1691,20 +1681,6 @@ const dados = {
             "info": "s2e6 flashback",
             "arquivo": "Kyouko Shirafuji from Wagnaria[Working] [s2e6 flashback].webp",
             "data_adicao": "2025-05-14T12:24:47"
-        }
-    ],
-    "Boku no Hero Academia": [
-        {
-            "personagem": "Lady Nagant",
-            "info": "s6e21 flashback",
-            "arquivo": "Lady Nagant from Boku no Hero Academia [s6e21 flashback].webp",
-            "data_adicao": "2025-05-14T12:24:47"
-        },
-        {
-            "personagem": "Rei Todoroki",
-            "info": "flashback s6e17",
-            "arquivo": "Rei Todoroki from Boku no Hero Academia [flashback s6e17].webp",
-            "data_adicao": "2025-05-14T12:25:11"
         }
     ],
     "Kaleido Star Legend of Phoenix": [
@@ -1768,6 +1744,12 @@ const dados = {
         }
     ],
     "Genjitsu Shugi Yuusha no Oukoku Saikenki": [
+        {
+            "personagem": "Liscia Elfrieden",
+            "info": "episode  9",
+            "arquivo": "Liscia Elfrieden from Genjitsu Shugi Yuusha no Oukoku Saikenki [episode  9].webp",
+            "data_adicao": "2025-05-14T12:24:48"
+        },
         {
             "personagem": "Liscia Elfrieden",
             "info": "episode 9",
@@ -2134,6 +2116,12 @@ const dados = {
     "Zombie Land Saga": [
         {
             "personagem": "Misa Hagashita",
+            "info": "s2 e6",
+            "arquivo": "Misa Hagashita from Zombie Land Saga [s2 e6].webp",
+            "data_adicao": "2025-05-14T12:25:02"
+        },
+        {
+            "personagem": "Misa Hagashita",
             "info": "s2e6",
             "arquivo": "Misa Hagashita from Zombie Land Saga [s2e6].webp",
             "data_adicao": "2025-05-14T12:25:02"
@@ -2303,6 +2291,14 @@ const dados = {
             "info": "episode 12",
             "arquivo": "Nanaho Kinjo from Gokujo Seitokai [episode 12].webp",
             "data_adicao": "2025-05-14T12:25:05"
+        }
+    ],
+    "Devils Line": [
+        {
+            "personagem": "Nanako Tenjou",
+            "info": "episode",
+            "arquivo": "Nanako Tenjou from Devils Line [episode ].webp",
+            "data_adicao": "2025-05-14T12:24:39"
         }
     ],
     "Lamune": [
@@ -2547,6 +2543,12 @@ const dados = {
             "info": "s3e7 flashback",
             "arquivo": "Rindo Kobayashi from Shokugeki no Soma [s3e7 flashback].webp",
             "data_adicao": "2025-05-14T12:25:11"
+        },
+        {
+            "personagem": "Ryoko Sakaki",
+            "info": "s4 e12",
+            "arquivo": "Ryoko Sakaki from Shokugeki no Soma [s4 e12].webp",
+            "data_adicao": "2025-05-14T12:25:20"
         },
         {
             "personagem": "Ryoko Sakaki",
@@ -3366,6 +3368,14 @@ const dados = {
             "personagem": "Yumi Iguchi",
             "info": "episode 8 flashback",
             "arquivo": "Yumi Iguchi from Shirobako [episode 8 flashback].webp",
+            "data_adicao": "2025-05-14T12:25:40"
+        }
+    ],
+    "Soukyuu no Fafner Dead Aggressor Right of Left": [
+        {
+            "personagem": "Yumi Ikoma",
+            "info": "episode 1",
+            "arquivo": "Yumi Ikoma from Soukyuu no Fafner Dead Aggressor Right of Left [episode 1].webp",
             "data_adicao": "2025-05-14T12:25:40"
         }
     ],

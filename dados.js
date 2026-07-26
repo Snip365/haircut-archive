@@ -1103,54 +1103,12 @@ const dados = {
             "data_adicao": "2025-05-14T12:26:14"
         }
     ],
-    "SEM IDENTIFICAÇÃO": [
+    "I Tried To Be Her Loyal Sword": [
         {
-            "personagem": "Aria from I Tried To Be Her Loyal Sword [충직한 검이 되려 했는데] chapter 88",
-            "info": "",
-            "arquivo": "Aria from I Tried To Be Her Loyal Sword [충직한 검이 되려 했는데] chapter 88.webp",
+            "personagem": "Aria",
+            "info": "충직한 검이 되려 했는데][chapter 88",
+            "arquivo": "Aria from I Tried To Be Her Loyal Sword [충직한 검이 되려 했는데][chapter 88].webp",
             "data_adicao": "2026-07-26T16:59:35"
-        },
-        {
-            "personagem": "Himukai Nichiko from Inu to Sandbag[犬とサンドバッグ][chapter 1]",
-            "info": "",
-            "arquivo": "Himukai Nichiko from Inu to Sandbag[犬とサンドバッグ][chapter 1].webp",
-            "data_adicao": "2026-07-26T16:59:35"
-        },
-        {
-            "personagem": "Houkago no Goumon Shoujo [vol 8 flashback]",
-            "info": "",
-            "arquivo": "Houkago no Goumon Shoujo [vol 8 flashback].webp",
-            "data_adicao": "2025-05-14T12:28:21"
-        },
-        {
-            "personagem": "Hyun Jang from Ouroboros The Social Cycle [chapter 22] 1",
-            "info": "",
-            "arquivo": "Hyun Jang from Ouroboros The Social Cycle [chapter 22] 1.webp",
-            "data_adicao": "2026-07-26T16:59:35"
-        },
-        {
-            "personagem": "Hyun Jang from Ouroboros The Social Cycle [chapter 76] 2",
-            "info": "",
-            "arquivo": "Hyun Jang from Ouroboros The Social Cycle [chapter 76] 2.webp",
-            "data_adicao": "2026-07-26T16:59:35"
-        },
-        {
-            "personagem": "Liliane Mujikaku na Tensai Shoujo wa Kizukanai [無自覚な天才少女は気付かない] [vol 1]",
-            "info": "",
-            "arquivo": "Liliane Mujikaku na Tensai Shoujo wa Kizukanai [無自覚な天才少女は気付かない] [vol 1].webp",
-            "data_adicao": "2025-05-14T12:29:54"
-        },
-        {
-            "personagem": "SKI [chap 6 - scene]",
-            "info": "",
-            "arquivo": "SKI [chap 6 - scene].webp",
-            "data_adicao": "2026-07-26T16:59:35"
-        },
-        {
-            "personagem": "Sunami Yuuko And The Yuri People [chapter ]",
-            "info": "",
-            "arquivo": "Sunami Yuuko And The Yuri People [chapter ].webp",
-            "data_adicao": "2025-05-14T12:33:06"
         }
     ],
     "Updater": [
@@ -4575,6 +4533,14 @@ const dados = {
             "data_adicao": "2025-05-14T12:27:37"
         }
     ],
+    "Houkago no Goumon Shoujo": [
+        {
+            "personagem": "Girl",
+            "info": "vol 8 flashback",
+            "arquivo": "Girl from Houkago no Goumon Shoujo [vol 8 flashback].webp",
+            "data_adicao": "2025-05-14T12:28:21"
+        }
+    ],
     "Kita no Sushi Hime": [
         {
             "personagem": "Girl",
@@ -4628,6 +4594,14 @@ const dados = {
             "personagem": "Girl",
             "info": "author Kaiko Fuyumushi] [chapter 2",
             "arquivo": "Girl from Shojo no Mayu [author Kaiko Fuyumushi] [chapter 2].webp",
+            "data_adicao": "2026-07-26T16:59:35"
+        }
+    ],
+    "SKI": [
+        {
+            "personagem": "Girl",
+            "info": "chap 6 - scene",
+            "arquivo": "Girl from SKI [chap 6 - scene].webp",
             "data_adicao": "2026-07-26T16:59:35"
         }
     ],
@@ -5841,6 +5815,14 @@ const dados = {
             "data_adicao": "2025-05-14T12:31:40"
         }
     ],
+    "Inu to Sandbag": [
+        {
+            "personagem": "Himukai Nichiko",
+            "info": "犬とサンドバッグ][chapter 1",
+            "arquivo": "Himukai Nichiko from Inu to Sandbag [犬とサンドバッグ][chapter 1].webp",
+            "data_adicao": "2026-07-26T16:59:35"
+        }
+    ],
     "Hina Change": [
         {
             "personagem": "Hina Amano",
@@ -6319,6 +6301,18 @@ const dados = {
             "info": "s3ch20",
             "arquivo": "Hyun from Ouroboros The Social Cycle [s3ch20].webp",
             "data_adicao": "2025-05-14T12:28:24"
+        },
+        {
+            "personagem": "Hyun Jang",
+            "info": "chapter 22",
+            "arquivo": "Hyun Jang from Ouroboros The Social Cycle [chapter 22].webp",
+            "data_adicao": "2026-07-26T16:59:35"
+        },
+        {
+            "personagem": "Hyun Jang",
+            "info": "chapter 76",
+            "arquivo": "Hyun Jang from Ouroboros The Social Cycle [chapter 76].webp",
+            "data_adicao": "2026-07-26T16:59:35"
         },
         {
             "personagem": "Jung",
@@ -9502,6 +9496,14 @@ const dados = {
             "personagem": "Liliana",
             "info": "chapter 1",
             "arquivo": "Liliana from リリアーナの黒髪 [chapter 1].webp",
+            "data_adicao": "2025-05-14T12:29:54"
+        }
+    ],
+    "Mujikaku na Tensai Shoujo wa Kizukanai": [
+        {
+            "personagem": "Liliane",
+            "info": "無自覚な天才少女は気付かない] [vol 1",
+            "arquivo": "Liliane from Mujikaku na Tensai Shoujo wa Kizukanai [無自覚な天才少女は気付かない] [vol 1].webp",
             "data_adicao": "2025-05-14T12:29:54"
         }
     ],
@@ -16755,6 +16757,14 @@ const dados = {
             "info": "ch 64",
             "arquivo": "Sumire from Ecstasy Hearts [ch 64].webp",
             "data_adicao": "2025-05-14T12:33:05"
+        }
+    ],
+    "Yuuko And The Yuri People": [
+        {
+            "personagem": "Sunami",
+            "info": "chapter",
+            "arquivo": "Sunami from Yuuko And The Yuri People [chapter ].webp",
+            "data_adicao": "2025-05-14T12:33:06"
         }
     ],
     "Free Throw": [
