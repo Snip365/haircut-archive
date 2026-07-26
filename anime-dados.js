@@ -86,7 +86,7 @@ const dados = {
     "Housekishou Richard-shi no Nazo Kantei": [
         {
             "personagem": "Akashi Mami",
-            "info": "episode 2",
+            "info": "ep 2",
             "arquivo": "Akashi Mami from Housekishou Richard-shi no Nazo Kantei [ep 2].webp",
             "data_adicao": "2026-07-25"
         }
@@ -110,7 +110,7 @@ const dados = {
     "Tekkaman Blade": [
         {
             "personagem": "Aki",
-            "info": "episode 49",
+            "info": "ep 49",
             "arquivo": "Aki from Tekkaman Blade [ep 49].webp",
             "data_adicao": "2026-07-25"
         }
@@ -168,7 +168,7 @@ const dados = {
     "Special A": [
         {
             "personagem": "Akira Todo",
-            "info": "episode 18",
+            "info": "ep18",
             "arquivo": "Akira Todo from Special A [ep18].webp",
             "data_adicao": "2026-07-25"
         }
@@ -559,6 +559,14 @@ const dados = {
             "info": "episode 12",
             "arquivo": "Camille Jil Hanan from Patapata Hikousen no Bouken [episode 12].webp",
             "data_adicao": "2026-07-25"
+        }
+    ],
+    "Love Through a Prism": [
+        {
+            "personagem": "Catherine",
+            "info": "episode 20",
+            "arquivo": "Catherine from Love Through a Prism [episode 20].webp",
+            "data_adicao": "2026-07-26T10:59:59"
         }
     ],
     "Gundam F91": [
