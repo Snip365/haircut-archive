@@ -4,13 +4,13 @@ const dados = {
             "personagem": "Abby",
             "info": "episode 23",
             "arquivo": "Abby from Great Pretender [episode 23].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:15"
         },
         {
             "personagem": "Dorothy",
             "info": "episode 23",
             "arquivo": "Dorothy from Great Pretender [episode 23].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:24"
         }
     ],
     "Kaito Joker": [
@@ -18,7 +18,7 @@ const dados = {
             "personagem": "Ai",
             "info": "s4e4",
             "arquivo": "Ai from Kaito Joker [s4e4].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:15"
         }
     ],
     "Nazo no Kanojo": [
@@ -26,7 +26,7 @@ const dados = {
             "personagem": "Aika Hayakawa",
             "info": "episode 10",
             "arquivo": "Aika Hayakawa from Nazo no Kanojo [episode 10].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:15"
         }
     ],
     "Aria the Natural": [
@@ -34,7 +34,7 @@ const dados = {
             "personagem": "Aika S. Granzchesta",
             "info": "episode 18",
             "arquivo": "Aika S. Granzchesta from Aria the Natural [episode 18].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:15"
         }
     ],
     "Bakuman": [
@@ -42,7 +42,7 @@ const dados = {
             "personagem": "Aiko Iwase",
             "info": "timeskip",
             "arquivo": "Aiko Iwase from Bakuman [timeskip].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:15"
         }
     ],
     "Ranma ½": [
@@ -50,7 +50,7 @@ const dados = {
             "personagem": "Akane Tendou",
             "info": "ep 8",
             "arquivo": "Akane Tendou from Ranma ½ [ep 8].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:15"
         }
     ],
     "Battle Athletess Daiundoukai": [
@@ -58,7 +58,7 @@ const dados = {
             "personagem": "Akari Kanzaki",
             "info": "ep6",
             "arquivo": "Akari Kanzaki from Battle Athletess Daiundoukai [ep6].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:15"
         }
     ],
     "Aikatsu": [
@@ -66,13 +66,13 @@ const dados = {
             "personagem": "Akari Oozora",
             "info": "episode 78",
             "arquivo": "Akari Oozora from Aikatsu [episode 78].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:15"
         },
         {
             "personagem": "Shion Kamiya",
             "info": "episode 14",
             "arquivo": "Shion Kamiya from Aikatsu [episode 14].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:27"
         }
     ],
     "Nagi no Asu Kara": [
@@ -80,7 +80,7 @@ const dados = {
             "personagem": "Akari Sakishima",
             "info": "grow her hair after timeskip",
             "arquivo": "Akari Sakishima from Nagi no Asu Kara [grow her hair after timeskip].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:17"
         }
     ],
     "Housekishou Richard-shi no Nazo Kantei": [
@@ -88,7 +88,7 @@ const dados = {
             "personagem": "Akashi Mami",
             "info": "ep 2",
             "arquivo": "Akashi Mami from Housekishou Richard-shi no Nazo Kantei [ep 2].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:17"
         }
     ],
     "Masamune Revenge R": [
@@ -96,7 +96,7 @@ const dados = {
             "personagem": "Aki Adagaki",
             "info": "episode 12",
             "arquivo": "Aki Adagaki from Masamune Revenge R [episode 12].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:17"
         }
     ],
     "Masamune-kun no Revenge": [
@@ -104,7 +104,7 @@ const dados = {
             "personagem": "Aki Adagaki",
             "info": "OVA 1",
             "arquivo": "Aki Adagaki from Masamune-kun no Revenge [OVA 1].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:17"
         }
     ],
     "Tekkaman Blade": [
@@ -112,7 +112,7 @@ const dados = {
             "personagem": "Aki",
             "info": "ep 49",
             "arquivo": "Aki from Tekkaman Blade [ep 49].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:17"
         }
     ],
     "Ai Tenshi Densetsu Wedding Peach": [
@@ -120,7 +120,7 @@ const dados = {
             "personagem": "Akiko",
             "info": "ep28",
             "arquivo": "Akiko from Ai Tenshi Densetsu Wedding Peach [ep28].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:17"
         }
     ],
     "Valkyrie Drive Mermaid": [
@@ -128,13 +128,13 @@ const dados = {
             "personagem": "Akira Hiiragi",
             "info": "ep7 wig",
             "arquivo": "Akira Hiiragi from Valkyrie Drive Mermaid [ep7 wig].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:17"
         },
         {
             "personagem": "Kasumi Shigure",
             "info": "episode 10",
             "arquivo": "Kasumi Shigure from Valkyrie Drive Mermaid [episode 10].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:43"
         }
     ],
     "Ballroom e Youkoso": [
@@ -142,13 +142,13 @@ const dados = {
             "personagem": "Akira Koumoto",
             "info": "episode 19",
             "arquivo": "Akira Koumoto from Ballroom e Youkoso [episode 19].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:18"
         },
         {
             "personagem": "Chinatsu Hiyama",
             "info": "episode 19",
             "arquivo": "Chinatsu Hiyama from Ballroom e Youkoso [episode 19].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:23"
         }
     ],
     "Narutaru": [
@@ -156,13 +156,13 @@ const dados = {
             "personagem": "Akira Sakura",
             "info": "episode 4",
             "arquivo": "Akira Sakura from Narutaru [episode 4].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:18"
         },
         {
             "personagem": "Shiina Tamai",
             "info": "episode 13",
             "arquivo": "Shiina Tamai from Narutaru [episode 13].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:27"
         }
     ],
     "Special A": [
@@ -170,7 +170,7 @@ const dados = {
             "personagem": "Akira Todo",
             "info": "ep18",
             "arquivo": "Akira Todo from Special A [ep18].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:18"
         }
     ],
     "Uchuu Senkan Yamato 2199": [
@@ -178,7 +178,7 @@ const dados = {
             "personagem": "Akira Yamamoto",
             "info": "episode 2",
             "arquivo": "Akira Yamamoto from Uchuu Senkan Yamato 2199 [episode 2].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:18"
         }
     ],
     "Trese": [
@@ -186,7 +186,7 @@ const dados = {
             "personagem": "Alexandra",
             "info": "episode 5",
             "arquivo": "Alexandra from Trese [episode 5].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:18"
         }
     ],
     "Pumpkin Scissors": [
@@ -194,7 +194,7 @@ const dados = {
             "personagem": "Alice L. Malvin",
             "info": "ep1",
             "arquivo": "Alice L. Malvin from Pumpkin Scissors [ep1].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:18"
         }
     ],
     "Mahoutsukai no Yome": [
@@ -202,19 +202,19 @@ const dados = {
             "personagem": "Alice Swayne",
             "info": "s2e2",
             "arquivo": "Alice Swayne from Mahoutsukai no Yome [s2e2].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:18"
         },
         {
             "personagem": "Chise Hatori",
             "info": "s2e8",
             "arquivo": "Chise Hatori from Mahoutsukai no Yome [s2e8].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:24"
         },
         {
             "personagem": "Jasmine",
             "info": "s2e16",
             "arquivo": "Jasmine from Mahoutsukai no Yome [s2e16].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:38"
         }
     ],
     "Blade & Soul": [
@@ -222,7 +222,7 @@ const dados = {
             "personagem": "Alka",
             "info": "episode 1",
             "arquivo": "Alka from Blade & Soul [episode 1].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:18"
         }
     ],
     "Guin Saga": [
@@ -230,7 +230,7 @@ const dados = {
             "personagem": "Amnelis",
             "info": "episode 22",
             "arquivo": "Amnelis from Guin Saga [episode 22].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:18"
         }
     ],
     "Dragon Ball Z": [
@@ -238,13 +238,13 @@ const dados = {
             "personagem": "Android 18",
             "info": "episode 290",
             "arquivo": "Android 18 from Dragon Ball Z [episode 290].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:18"
         },
         {
             "personagem": "Videl",
             "info": "episode 207",
             "arquivo": "Videl from Dragon Ball Z [episode 207].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:38"
         }
     ],
     "Four Knights of the Apocalypse": [
@@ -252,7 +252,7 @@ const dados = {
             "personagem": "Anghalhad",
             "info": "ep 7",
             "arquivo": "Anghalhad from Four Knights of the Apocalypse [ep 7].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:19"
         }
     ],
     "takt op destiny": [
@@ -260,7 +260,7 @@ const dados = {
             "personagem": "Anna Scheneider",
             "info": "ep12",
             "arquivo": "Anna Scheneider from takt op destiny [ep12].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:19"
         }
     ],
     "Anne of Green Gables": [
@@ -268,7 +268,7 @@ const dados = {
             "personagem": "Anne",
             "info": "episode 30",
             "arquivo": "Anne from Anne of Green Gables [episode 30].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:19"
         }
     ],
     "Durarara": [
@@ -276,7 +276,7 @@ const dados = {
             "personagem": "Anri Sonohara",
             "info": "epiode 16 flashback",
             "arquivo": "Anri Sonohara from Durarara [epiode 16 flashback].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:19"
         }
     ],
     "Birdie Wing Golf Girls Story": [
@@ -284,13 +284,13 @@ const dados = {
             "personagem": "Aoi Amawashi",
             "info": "s2e12",
             "arquivo": "Aoi Amawashi from Birdie Wing Golf Girls Story [s2e12].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:19"
         },
         {
             "personagem": "Evangeline Burton",
             "info": "s2e12",
             "arquivo": "Evangeline Burton from Birdie Wing Golf Girls Story [s2e12].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:27"
         }
     ],
     "3D Kanojo": [
@@ -298,13 +298,13 @@ const dados = {
             "personagem": "Arisa Ishino",
             "info": "s2e11",
             "arquivo": "Arisa Ishino from 3D Kanojo [s2e11].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:19"
         },
         {
             "personagem": "Iroha Igarashi",
             "info": "s2e11",
             "arquivo": "Iroha Igarashi from 3D Kanojo [s2e11].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:35"
         }
     ],
     "Arte": [
@@ -312,7 +312,7 @@ const dados = {
             "personagem": "Arte Spaletti",
             "info": "episode 1",
             "arquivo": "Arte Spaletti from Arte [episode 1].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:19"
         }
     ],
     "Evangelion 3 (46h)": [
@@ -320,13 +320,13 @@ const dados = {
             "personagem": "Asuka Shikinami Langley",
             "info": "ova",
             "arquivo": "Asuka Shikinami Langley from Evangelion 3 (46h) [ova].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:20"
         },
         {
             "personagem": "Midori Kitakami",
             "info": "ova",
             "arquivo": "Midori Kitakami from Evangelion 3 (46h) [ova].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:54"
         }
     ],
     "Future GPX Cyber Formula Zero": [
@@ -334,7 +334,7 @@ const dados = {
             "personagem": "Asuka Sugō",
             "info": "episode 5",
             "arquivo": "Asuka Sugō from Future GPX Cyber Formula Zero [episode 5].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:21"
         }
     ],
     "Ayashi no Ceres": [
@@ -342,7 +342,7 @@ const dados = {
             "personagem": "Aya Mikage",
             "info": "ep15",
             "arquivo": "Aya Mikage from Ayashi no Ceres [ep15].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:21"
         }
     ],
     "Kageki Shoujo": [
@@ -350,13 +350,13 @@ const dados = {
             "personagem": "Ayako Yamada",
             "info": "episode 12 flashback",
             "arquivo": "Ayako Yamada from Kageki Shoujo [episode 12 flashback].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:21"
         },
         {
             "personagem": "Kaoru Hoshino",
             "info": "s1e8",
             "arquivo": "Kaoru Hoshino from Kageki Shoujo [s1e8].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:40"
         }
     ],
     "Glass no Kamen": [
@@ -364,7 +364,7 @@ const dados = {
             "personagem": "Ayumi Himekawa",
             "info": "episode 14",
             "arquivo": "Ayumi Himekawa from Glass no Kamen [episode 14].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:22"
         }
     ],
     "The Idolmaster": [
@@ -372,7 +372,7 @@ const dados = {
             "personagem": "Azusa Miura",
             "info": "episode 6",
             "arquivo": "Azusa Miura from The Idolmaster [episode 6].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:22"
         }
     ],
     "Haikara-san ga Tooru": [
@@ -380,7 +380,7 @@ const dados = {
             "personagem": "Benio Hanamura",
             "info": "ep 32",
             "arquivo": "Benio Hanamura from Haikara-san ga Tooru [ep 32].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:22"
         }
     ],
     "Haikara-san ga Tooru Benio Hana no 17-sai": [
@@ -388,7 +388,7 @@ const dados = {
             "personagem": "Benio Hanamura",
             "info": "movie 1",
             "arquivo": "Benio Hanamura from Haikara-san ga Tooru Benio Hana no 17-sai [movie 1].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:22"
         }
     ],
     "SEM IDENTIFICAÇÃO": [
@@ -396,121 +396,121 @@ const dados = {
             "personagem": "Benten from Uchouten Kazoku",
             "info": "",
             "arquivo": "Benten from Uchouten Kazoku.webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:22"
         },
         {
             "personagem": "Boku no Hero Academia [2nd movie]",
             "info": "",
             "arquivo": "Boku no Hero Academia [2nd movie].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:22"
         },
         {
             "personagem": "Bort from Houseki no Kuni",
             "info": "",
             "arquivo": "Bort from Houseki no Kuni.webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:23"
         },
         {
             "personagem": "Eliza from Duel Master WIN Duel Academy",
             "info": "",
             "arquivo": "Eliza from Duel Master WIN Duel Academy.webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:27"
         },
         {
             "personagem": "ERsS6ryUwAAoi6M",
             "info": "",
             "arquivo": "ERsS6ryUwAAoi6M.webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:27"
         },
         {
             "personagem": "Hikage Miyauchi from Non Non Biyori",
             "info": "",
             "arquivo": "Hikage Miyauchi from Non Non Biyori.webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:32"
         },
         {
             "personagem": "Hinata Hyuuga from Boruto",
             "info": "",
             "arquivo": "Hinata Hyuuga from Boruto.webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:33"
         },
         {
             "personagem": "Isuzu Sohma - Rin from Fruits Basket",
             "info": "",
             "arquivo": "Isuzu Sohma - Rin from Fruits Basket.webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:36"
         },
         {
             "personagem": "Josee from Josee to Tora to Sakana-tachi [movie] 2",
             "info": "",
             "arquivo": "Josee from Josee to Tora to Sakana-tachi [movie] 2.webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:39"
         },
         {
             "personagem": "Josee from Josee to Tora to Sakana-tachi [movie] 3",
             "info": "",
             "arquivo": "Josee from Josee to Tora to Sakana-tachi [movie] 3.webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:39"
         },
         {
             "personagem": "Kasey from Super Crooks [ep10] 2",
             "info": "",
             "arquivo": "Kasey from Super Crooks [ep10] 2.webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:43"
         },
         {
             "personagem": "Kuguru Sahara from PetoPeto-san",
             "info": "",
             "arquivo": "Kuguru Sahara from PetoPeto-san.webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:45"
         },
         {
             "personagem": "Kuugen Tenko from Wagaya no Oinari-sama",
             "info": "",
             "arquivo": "Kuugen Tenko from Wagaya no Oinari-sama.webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:45"
         },
         {
             "personagem": "Liscia Elfrieden from Genjitsu Shugi Yuusha no Oukoku Saikenki [episode 9] 2",
             "info": "",
             "arquivo": "Liscia Elfrieden from Genjitsu Shugi Yuusha no Oukoku Saikenki [episode 9] 2.webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:48"
         },
         {
             "personagem": "Misa Hagashita from Zombie Land Saga [s2e6] 2",
             "info": "",
             "arquivo": "Misa Hagashita from Zombie Land Saga [s2e6] 2.webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:02"
         },
         {
             "personagem": "Nanako Tenjou from Devils Line",
             "info": "",
             "arquivo": "Nanako Tenjou from Devils Line.webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:39"
         },
         {
             "personagem": "Ryoko Sakaki from Shokugeki no Soma [s4e12] 2",
             "info": "",
             "arquivo": "Ryoko Sakaki from Shokugeki no Soma [s4e12] 2.webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:20"
         },
         {
             "personagem": "Shion Kamiya from Aikatsu [episode 14]2",
             "info": "",
             "arquivo": "Shion Kamiya from Aikatsu [episode 14]2.webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:27"
         },
         {
             "personagem": "Wendy Marvell from Fairy Tail [ep 250] 2",
             "info": "",
             "arquivo": "Wendy Marvell from Fairy Tail [ep 250] 2.webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:39"
         },
         {
             "personagem": "Yumi Ikoma from Soukyuu no Fafner Dead Aggressor Right of Left",
             "info": "",
             "arquivo": "Yumi Ikoma from Soukyuu no Fafner Dead Aggressor Right of Left.webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:40"
         }
     ],
     "Fairy Tail": [
@@ -518,31 +518,31 @@ const dados = {
             "personagem": "Bisca Connell",
             "info": "grow her hair",
             "arquivo": "Bisca Connell from Fairy Tail [grow her hair].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:22"
         },
         {
             "personagem": "Juvia Lockser",
             "info": "episode 41",
             "arquivo": "Juvia Lockser from Fairy Tail [episode 41].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:39"
         },
         {
             "personagem": "Laki Olietta",
             "info": "ep43",
             "arquivo": "Laki Olietta from Fairy Tail [ep43].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:47"
         },
         {
             "personagem": "Lucy Ashley",
             "info": "ep81",
             "arquivo": "Lucy Ashley from Fairy Tail [ep81].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:50"
         },
         {
             "personagem": "Wendy Marvell",
             "info": "ep 250",
             "arquivo": "Wendy Marvell from Fairy Tail [ep 250].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:39"
         }
     ],
     "Hunter x Hunter": [
@@ -550,7 +550,7 @@ const dados = {
             "personagem": "Biscuit Krueger",
             "info": "ep 63",
             "arquivo": "Biscuit Krueger from Hunter x Hunter [ep 63].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:22"
         }
     ],
     "Patapata Hikousen no Bouken": [
@@ -558,7 +558,7 @@ const dados = {
             "personagem": "Camille Jil Hanan",
             "info": "episode 12",
             "arquivo": "Camille Jil Hanan from Patapata Hikousen no Bouken [episode 12].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:23"
         }
     ],
     "Love Through a Prism": [
@@ -566,7 +566,7 @@ const dados = {
             "personagem": "Catherine",
             "info": "episode 20",
             "arquivo": "Catherine from Love Through a Prism [episode 20].webp",
-            "data_adicao": "2026-07-26T10:59:59"
+            "data_adicao": "2026-07-26T10:59:54"
         }
     ],
     "Gundam F91": [
@@ -574,7 +574,7 @@ const dados = {
             "personagem": "Cecily Fairchild",
             "info": "movie",
             "arquivo": "Cecily Fairchild from Gundam F91 [movie].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:23"
         }
     ],
     "Juushin Enbu": [
@@ -582,7 +582,7 @@ const dados = {
             "personagem": "Chaka",
             "info": "ep 25",
             "arquivo": "Chaka from Juushin Enbu [ep 25].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:23"
         }
     ],
     "GAMERS!": [
@@ -590,7 +590,7 @@ const dados = {
             "personagem": "Chiaki Hoshinomori",
             "info": "episode 3",
             "arquivo": "Chiaki Hoshinomori from GAMERS! [episode 3].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:23"
         }
     ],
     "Junji Ito Maniac": [
@@ -598,7 +598,7 @@ const dados = {
             "personagem": "Chiemi",
             "info": "episode 5 flashback",
             "arquivo": "Chiemi from Junji Ito Maniac [episode 5 flashback].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:23"
         }
     ],
     "Silent Mobius": [
@@ -606,7 +606,7 @@ const dados = {
             "personagem": "Chinami",
             "info": "episode 7",
             "arquivo": "Chinami from Silent Mobius [episode 7].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:23"
         }
     ],
     "Golden Time": [
@@ -614,13 +614,13 @@ const dados = {
             "personagem": "Chinami Oka",
             "info": "episode 19",
             "arquivo": "Chinami Oka from Golden Time [episode 19].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:23"
         },
         {
             "personagem": "Nana Hayashida",
             "info": "episode 8",
             "arquivo": "Nana Hayashida from Golden Time [episode 8].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:05"
         }
     ],
     "Anohana": [
@@ -628,7 +628,7 @@ const dados = {
             "personagem": "Chiriko Tsurumi",
             "info": "ep10",
             "arquivo": "Chiriko Tsurumi from Anohana [ep10].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:23"
         }
     ],
     "Osake wa Fuufu ni Natte kara": [
@@ -636,7 +636,7 @@ const dados = {
             "personagem": "Chisato Mizusawa",
             "info": "ep 11 flashback",
             "arquivo": "Chisato Mizusawa from Osake wa Fuufu ni Natte kara [ep 11 flashback].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:23"
         }
     ],
     "Kingyo Chuuihou": [
@@ -644,7 +644,7 @@ const dados = {
             "personagem": "Chitose",
             "info": "ep52",
             "arquivo": "Chitose from Kingyo Chuuihou [ep52].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:24"
         }
     ],
     "Tsuki ga Michibiku Isekai Douchuu": [
@@ -652,7 +652,7 @@ const dados = {
             "personagem": "Chiya",
             "info": "s2e2",
             "arquivo": "Chiya from Tsuki ga Michibiku Isekai Douchuu [s2e2].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:24"
         }
     ],
     "Nanatsu no Taizai": [
@@ -660,19 +660,19 @@ const dados = {
             "personagem": "Derieri",
             "info": "s2e22",
             "arquivo": "Derieri from Nanatsu no Taizai [s2e22].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:24"
         },
         {
             "personagem": "Elizabeth",
             "info": "s3e19",
             "arquivo": "Elizabeth from Nanatsu no Taizai [s3e19].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:27"
         },
         {
             "personagem": "Guila",
             "info": "s4ep24",
             "arquivo": "Guila from Nanatsu no Taizai [s4ep24].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:29"
         }
     ],
     "Vanitas no Carte": [
@@ -680,7 +680,7 @@ const dados = {
             "personagem": "Dominique de Sade",
             "info": "s2e9",
             "arquivo": "Dominique de Sade from Vanitas no Carte [s2e9].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:24"
         }
     ],
     "Aikatsu Stars": [
@@ -688,7 +688,7 @@ const dados = {
             "personagem": "Eiko",
             "info": "ep 34",
             "arquivo": "Eiko from Aikatsu Stars [ep 34].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:24"
         }
     ],
     "Bokutachi no Remake": [
@@ -696,7 +696,7 @@ const dados = {
             "personagem": "Eiko Kawasegawa",
             "info": "s1e10 timeskip",
             "arquivo": "Eiko Kawasegawa from Bokutachi no Remake [s1e10 timeskip].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:24"
         }
     ],
     "Majo no Tabitabi": [
@@ -704,7 +704,7 @@ const dados = {
             "personagem": "Elaina",
             "info": "episode 8",
             "arquivo": "Elaina from Majo no Tabitabi [episode 8].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:24"
         }
     ],
     "Fushigi no Umi no Nadia": [
@@ -712,7 +712,7 @@ const dados = {
             "personagem": "Electra",
             "info": "ep36",
             "arquivo": "Electra from Fushigi no Umi no Nadia [ep36].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:24"
         }
     ],
     "Star Twinkle Precure": [
@@ -720,13 +720,13 @@ const dados = {
             "personagem": "Elena Amamiya",
             "info": "ep49",
             "arquivo": "Elena Amamiya from Star Twinkle Precure [ep49].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:25"
         },
         {
             "personagem": "Hikaru Hoshina",
             "info": "ep49",
             "arquivo": "Hikaru Hoshina from Star Twinkle Precure [ep49].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:33"
         }
     ],
     "Tensura": [
@@ -734,7 +734,7 @@ const dados = {
             "personagem": "Elf",
             "info": "s2e3",
             "arquivo": "Elf from Tensura [s2e3].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:27"
         }
     ],
     "Kobayashi-san Chi no Maid": [
@@ -742,7 +742,7 @@ const dados = {
             "personagem": "Elma",
             "info": "s2e5",
             "arquivo": "Elma from Kobayashi-san Chi no Maid [s2e5].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:27"
         }
     ],
     "FLCL": [
@@ -750,7 +750,7 @@ const dados = {
             "personagem": "Eri Ninamori",
             "info": "episode 3",
             "arquivo": "Eri Ninamori from FLCL [episode 3].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:27"
         }
     ],
     "Hime-chan no Ribbon": [
@@ -758,7 +758,7 @@ const dados = {
             "personagem": "Erika",
             "info": "episode 17",
             "arquivo": "Erika from Hime-chan no Ribbon [episode 17].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:27"
         }
     ],
     "Ookami Shoujo to Kuro Ouji": [
@@ -766,7 +766,7 @@ const dados = {
             "personagem": "Erika Shinohara",
             "info": "ep 10",
             "arquivo": "Erika Shinohara from Ookami Shoujo to Kuro Ouji [ep 10].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:27"
         }
     ],
     "Mushoku Tensei": [
@@ -774,7 +774,7 @@ const dados = {
             "personagem": "Eris Boreas Grayrat",
             "info": "s2e12",
             "arquivo": "Eris Boreas Grayrat from Mushoku Tensei [s2e12].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:27"
         }
     ],
     "Black Cat": [
@@ -782,7 +782,7 @@ const dados = {
             "personagem": "Eve",
             "info": "episode 24",
             "arquivo": "Eve from Black Cat [episode 24].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:27"
         }
     ],
     "Mujigen Hunter Fandora": [
@@ -790,7 +790,7 @@ const dados = {
             "personagem": "Fandora",
             "info": "episode 3",
             "arquivo": "Fandora from Mujigen Hunter Fandora [episode 3].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:28"
         }
     ],
     "Les Miserables Shoujo Cosette": [
@@ -798,7 +798,7 @@ const dados = {
             "personagem": "Fantine",
             "info": "episode 8",
             "arquivo": "Fantine from Les Miserables Shoujo Cosette [episode 8].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:28"
         }
     ],
     "Berserk 2017": [
@@ -806,7 +806,7 @@ const dados = {
             "personagem": "Farnese",
             "info": "s2e3",
             "arquivo": "Farnese from Berserk 2017 [s2e3].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:28"
         }
     ],
     "Mobile Suit Gundam 00": [
@@ -814,7 +814,7 @@ const dados = {
             "personagem": "Feldt Grace",
             "info": "movie",
             "arquivo": "Feldt Grace from Mobile Suit Gundam 00 [movie].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:28"
         }
     ],
     "Fena Pirate Princess": [
@@ -822,13 +822,13 @@ const dados = {
             "personagem": "Fena Houtman",
             "info": "episode 2",
             "arquivo": "Fena Houtman from Fena Pirate Princess [episode 2].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:28"
         },
         {
             "personagem": "Helena",
             "info": "chapter 9",
             "arquivo": "Helena from Fena Pirate Princess [chapter 9].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:32"
         }
     ],
     "Shokei Shoujo no Virgin Road": [
@@ -836,7 +836,7 @@ const dados = {
             "personagem": "Flare",
             "info": "ep1 long hair flashback",
             "arquivo": "Flare from Shokei Shoujo no Virgin Road [ep1 long hair flashback].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:28"
         }
     ],
     "Kabukichou Sherlock": [
@@ -844,7 +844,7 @@ const dados = {
             "personagem": "Fujiko Takamine",
             "info": "ep 2",
             "arquivo": "Fujiko Takamine from Kabukichou Sherlock [ep 2].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:28"
         }
     ],
     "Senpai ga Uzai Kouhai no Hanashi": [
@@ -852,13 +852,13 @@ const dados = {
             "personagem": "Futaba Igarashi",
             "info": "ep 6 short hair flashback",
             "arquivo": "Futaba Igarashi from Senpai ga Uzai Kouhai no Hanashi [ep 6 short hair flashback].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:28"
         },
         {
             "personagem": "Natsumi Korobe",
             "info": "ep 6 long hair flashback",
             "arquivo": "Natsumi Korobe from Senpai ga Uzai Kouhai no Hanashi [ep 6 long hair flashback].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:06"
         }
     ],
     "Shirou Suna no Aquatope": [
@@ -866,7 +866,7 @@ const dados = {
             "personagem": "Fuuka Miyazawa",
             "info": "ep24",
             "arquivo": "Fuuka Miyazawa from Shirou Suna no Aquatope [ep24].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:28"
         }
     ],
     "Undead Unluck": [
@@ -874,13 +874,13 @@ const dados = {
             "personagem": "Fuuko",
             "info": "episode 1",
             "arquivo": "Fuuko from Undead Unluck [episode 1].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:28"
         },
         {
             "personagem": "Juiz d'Arc",
             "info": "ep 22 short hair flashback",
             "arquivo": "Juiz d'Arc from Undead Unluck [ep 22 short hair flashback].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:39"
         }
     ],
     "Heavy Metal L-Gaim": [
@@ -888,7 +888,7 @@ const dados = {
             "personagem": "Gaw Ha Leccee",
             "info": "ep 9",
             "arquivo": "Gaw Ha Leccee from Heavy Metal L-Gaim [ep 9].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:28"
         }
     ],
     "Shigofumi": [
@@ -896,7 +896,7 @@ const dados = {
             "personagem": "Girl",
             "info": "ep 2",
             "arquivo": "Girl from Shigofumi [ep 2].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:27"
         }
     ],
     "Shingeki no Bahamut Manaria Friends": [
@@ -904,7 +904,7 @@ const dados = {
             "personagem": "Grea",
             "info": "episode 3",
             "arquivo": "Grea from Shingeki no Bahamut Manaria Friends [episode 3].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:28"
         }
     ],
     "Schwarzesmarken": [
@@ -912,7 +912,7 @@ const dados = {
             "personagem": "Gretel Jeckeln",
             "info": "episode 12",
             "arquivo": "Gretel Jeckeln from Schwarzesmarken [episode 12].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:29"
         }
     ],
     "Hakumei to Mikoshi": [
@@ -920,7 +920,7 @@ const dados = {
             "personagem": "Hakumei",
             "info": "episode 5",
             "arquivo": "Hakumei from Hakumei to Mikoshi [episode 5].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:29"
         }
     ],
     "Black Clover": [
@@ -928,7 +928,7 @@ const dados = {
             "personagem": "Halbet Chevour",
             "info": "ep164",
             "arquivo": "Halbet Chevour from Black Clover [ep164].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:30"
         }
     ],
     "7 Seeds": [
@@ -936,7 +936,7 @@ const dados = {
             "personagem": "Hana",
             "info": "episode 6",
             "arquivo": "Hana from 7 Seeds [episode 6].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:31"
         }
     ],
     "World Trigger": [
@@ -944,7 +944,7 @@ const dados = {
             "personagem": "Hana",
             "info": "s2e7 flashback",
             "arquivo": "Hana from World Trigger [s2e7 flashback].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:31"
         }
     ],
     "Slow Start": [
@@ -952,7 +952,7 @@ const dados = {
             "personagem": "Hana Ichinose",
             "info": "ep10",
             "arquivo": "Hana Ichinose from Slow Start [ep10].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:31"
         }
     ],
     "Mattaku Saikin no Tantei to Kitara": [
@@ -960,7 +960,7 @@ const dados = {
             "personagem": "Hana Kazamaki",
             "info": "episode 9 flashback",
             "arquivo": "Hana Kazamaki from Mattaku Saikin no Tantei to Kitara [episode 9 flashback].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2026-07-25T18:28:58"
         }
     ],
     "Katekyou Hitman Reborn": [
@@ -968,13 +968,13 @@ const dados = {
             "personagem": "Hana Kurokawa",
             "info": "ep 80",
             "arquivo": "Hana Kurokawa from Katekyou Hitman Reborn [ep 80].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:31"
         },
         {
             "personagem": "Nana Sawada",
             "info": "past",
             "arquivo": "Nana Sawada from Katekyou Hitman Reborn [past].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:05"
         }
     ],
     "Michiko to Hatchin": [
@@ -982,7 +982,7 @@ const dados = {
             "personagem": "Hana Morenos",
             "info": "ep 3",
             "arquivo": "Hana Morenos from Michiko to Hatchin [ep 3].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:31"
         }
     ],
     "Naruto Shippuden": [
@@ -990,7 +990,7 @@ const dados = {
             "personagem": "Hanabi",
             "info": "episode 390",
             "arquivo": "Hanabi from Naruto Shippuden [episode 390].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:31"
         }
     ],
     "Wotaku ni Koi wa Muzukashii": [
@@ -998,7 +998,7 @@ const dados = {
             "personagem": "Hanako Koyanagi",
             "info": "OVA 1 - short hair flashback",
             "arquivo": "Hanako Koyanagi from Wotaku ni Koi wa Muzukashii [OVA 1 - short hair flashback].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:31"
         }
     ],
     "Neko no Ongaeshi": [
@@ -1006,7 +1006,7 @@ const dados = {
             "personagem": "Haru",
             "info": "movie",
             "arquivo": "Haru from Neko no Ongaeshi [movie].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:31"
         }
     ],
     "Bounen no Xamdou": [
@@ -1014,7 +1014,7 @@ const dados = {
             "personagem": "Haru Nishimura",
             "info": "episode 10",
             "arquivo": "Haru Nishimura from Bounen no Xamdou [episode 10].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:31"
         }
     ],
     "New Game": [
@@ -1022,7 +1022,7 @@ const dados = {
             "personagem": "Haruhi",
             "info": "s2e9",
             "arquivo": "Haruhi from New Game [s2e9].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:31"
         }
     ],
     "Ouran Koukou Host Club": [
@@ -1030,7 +1030,7 @@ const dados = {
             "personagem": "Haruhi Fujioka",
             "info": "ep 16 long hair flashback",
             "arquivo": "Haruhi Fujioka from Ouran Koukou Host Club [ep 16 long hair flashback].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:32"
         }
     ],
     "Suzumiya Haruhi no Yuuutsu": [
@@ -1038,7 +1038,7 @@ const dados = {
             "personagem": "Haruhi Suzumiya",
             "info": "episode 1",
             "arquivo": "Haruhi Suzumiya from Suzumiya Haruhi no Yuuutsu [episode 1].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:32"
         }
     ],
     "Artiswitch": [
@@ -1046,7 +1046,7 @@ const dados = {
             "personagem": "Haruka",
             "info": "episode 1",
             "arquivo": "Haruka from Artiswitch [episode 1].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:32"
         }
     ],
     "Bakutou Sengen Daigunder": [
@@ -1054,7 +1054,7 @@ const dados = {
             "personagem": "Haruka",
             "info": "ep28",
             "arquivo": "Haruka from Bakutou Sengen Daigunder [ep28].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:32"
         }
     ],
     "Slam Dunk": [
@@ -1062,7 +1062,7 @@ const dados = {
             "personagem": "Haruko Akagi",
             "info": "episode 88",
             "arquivo": "Haruko Akagi from Slam Dunk [episode 88].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:32"
         }
     ],
     "Jormungand": [
@@ -1070,19 +1070,19 @@ const dados = {
             "personagem": "Hex",
             "info": "s2e3",
             "arquivo": "Hex from Jormungand [s2e3].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:32"
         },
         {
             "personagem": "Koko Hekmatyar",
             "info": "s2e12",
             "arquivo": "Koko Hekmatyar from Jormungand [s2e12].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:44"
         },
         {
             "personagem": "Sofia Valmer",
             "info": "episode 11",
             "arquivo": "Sofia Valmer from Jormungand [episode 11].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:28"
         }
     ],
     "Pripara": [
@@ -1090,7 +1090,7 @@ const dados = {
             "personagem": "Hibiki Shikyoin",
             "info": "ep 83",
             "arquivo": "Hibiki Shikyoin from Pripara [ep 83].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:32"
         }
     ],
     "Centaur no Nayami": [
@@ -1098,13 +1098,13 @@ const dados = {
             "personagem": "Hime",
             "info": "ep6 - not real",
             "arquivo": "Hime from Centaur no Nayami [ep6 - not real].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:33"
         },
         {
             "personagem": "Nozomi",
             "info": "ep6 - not real",
             "arquivo": "Nozomi from Centaur no Nayami [ep6 - not real].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:08"
         }
     ],
     "Sket Dance": [
@@ -1112,7 +1112,7 @@ const dados = {
             "personagem": "Hime Onizuka",
             "info": "s1e37 long hair flashback",
             "arquivo": "Hime Onizuka from Sket Dance [s1e37 long hair flashback].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:33"
         }
     ],
     "Chainsaw Man": [
@@ -1120,7 +1120,7 @@ const dados = {
             "personagem": "Himeno",
             "info": "episode 5 flashback",
             "arquivo": "Himeno from Chainsaw Man [episode 5 flashback].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:33"
         }
     ],
     "Kamisama ni Natta Hi": [
@@ -1128,7 +1128,7 @@ const dados = {
             "personagem": "Hina Satou",
             "info": "episode 10",
             "arquivo": "Hina Satou from Kamisama ni Natta Hi [episode 10].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:33"
         }
     ],
     "Joshikousei no Mudazukai": [
@@ -1136,7 +1136,7 @@ const dados = {
             "personagem": "Hisui Kujou",
             "info": "episode 6",
             "arquivo": "Hisui Kujou from Joshikousei no Mudazukai [episode 6].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:35"
         }
     ],
     "Monogatari Second Season": [
@@ -1144,13 +1144,13 @@ const dados = {
             "personagem": "Hitagi Senjougahara",
             "info": "episode 1",
             "arquivo": "Hitagi Senjougahara from Monogatari Second Season [episode 1].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:35"
         },
         {
             "personagem": "Tsubasa Hanekawa",
             "info": "episode 1",
             "arquivo": "Tsubasa Hanekawa from Monogatari Second Season [episode 1].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:31"
         }
     ],
     "Katanagatari": [
@@ -1158,13 +1158,13 @@ const dados = {
             "personagem": "Hitei",
             "info": "episode 12",
             "arquivo": "Hitei from Katanagatari [episode 12].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:35"
         },
         {
             "personagem": "Togame",
             "info": "episode 7",
             "arquivo": "Togame from Katanagatari [episode 7].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:30"
         }
     ],
     "Heroine Tarumono! Kiraware Heroine to Naisho no Oshigoto": [
@@ -1172,7 +1172,7 @@ const dados = {
             "personagem": "Hiyori Suzumi",
             "info": "ep 6",
             "arquivo": "Hiyori Suzumi from Heroine Tarumono! Kiraware Heroine to Naisho no Oshigoto [ep 6].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:35"
         }
     ],
     "Lady Death": [
@@ -1180,7 +1180,7 @@ const dados = {
             "personagem": "Hope",
             "info": "movie",
             "arquivo": "Hope from Lady Death [movie].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:35"
         }
     ],
     "Classroom of the Elite": [
@@ -1188,7 +1188,7 @@ const dados = {
             "personagem": "Horikita Suzune",
             "info": "s3e12",
             "arquivo": "Horikita Suzune from Classroom of the Elite [s3e12].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:35"
         }
     ],
     "Shinryaku! Ika Musume": [
@@ -1196,7 +1196,7 @@ const dados = {
             "personagem": "Ika",
             "info": "episode 12",
             "arquivo": "Ika from Shinryaku! Ika Musume [episode 12].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:35"
         }
     ],
     "Naruto": [
@@ -1204,13 +1204,13 @@ const dados = {
             "personagem": "Ino",
             "info": "episode 42",
             "arquivo": "Ino from Naruto [episode 42].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:35"
         },
         {
             "personagem": "Sakura",
             "info": "episode 32",
             "arquivo": "Sakura from Naruto [episode 32].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:20"
         }
     ],
     "Yuukoku no Moriarty": [
@@ -1218,7 +1218,7 @@ const dados = {
             "personagem": "Irene Adler",
             "info": "s2e3",
             "arquivo": "Irene Adler from Yuukoku no Moriarty [s2e3].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:35"
         }
     ],
     "Paris no Isabelle": [
@@ -1226,7 +1226,7 @@ const dados = {
             "personagem": "Isabelle Laustin",
             "info": "ep7",
             "arquivo": "Isabelle Laustin from Paris no Isabelle [ep7].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:36"
         }
     ],
     "Macross 2 Lovers Again": [
@@ -1234,7 +1234,7 @@ const dados = {
             "personagem": "Ishtar",
             "info": "ep2",
             "arquivo": "Ishtar from Macross 2 Lovers Again [ep2].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:36"
         }
     ],
     "Lupin the 3rd Mine Fujiko to Iu Onna": [
@@ -1242,7 +1242,7 @@ const dados = {
             "personagem": "Isolde",
             "info": "ep6",
             "arquivo": "Isolde from Lupin the 3rd Mine Fujiko to Iu Onna [ep6].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:36"
         }
     ],
     "Saijaku Tamer wa Gomi Hiroi no Tabi wo Hajimemashita": [
@@ -1250,7 +1250,7 @@ const dados = {
             "personagem": "Ivy",
             "info": "ep 1",
             "arquivo": "Ivy from Saijaku Tamer wa Gomi Hiroi no Tabi wo Hajimemashita [ep 1].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:38"
         }
     ],
     "Dansai Bunri no Crime Edge": [
@@ -1258,7 +1258,7 @@ const dados = {
             "personagem": "Iwai Mushanokoji",
             "info": "episode 2",
             "arquivo": "Iwai Mushanokoji from Dansai Bunri no Crime Edge [episode 2].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:38"
         }
     ],
     "Shingeki no Bahamut Genesis": [
@@ -1266,7 +1266,7 @@ const dados = {
             "personagem": "Jeanne d'Arc",
             "info": "episode 12",
             "arquivo": "Jeanne d'Arc from Shingeki no Bahamut Genesis [episode 12].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:39"
         }
     ],
     "Vanitas no Karte": [
@@ -1274,7 +1274,7 @@ const dados = {
             "personagem": "Jeanne d'Arc",
             "info": "long hair on s2e4 flashback",
             "arquivo": "Jeanne d'Arc from Vanitas no Karte [long hair on s2e4 flashback].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:39"
         }
     ],
     "Ling Qi Huang Quan Zhi Qi": [
@@ -1282,7 +1282,7 @@ const dados = {
             "personagem": "Jiyun Tanmoku",
             "info": "s2e12",
             "arquivo": "Jiyun Tanmoku from Ling Qi Huang Quan Zhi Qi [s2e12].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:39"
         }
     ],
     "Ai no Wakakusa Monogatari": [
@@ -1290,7 +1290,7 @@ const dados = {
             "personagem": "Jo",
             "info": "ep 37",
             "arquivo": "Jo from Ai no Wakakusa Monogatari [ep 37].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:39"
         }
     ],
     "Burst Angel": [
@@ -1298,7 +1298,7 @@ const dados = {
             "personagem": "Jo",
             "info": "ova",
             "arquivo": "Jo from Burst Angel [ova].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:39"
         }
     ],
     "Josee to Tora to Sakana-tachi": [
@@ -1306,7 +1306,7 @@ const dados = {
             "personagem": "Josee",
             "info": "movie",
             "arquivo": "Josee from Josee to Tora to Sakana-tachi [movie].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:39"
         }
     ],
     "Toaru Hikuushi e no Tsuioku": [
@@ -1314,7 +1314,7 @@ const dados = {
             "personagem": "Juana del Moral",
             "info": "movie",
             "arquivo": "Juana del Moral from Toaru Hikuushi e no Tsuioku [movie].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:39"
         }
     ],
     "Kokkoku": [
@@ -1322,7 +1322,7 @@ const dados = {
             "personagem": "Juri Yukawa",
             "info": "episode 12",
             "arquivo": "Juri Yukawa from Kokkoku [episode 12].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:39"
         }
     ],
     "Rascal Does Not Dream of a Dreaming Girl": [
@@ -1330,7 +1330,7 @@ const dados = {
             "personagem": "Kaede",
             "info": "movie",
             "arquivo": "Kaede from Rascal Does Not Dream of a Dreaming Girl [movie].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:39"
         }
     ],
     "Steins Gate 0": [
@@ -1338,7 +1338,7 @@ const dados = {
             "personagem": "Kagari Shiina",
             "info": "ep24",
             "arquivo": "Kagari Shiina from Steins Gate 0 [ep24].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:40"
         }
     ],
     "Flame of Recca": [
@@ -1346,7 +1346,7 @@ const dados = {
             "personagem": "Kagero",
             "info": "ep14",
             "arquivo": "Kagero from Flame of Recca [ep14].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:40"
         }
     ],
     "Yu Gi Oh Sevens": [
@@ -1354,7 +1354,7 @@ const dados = {
             "personagem": "Kamijo Haruka",
             "info": "ep 92",
             "arquivo": "Kamijo Haruka from Yu Gi Oh Sevens [ep 92].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:40"
         }
     ],
     "Iriya no Sora, UFO no Natsu": [
@@ -1362,7 +1362,7 @@ const dados = {
             "personagem": "Kana Iriya",
             "info": "ep5",
             "arquivo": "Kana Iriya from Iriya no Sora, UFO no Natsu [ep5].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:40"
         }
     ],
     "Teekyuu 2": [
@@ -1370,7 +1370,7 @@ const dados = {
             "personagem": "Kanae Shinjou",
             "info": "episode 16",
             "arquivo": "Kanae Shinjou from Teekyuu 2 [episode 16].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:40"
         }
     ],
     "Kami nomi zo Shiru Sekai Megami-hen": [
@@ -1378,7 +1378,7 @@ const dados = {
             "personagem": "Kanon Nakagawa",
             "info": "flashback episode 7",
             "arquivo": "Kanon Nakagawa from Kami nomi zo Shiru Sekai Megami-hen [flashback episode 7].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:40"
         }
     ],
     "Sakura Wars Ouka Kenran": [
@@ -1386,7 +1386,7 @@ const dados = {
             "personagem": "Kanzaki Sumire",
             "info": "episode 2",
             "arquivo": "Kanzaki Sumire from Sakura Wars Ouka Kenran [episode 2].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:40"
         }
     ],
     "Potion-danomi de Ikinobimasu": [
@@ -1394,7 +1394,7 @@ const dados = {
             "personagem": "Kaoru Nagase",
             "info": "episode 1",
             "arquivo": "Kaoru Nagase from Potion-danomi de Ikinobimasu [episode 1].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:40"
         }
     ],
     "Kokoro Connect": [
@@ -1402,7 +1402,7 @@ const dados = {
             "personagem": "Kaoru Setouchi",
             "info": "episode 17",
             "arquivo": "Kaoru Setouchi from Kokoro Connect [episode 17].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:40"
         }
     ],
     "Major": [
@@ -1410,7 +1410,7 @@ const dados = {
             "personagem": "Kaoru Shigeno",
             "info": "s1e11",
             "arquivo": "Kaoru Shigeno from Major [s1e11].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:40"
         }
     ],
     "No 6": [
@@ -1418,7 +1418,7 @@ const dados = {
             "personagem": "Karan",
             "info": "ep2",
             "arquivo": "Karan from No 6 [ep2].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:40"
         }
     ],
     "Nisemonogatari": [
@@ -1426,13 +1426,13 @@ const dados = {
             "personagem": "Karen Araragi",
             "info": "episode 9",
             "arquivo": "Karen Araragi from Nisemonogatari [episode 9].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:40"
         },
         {
             "personagem": "Tsukihi Araragi",
             "info": "episode 1",
             "arquivo": "Tsukihi Araragi from Nisemonogatari [episode 1].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:31"
         }
     ],
     "Aika Zero": [
@@ -1440,7 +1440,7 @@ const dados = {
             "personagem": "Karen Minamino",
             "info": "episode 1",
             "arquivo": "Karen Minamino from Aika Zero [episode 1].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:41"
         }
     ],
     "Gundam Thunderbolt Bandit Flower": [
@@ -1448,7 +1448,7 @@ const dados = {
             "personagem": "Karla Mitchum",
             "info": "movie",
             "arquivo": "Karla Mitchum from Gundam Thunderbolt Bandit Flower [movie].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:41"
         }
     ],
     "Super Crooks": [
@@ -1456,7 +1456,7 @@ const dados = {
             "personagem": "Kasey",
             "info": "ep10",
             "arquivo": "Kasey from Super Crooks [ep10].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:43"
         }
     ],
     "Woodpecker Detective Office": [
@@ -1464,7 +1464,7 @@ const dados = {
             "personagem": "Kaya",
             "info": "episode 12",
             "arquivo": "Kaya from Woodpecker Detective Office [episode 12].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:43"
         }
     ],
     "Gunbuster": [
@@ -1472,7 +1472,7 @@ const dados = {
             "personagem": "Kazumi Amano",
             "info": "ep 6",
             "arquivo": "Kazumi Amano from Gunbuster [ep 6].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:43"
         }
     ],
     "Boku ga Aishita Subete no Kimi e": [
@@ -1480,7 +1480,7 @@ const dados = {
             "personagem": "Kazune Takigawa",
             "info": "movie",
             "arquivo": "Kazune Takigawa from Boku ga Aishita Subete no Kimi e [movie].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:43"
         }
     ],
     "Kochouki Wakaki Nobunaga": [
@@ -1488,7 +1488,7 @@ const dados = {
             "personagem": "Kichou",
             "info": "ep2 ed",
             "arquivo": "Kichou from Kochouki Wakaki Nobunaga [ep2 ed].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:43"
         }
     ],
     "Akagami no Shirayukihime": [
@@ -1496,7 +1496,7 @@ const dados = {
             "personagem": "Kiki Seiran",
             "info": "s2e10 flashback - cut her hair later",
             "arquivo": "Kiki Seiran from Akagami no Shirayukihime [s2e10 flashback - cut her hair later].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:44"
         }
     ],
     "Soul Eater Not": [
@@ -1504,7 +1504,7 @@ const dados = {
             "personagem": "Kimial Diehl",
             "info": "ep3 flashback",
             "arquivo": "Kimial Diehl from Soul Eater Not [ep3 flashback].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:44"
         }
     ],
     "Top wo Nerae Gunbuster": [
@@ -1512,7 +1512,7 @@ const dados = {
             "personagem": "Kimiko Higuchi",
             "info": "ep6",
             "arquivo": "Kimiko Higuchi from Top wo Nerae Gunbuster [ep6 ].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:44"
         }
     ],
     "Youkai Watch Shadowside": [
@@ -1520,7 +1520,7 @@ const dados = {
             "personagem": "Kino",
             "info": "ep10",
             "arquivo": "Kino from Youkai Watch Shadowside [ep10].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:44"
         }
     ],
     "Shinobi no Ittoki": [
@@ -1528,13 +1528,13 @@ const dados = {
             "personagem": "Kirei Kisegawa",
             "info": "episode 11",
             "arquivo": "Kirei Kisegawa from Shinobi no Ittoki [episode 11].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:44"
         },
         {
             "personagem": "Kousetsu",
             "info": "episode 12",
             "arquivo": "Kousetsu from Shinobi no Ittoki [episode 12].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:45"
         }
     ],
     "xxxHolic Kei": [
@@ -1542,7 +1542,7 @@ const dados = {
             "personagem": "Kohane Tsuyuri",
             "info": "ep10",
             "arquivo": "Kohane Tsuyuri from xxxHolic Kei [ep10].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:44"
         }
     ],
     "High Score Girl": [
@@ -1550,7 +1550,7 @@ const dados = {
             "personagem": "Koharu Hidaka",
             "info": "s2e9",
             "arquivo": "Koharu Hidaka from High Score Girl [s2e9].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:44"
         }
     ],
     "Sword Art Online Alternative Gun Gale Online": [
@@ -1558,7 +1558,7 @@ const dados = {
             "personagem": "Kohiruimaki Karen",
             "info": "episode 5",
             "arquivo": "Kohiruimaki Karen from Sword Art Online Alternative Gun Gale Online [episode 5].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:44"
         }
     ],
     "Akkun to Kanojo": [
@@ -1566,13 +1566,13 @@ const dados = {
             "personagem": "Konagi Irie",
             "info": "ep 25",
             "arquivo": "Konagi Irie from Akkun to Kanojo [ep 25].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:44"
         },
         {
             "personagem": "Non Katagiri",
             "info": "ep 4 flashback",
             "arquivo": "Non Katagiri from Akkun to Kanojo [ep 4 flashback].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:08"
         }
     ],
     "Shouwa Genroku Rakugo Shinjuu": [
@@ -1580,7 +1580,7 @@ const dados = {
             "personagem": "Konatsu",
             "info": "s2e1",
             "arquivo": "Konatsu from Shouwa Genroku Rakugo Shinjuu [s2e1].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:44"
         }
     ],
     "Iwa Kakeru Sport Climbing Girls": [
@@ -1588,7 +1588,7 @@ const dados = {
             "personagem": "Konomi Kasahara",
             "info": "ep1 long hair flashback",
             "arquivo": "Konomi Kasahara from Iwa Kakeru Sport Climbing Girls [ep1 long hair flashback].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:44"
         }
     ],
     "Itazuna na Kiss": [
@@ -1596,7 +1596,7 @@ const dados = {
             "personagem": "Kotoko",
             "info": "ep 24",
             "arquivo": "Kotoko from Itazuna na Kiss [ep 24].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:44"
         }
     ],
     "DNA2": [
@@ -1604,7 +1604,7 @@ const dados = {
             "personagem": "Kotomi Takanashi",
             "info": "episode 6",
             "arquivo": "Kotomi Takanashi from DNA2 [episode 6].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:44"
         }
     ],
     "Saiyuki Reload Gunlock": [
@@ -1612,7 +1612,7 @@ const dados = {
             "personagem": "Kougyoku",
             "info": "episode 8",
             "arquivo": "Kougyoku from Saiyuki Reload Gunlock [episode 8].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:45"
         }
     ],
     "Tiger and Bunny": [
@@ -1620,7 +1620,7 @@ const dados = {
             "personagem": "Kriem",
             "info": "s1ep18",
             "arquivo": "Kriem from Tiger and Bunny [s1ep18].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:45"
         }
     ],
     "Kidou Senshi Gundam Tekketsu no Orphans": [
@@ -1628,7 +1628,7 @@ const dados = {
             "personagem": "Kudelia Aina Bernstein",
             "info": "s2e25",
             "arquivo": "Kudelia Aina Bernstein from Kidou Senshi Gundam Tekketsu no Orphans [s2e25].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:45"
         }
     ],
     "Mahoujin Guru Guru": [
@@ -1636,7 +1636,7 @@ const dados = {
             "personagem": "Kukuri",
             "info": "ep4",
             "arquivo": "Kukuri from Mahoujin Guru Guru [ep4].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:45"
         }
     ],
     "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e": [
@@ -1644,7 +1644,7 @@ const dados = {
             "personagem": "Kushida Kikyou",
             "info": "s2e8 flashback",
             "arquivo": "Kushida Kikyou from Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e [s2e8 flashback].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:45"
         }
     ],
     "Fruits Basket": [
@@ -1652,13 +1652,13 @@ const dados = {
             "personagem": "Kyoko Honda",
             "info": "flashback",
             "arquivo": "Kyoko Honda from Fruits Basket [flashback].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:45"
         },
         {
             "personagem": "Mayuko Shiraki",
             "info": "s3e12",
             "arquivo": "Mayuko Shiraki from Fruits Basket [s3e12].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:52"
         }
     ],
     "Skip Beat": [
@@ -1666,7 +1666,7 @@ const dados = {
             "personagem": "Kyoko Mogami",
             "info": "ep 1",
             "arquivo": "Kyoko Mogami from Skip Beat [ep 1].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:46"
         }
     ],
     "Clannad": [
@@ -1674,7 +1674,7 @@ const dados = {
             "personagem": "Kyou Fujibayashi",
             "info": "ova 4",
             "arquivo": "Kyou Fujibayashi from Clannad [ova 4].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:47"
         }
     ],
     "Horimiya Piece": [
@@ -1682,7 +1682,7 @@ const dados = {
             "personagem": "Kyouko Hori",
             "info": "episode 13",
             "arquivo": "Kyouko Hori from Horimiya Piece [episode 13].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:47"
         }
     ],
     "Wagnaria[Working]": [
@@ -1690,7 +1690,7 @@ const dados = {
             "personagem": "Kyouko Shirafuji",
             "info": "s2e6 flashback",
             "arquivo": "Kyouko Shirafuji from Wagnaria[Working] [s2e6 flashback].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:47"
         }
     ],
     "Boku no Hero Academia": [
@@ -1698,13 +1698,13 @@ const dados = {
             "personagem": "Lady Nagant",
             "info": "s6e21 flashback",
             "arquivo": "Lady Nagant from Boku no Hero Academia [s6e21 flashback].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:47"
         },
         {
             "personagem": "Rei Todoroki",
             "info": "flashback s6e17",
             "arquivo": "Rei Todoroki from Boku no Hero Academia [flashback s6e17].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:11"
         }
     ],
     "Kaleido Star Legend of Phoenix": [
@@ -1712,7 +1712,7 @@ const dados = {
             "personagem": "Layla Hamilton",
             "info": "OVA",
             "arquivo": "Layla Hamilton from Kaleido Star Legend of Phoenix [OVA].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:47"
         }
     ],
     "D Gray Man": [
@@ -1720,13 +1720,13 @@ const dados = {
             "personagem": "Lenalee Lee",
             "info": "eps62-63-64",
             "arquivo": "Lenalee Lee from D Gray Man [eps62-63-64].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:48"
         },
         {
             "personagem": "Lenalee Lee",
             "info": "eps_62-63-64",
             "arquivo": "Lenalee Lee from D Gray Man [eps_62-63-64].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:47"
         }
     ],
     "Axis Power Hetalia": [
@@ -1734,7 +1734,7 @@ const dados = {
             "personagem": "Liechstein",
             "info": "ep 23",
             "arquivo": "Liechstein from Axis Power Hetalia [ep 23].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:48"
         }
     ],
     "Battle Spirits Mirage": [
@@ -1742,13 +1742,13 @@ const dados = {
             "personagem": "Lime",
             "info": "ep1",
             "arquivo": "Lime from Battle Spirits Mirage [ep1].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:48"
         },
         {
             "personagem": "Snow McClain",
             "info": "ep1 - grow her hair",
             "arquivo": "Snow McClain from Battle Spirits Mirage [ep1 - grow her hair].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:28"
         }
     ],
     "Kaiketsu Jouki Tanteidan": [
@@ -1756,7 +1756,7 @@ const dados = {
             "personagem": "Ling Ling",
             "info": "episode 15",
             "arquivo": "Ling Ling from Kaiketsu Jouki Tanteidan [episode 15].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:48"
         }
     ],
     "Enen no Shouboutai": [
@@ -1764,7 +1764,7 @@ const dados = {
             "personagem": "Lisa Isaribi",
             "info": "episode 21",
             "arquivo": "Lisa Isaribi from Enen no Shouboutai [episode 21].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:48"
         }
     ],
     "Genjitsu Shugi Yuusha no Oukoku Saikenki": [
@@ -1772,7 +1772,7 @@ const dados = {
             "personagem": "Liscia Elfrieden",
             "info": "episode 9",
             "arquivo": "Liscia Elfrieden from Genjitsu Shugi Yuusha no Oukoku Saikenki [episode 9].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:49"
         }
     ],
     "from Mobile Suit Gundam 00": [
@@ -1780,7 +1780,7 @@ const dados = {
             "personagem": "Louise Halevy",
             "info": "s2e1",
             "arquivo": "Louise Halevy from from Mobile Suit Gundam 00 [s2e1].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:49"
         }
     ],
     "Tensai Ouji no Akaji": [
@@ -1788,13 +1788,13 @@ const dados = {
             "personagem": "Lowellmina Earthworld",
             "info": "short hair e3 flashback",
             "arquivo": "Lowellmina Earthworld from Tensai Ouji no Akaji [short hair e3 flashback].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:49"
         },
         {
             "personagem": "Ninym Ralei",
             "info": "short hair e3 flashback",
             "arquivo": "Ninym Ralei from Tensai Ouji no Akaji [short hair e3 flashback].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:06"
         }
     ],
     "Yuuki Bakuhatsu Bang Bravern": [
@@ -1802,7 +1802,7 @@ const dados = {
             "personagem": "Lulu",
             "info": "ep 5",
             "arquivo": "Lulu from Yuuki Bakuhatsu Bang Bravern [ep 5].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:50"
         }
     ],
     "Cardfight Vanguard G Next": [
@@ -1810,7 +1810,7 @@ const dados = {
             "personagem": "Luna Yumizuki",
             "info": "ep 21",
             "arquivo": "Luna Yumizuki from Cardfight Vanguard G Next [ep 21].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:51"
         }
     ],
     "Ahiru no Sora": [
@@ -1818,7 +1818,7 @@ const dados = {
             "personagem": "Madoka Yabuchi",
             "info": "ep7",
             "arquivo": "Madoka Yabuchi from Ahiru no Sora [ep7].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:51"
         }
     ],
     "Maria-sama Ga Miteru": [
@@ -1826,13 +1826,13 @@ const dados = {
             "personagem": "Mafuyu",
             "info": "s1e9",
             "arquivo": "Mafuyu from Maria-sama Ga Miteru [s1e9].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:51"
         },
         {
             "personagem": "Satou Sei",
             "info": "s1e11 and s2e7",
             "arquivo": "Satou Sei from Maria-sama Ga Miteru [s1e11 and s2e7].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:23"
         }
     ],
     "Akiba Meido Sensou": [
@@ -1840,7 +1840,7 @@ const dados = {
             "personagem": "Maid",
             "info": "ep 1",
             "arquivo": "Maid from Akiba Meido Sensou [ep 1].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:51"
         }
     ],
     "Hana Yori Dango": [
@@ -1848,13 +1848,13 @@ const dados = {
             "personagem": "Makino Tsukushi",
             "info": "ep 32 and 34",
             "arquivo": "Makino Tsukushi from Hana Yori Dango [ep 32 and 34].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:51"
         },
         {
             "personagem": "Shizuka Todou",
             "info": "ep10",
             "arquivo": "Shizuka Todou from Hana Yori Dango [ep10].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:27"
         }
     ],
     "Dragon Ball GT": [
@@ -1862,7 +1862,7 @@ const dados = {
             "personagem": "Mamba",
             "info": "ova",
             "arquivo": "Mamba  from Dragon Ball GT [ova].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:51"
         }
     ],
     "Simoun": [
@@ -1870,13 +1870,13 @@ const dados = {
             "personagem": "Mamiina",
             "info": "episode 19",
             "arquivo": "Mamiina from Simoun [episode 19].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:51"
         },
         {
             "personagem": "Rodoreamon",
             "info": "episode 6",
             "arquivo": "Rodoreamon from Simoun [episode 6].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:12"
         }
     ],
     "Gundam Reconguista In G": [
@@ -1884,7 +1884,7 @@ const dados = {
             "personagem": "Manny Ambassada",
             "info": "ep 8",
             "arquivo": "Manny Ambassada from Gundam Reconguista In G [ep 8].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:51"
         }
     ],
     "Yumeiro Patissiere": [
@@ -1892,7 +1892,7 @@ const dados = {
             "personagem": "Mari Tennouji",
             "info": "s2e1",
             "arquivo": "Mari Tennouji from Yumeiro Patissiere [s2e1].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:51"
         }
     ],
     "Kings Raid": [
@@ -1900,7 +1900,7 @@ const dados = {
             "personagem": "Maria",
             "info": "ep 23 flashback",
             "arquivo": "Maria from Kings Raid [ep 23 flashback].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:51"
         }
     ],
     "Sentou Mecha Xabungle": [
@@ -1908,7 +1908,7 @@ const dados = {
             "personagem": "Maria",
             "info": "ep9",
             "arquivo": "Maria from Sentou Mecha Xabungle [ep9].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:51"
         }
     ],
     "Hortensia Saga": [
@@ -1916,7 +1916,7 @@ const dados = {
             "personagem": "Marius Casterede",
             "info": "ep2 flashback",
             "arquivo": "Marius Casterede from Hortensia Saga [ep2 flashback].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:51"
         }
     ],
     "Youjo Senki": [
@@ -1924,7 +1924,7 @@ const dados = {
             "personagem": "Mary Sioux",
             "info": "movie",
             "arquivo": "Mary Sioux from Youjo Senki [movie].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:51"
         }
     ],
     "Watashi Nouryoku wa Heiki": [
@@ -1932,7 +1932,7 @@ const dados = {
             "personagem": "Mavis von Austien",
             "info": "ep 5",
             "arquivo": "Mavis von Austien from Watashi Nouryoku wa Heiki  [ep 5].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:51"
         }
     ],
     "Double Decker Doug e Kirill": [
@@ -1940,7 +1940,7 @@ const dados = {
             "personagem": "Maxine Silverstone",
             "info": "ep8 long hair flashback",
             "arquivo": "Maxine Silverstone from Double Decker Doug e Kirill [ep8 long hair flashback].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:52"
         }
     ],
     "Tenjho Tenge": [
@@ -1948,7 +1948,7 @@ const dados = {
             "personagem": "Maya Natsume",
             "info": "episode 5",
             "arquivo": "Maya Natsume from Tenjho Tenge [episode 5].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:52"
         }
     ],
     "Bishounen Tanteidan": [
@@ -1956,7 +1956,7 @@ const dados = {
             "personagem": "Mayumi Doujima",
             "info": "ep 2",
             "arquivo": "Mayumi Doujima from Bishounen Tanteidan [ep 2].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:52"
         }
     ],
     "Suki tte Ii na yo": [
@@ -1964,7 +1964,7 @@ const dados = {
             "personagem": "Megumi Kitagawa",
             "info": "episode 12",
             "arquivo": "Megumi Kitagawa from Suki tte Ii na yo [episode 12].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:52"
         }
     ],
     "Kaitou Saint Tail": [
@@ -1972,7 +1972,7 @@ const dados = {
             "personagem": "Meimi Haneoka",
             "info": "ep 43",
             "arquivo": "Meimi Haneoka from Kaitou Saint Tail [ep 43].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:54"
         }
     ],
     "Full Moon o Sagashite": [
@@ -1980,7 +1980,7 @@ const dados = {
             "personagem": "Meroko Yui",
             "info": "ep51",
             "arquivo": "Meroko Yui from Full Moon o Sagashite [ep51].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:54"
         }
     ],
     "Mangaka-san to Assistant-san": [
@@ -1988,7 +1988,7 @@ const dados = {
             "personagem": "Mihari Otosuna",
             "info": "episode 9 long hair flashback",
             "arquivo": "Mihari Otosuna from Mangaka-san to Assistant-san [episode 9 long hair flashback].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:54"
         }
     ],
     "Shingeki no Kyojin": [
@@ -1996,7 +1996,7 @@ const dados = {
             "personagem": "Mikasa Ackerman",
             "info": "s1e3 and s4e6",
             "arquivo": "Mikasa Ackerman from Shingeki no Kyojin [s1e3 and s4e6].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:54"
         }
     ],
     "Sonic Soldier Borgman": [
@@ -2004,7 +2004,7 @@ const dados = {
             "personagem": "Miki Katsura",
             "info": "Last Battle movie",
             "arquivo": "Miki Katsura from Sonic Soldier Borgman [Last Battle movie].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:54"
         }
     ],
     "Marmalade Boy": [
@@ -2012,7 +2012,7 @@ const dados = {
             "personagem": "Miki Koishikawa",
             "info": "episode 74",
             "arquivo": "Miki Koishikawa from Marmalade Boy [episode 74].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:54"
         }
     ],
     "Muteki Kanban Musume": [
@@ -2020,7 +2020,7 @@ const dados = {
             "personagem": "Miki Onimaru",
             "info": "episode 10",
             "arquivo": "Miki Onimaru from Muteki Kanban Musume [episode 10].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:54"
         }
     ],
     "Toaru Kagaku no Railgun S": [
@@ -2028,7 +2028,7 @@ const dados = {
             "personagem": "Mikoto Clone",
             "info": "episode 4",
             "arquivo": "Mikoto Clone from Toaru Kagaku no Railgun S [episode 4].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:54"
         }
     ],
     "Occultic Nine": [
@@ -2036,7 +2036,7 @@ const dados = {
             "personagem": "Mikuu Aikawa",
             "info": "ep9",
             "arquivo": "Mikuu Aikawa from Occultic Nine [ep9].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:55"
         }
     ],
     "The Three Musketeers": [
@@ -2044,7 +2044,7 @@ const dados = {
             "personagem": "Milady",
             "info": "episode 31",
             "arquivo": "Milady from The Three Musketeers [episode 31].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:55"
         }
     ],
     "Last Exile Ginyoku no Fam": [
@@ -2052,7 +2052,7 @@ const dados = {
             "personagem": "Millia il Velch Cutrettola Turan",
             "info": "episode 3",
             "arquivo": "Millia il Velch Cutrettola Turan from Last Exile Ginyoku no Fam [episode 3].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:55"
         }
     ],
     "AKB0048 Next Stage": [
@@ -2060,7 +2060,7 @@ const dados = {
             "personagem": "Mimori Kishida",
             "info": "episode 7",
             "arquivo": "Mimori Kishida from AKB0048 Next Stage [episode 7].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:24:56"
         }
     ],
     "Deadman Wonderland": [
@@ -2068,7 +2068,7 @@ const dados = {
             "personagem": "Minatsuki Takami",
             "info": "ep11",
             "arquivo": "Minatsuki Takami from Deadman Wonderland [ep11].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:01"
         }
     ],
     "Galaxy Angel A": [
@@ -2076,7 +2076,7 @@ const dados = {
             "personagem": "Mint Blancmanche",
             "info": "ep4",
             "arquivo": "Mint Blancmanche from Galaxy Angel A [ep4].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:01"
         }
     ],
     "Walkure Romanze": [
@@ -2084,7 +2084,7 @@ const dados = {
             "personagem": "Mio Kisaki",
             "info": "episode 3",
             "arquivo": "Mio Kisaki from Walkure Romanze [episode 3].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:01"
         }
     ],
     "Ano Natsu de Matteru": [
@@ -2092,13 +2092,13 @@ const dados = {
             "personagem": "Mio Kitahara",
             "info": "ep8",
             "arquivo": "Mio Kitahara from Ano Natsu de Matteru [ep8].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:01"
         },
         {
             "personagem": "Mio Kitahara",
             "info": "episode 8",
             "arquivo": "Mio Kitahara from Ano Natsu de Matteru [episode 8].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:01"
         }
     ],
     "Kidou Senshi Gundam Suisei no Majo": [
@@ -2106,13 +2106,13 @@ const dados = {
             "personagem": "Miorine Rembrandt",
             "info": "episode 24",
             "arquivo": "Miorine Rembrandt from Kidou Senshi Gundam Suisei no Majo [episode 24].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:02"
         },
         {
             "personagem": "Nina Nakaura",
             "info": "episode 24",
             "arquivo": "Nina Nakaura from Kidou Senshi Gundam Suisei no Majo [episode 24].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:06"
         }
     ],
     "Geneshaft": [
@@ -2120,7 +2120,7 @@ const dados = {
             "personagem": "Mir Lotus",
             "info": "episode 9",
             "arquivo": "Mir Lotus from Geneshaft [episode 9].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:02"
         }
     ],
     "Mirai Nikki Redial": [
@@ -2128,7 +2128,7 @@ const dados = {
             "personagem": "Mirene Uryuu",
             "info": "ova",
             "arquivo": "Mirene Uryuu from Mirai Nikki Redial [ova].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:02"
         }
     ],
     "Zombie Land Saga": [
@@ -2136,7 +2136,7 @@ const dados = {
             "personagem": "Misa Hagashita",
             "info": "s2e6",
             "arquivo": "Misa Hagashita from Zombie Land Saga [s2e6].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:02"
         }
     ],
     "Cardfight!! Vanguard Link Joker": [
@@ -2144,7 +2144,7 @@ const dados = {
             "personagem": "Misaki Tokura",
             "info": "ep1",
             "arquivo": "Misaki Tokura from Cardfight!! Vanguard Link Joker [ep1].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:02"
         }
     ],
     "Buddy Daddies": [
@@ -2152,7 +2152,7 @@ const dados = {
             "personagem": "Misaki Unasaka",
             "info": "ep10",
             "arquivo": "Misaki Unasaka from Buddy Daddies [ep10].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:02"
         }
     ],
     "Sasami Mahou Shoujo Club": [
@@ -2160,7 +2160,7 @@ const dados = {
             "personagem": "Misao Shinohara",
             "info": "s2e7",
             "arquivo": "Misao Shinohara from Sasami Mahou Shoujo Club [s2e7].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:02"
         }
     ],
     "Bleach": [
@@ -2168,7 +2168,7 @@ const dados = {
             "personagem": "Misato Ochi",
             "info": "ep 142",
             "arquivo": "Misato Ochi from Bleach [ep 142].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:02"
         }
     ],
     "Sakurada Reset": [
@@ -2176,7 +2176,7 @@ const dados = {
             "personagem": "Misora Haruki",
             "info": "episode 2",
             "arquivo": "Misora Haruki from Sakurada Reset [episode 2].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:02"
         }
     ],
     "Air": [
@@ -2184,7 +2184,7 @@ const dados = {
             "personagem": "Misuzu Kamio",
             "info": "movie",
             "arquivo": "Misuzu Kamio from Air [movie].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:02"
         }
     ],
     "Kimi No Na Wa": [
@@ -2192,7 +2192,7 @@ const dados = {
             "personagem": "Mitsuha Miyamizu",
             "info": "movie",
             "arquivo": "Mitsuha Miyamizu from Kimi No Na Wa [movie].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:03"
         }
     ],
     "Kimi ga Nozomu Eien": [
@@ -2200,7 +2200,7 @@ const dados = {
             "personagem": "Mitsuki Hayase",
             "info": "episode 3",
             "arquivo": "Mitsuki Hayase  from Kimi ga Nozomu Eien [episode 3].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:03"
         }
     ],
     "Bungaku Shoujo": [
@@ -2208,7 +2208,7 @@ const dados = {
             "personagem": "Miu Asakura",
             "info": "movie",
             "arquivo": "Miu Asakura from Bungaku Shoujo [movie].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:03"
         }
     ],
     "Rosario to Vampire": [
@@ -2216,7 +2216,7 @@ const dados = {
             "personagem": "Mizore Shirayuki",
             "info": "s1e7",
             "arquivo": "Mizore Shirayuki from Rosario to Vampire [s1e7].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:03"
         }
     ],
     "Koisuru Asteroid": [
@@ -2224,7 +2224,7 @@ const dados = {
             "personagem": "Moe Suzuya",
             "info": "episode 10",
             "arquivo": "Moe Suzuya from Koisuru Asteroid [episode 10].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:03"
         }
     ],
     "Boku wa Konomama Kaeranai": [
@@ -2232,7 +2232,7 @@ const dados = {
             "personagem": "Moeko Kobashi",
             "info": "ep1",
             "arquivo": "Moeko Kobashi from Boku wa Konomama Kaeranai [ep1].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:04"
         }
     ],
     "Joshikousei Girl's High": [
@@ -2240,7 +2240,7 @@ const dados = {
             "personagem": "Momoka Suzuki",
             "info": "ep6",
             "arquivo": "Momoka Suzuki from Joshikousei Girl's High [ep6].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:05"
         }
     ],
     "Net-juu no Susume": [
@@ -2248,7 +2248,7 @@ const dados = {
             "personagem": "Moriko Morioka",
             "info": "episode 5",
             "arquivo": "Moriko Morioka from Net-juu no Susume [episode 5].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:05"
         }
     ],
     "Owarimonogatari": [
@@ -2256,7 +2256,7 @@ const dados = {
             "personagem": "Nadeko Sengoku",
             "info": "episode 6",
             "arquivo": "Nadeko Sengoku from Owarimonogatari [episode 6].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:05"
         }
     ],
     "Yuru Camp": [
@@ -2264,13 +2264,13 @@ const dados = {
             "personagem": "Nadeshiko Kamigahara",
             "info": "movie",
             "arquivo": "Nadeshiko Kamigahara from Yuru Camp [movie].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:05"
         },
         {
             "personagem": "Rin Shima",
             "info": "OVA",
             "arquivo": "Rin Shima from Yuru Camp [OVA].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:11"
         }
     ],
     "Chou Kuse ni Narisou": [
@@ -2278,7 +2278,7 @@ const dados = {
             "personagem": "Nagisa Shiratori",
             "info": "ep1",
             "arquivo": "Nagisa Shiratori from Chou Kuse ni Narisou [ep1].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:05"
         }
     ],
     "Akame Ga Kill": [
@@ -2286,7 +2286,7 @@ const dados = {
             "personagem": "Najenda",
             "info": "ep 13 long hair flashback",
             "arquivo": "Najenda from Akame Ga Kill [ep 13 long hair flashback].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:05"
         }
     ],
     "Nana": [
@@ -2294,7 +2294,7 @@ const dados = {
             "personagem": "Nana Komatsu",
             "info": "ep2",
             "arquivo": "Nana Komatsu from Nana [ep2].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:05"
         }
     ],
     "Gokujo Seitokai": [
@@ -2302,7 +2302,7 @@ const dados = {
             "personagem": "Nanaho Kinjo",
             "info": "episode 12",
             "arquivo": "Nanaho Kinjo from Gokujo Seitokai [episode 12].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:05"
         }
     ],
     "Lamune": [
@@ -2310,7 +2310,7 @@ const dados = {
             "personagem": "Nanami Konoe",
             "info": "episode 12",
             "arquivo": "Nanami Konoe from Lamune [episode 12].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:05"
         }
     ],
     "Gunsmith Cats": [
@@ -2318,7 +2318,7 @@ const dados = {
             "personagem": "Natasha Radinov",
             "info": "ova 3",
             "arquivo": "Natasha Radinov from Gunsmith Cats [ova 3].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:05"
         }
     ],
     "Eiga Daisuki Pompo-san": [
@@ -2326,7 +2326,7 @@ const dados = {
             "personagem": "Nathalie Woodward",
             "info": "movie",
             "arquivo": "Nathalie Woodward from Eiga Daisuki Pompo-san [movie].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:06"
         }
     ],
     "Watashi no Yuri wa Oshigoto Desu": [
@@ -2334,7 +2334,7 @@ const dados = {
             "personagem": "Nene Nishidera",
             "info": "episode 10 flashback",
             "arquivo": "Nene Nishidera from Watashi no Yuri wa Oshigoto Desu [episode 10 flashback].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:06"
         }
     ],
     "Tengen Toppa Gurren Lagann": [
@@ -2342,7 +2342,7 @@ const dados = {
             "personagem": "Nia Teppelin",
             "info": "episode 12",
             "arquivo": "Nia Teppelin from Tengen Toppa Gurren Lagann [episode 12].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:06"
         }
     ],
     "Heroic Age": [
@@ -2350,7 +2350,7 @@ const dados = {
             "personagem": "Nilval",
             "info": "episode 26",
             "arquivo": "Nilval from Heroic Age [episode 26].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:06"
         }
     ],
     "Gotoubun no Hanayome": [
@@ -2358,7 +2358,7 @@ const dados = {
             "personagem": "Nino Nakano",
             "info": "s2e4",
             "arquivo": "Nino Nakano from Gotoubun no Hanayome [s2e4].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:06"
         }
     ],
     "Goblin Slayer Goblin Crown": [
@@ -2366,7 +2366,7 @@ const dados = {
             "personagem": "Noble Fencer",
             "info": "movie",
             "arquivo": "Noble Fencer from Goblin Slayer Goblin Crown [movie].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:06"
         }
     ],
     "Tenchi Muyou! Ryououki Dai 3-ki": [
@@ -2374,7 +2374,7 @@ const dados = {
             "personagem": "Noike Kamiki Jurai",
             "info": "ep3",
             "arquivo": "Noike Kamiki Jurai from Tenchi Muyou! Ryououki Dai 3-ki [ep3].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:08"
         }
     ],
     "K-ON 2": [
@@ -2382,7 +2382,7 @@ const dados = {
             "personagem": "Norimi Kawaguchi",
             "info": "episode 10 flashback",
             "arquivo": "Norimi Kawaguchi from K-ON 2 [episode 10 flashback].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:08"
         }
     ],
     "Venus Project Climax": [
@@ -2390,7 +2390,7 @@ const dados = {
             "personagem": "Nureha Miu",
             "info": "episode 6",
             "arquivo": "Nureha Miu from Venus Project Climax [episode 6].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:08"
         }
     ],
     "Shuumatsu Nani Shitemasu ka": [
@@ -2398,7 +2398,7 @@ const dados = {
             "personagem": "Nygglatho Astartus",
             "info": "episode 12",
             "arquivo": "Nygglatho Astartus from Shuumatsu Nani Shitemasu ka [episode 12].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:08"
         }
     ],
     "Elfen Lied": [
@@ -2406,7 +2406,7 @@ const dados = {
             "personagem": "Nyuu [Lucy]",
             "info": "ep 11",
             "arquivo": "Nyuu [Lucy] from Elfen Lied [ep 11].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:08"
         }
     ],
     "xxxHolic": [
@@ -2414,7 +2414,7 @@ const dados = {
             "personagem": "Older Sister",
             "info": "s1ep15",
             "arquivo": "Older Sister from xxxHolic [s1ep15].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:08"
         }
     ],
     "Asobi Asobase": [
@@ -2422,7 +2422,7 @@ const dados = {
             "personagem": "Olivia",
             "info": "bangs - ep 6",
             "arquivo": "Olivia from Asobi Asobase [bangs - ep 6].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:08"
         }
     ],
     "Shikizakura": [
@@ -2430,7 +2430,7 @@ const dados = {
             "personagem": "Ooka Myoujin",
             "info": "ep 12",
             "arquivo": "Ooka Myoujin from Shikizakura [ep 12].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:08"
         }
     ],
     "Dororo": [
@@ -2438,7 +2438,7 @@ const dados = {
             "personagem": "Osushi",
             "info": "episode 4",
             "arquivo": "Osushi from Dororo [episode 4].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:09"
         }
     ],
     "Kanata no Astra": [
@@ -2446,19 +2446,19 @@ const dados = {
             "personagem": "Polina Livinskaya",
             "info": "ep12",
             "arquivo": "Polina Livinskaya from Kanata no Astra [ep12].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:09"
         },
         {
             "personagem": "Quitterie Raffaeli",
             "info": "ep12",
             "arquivo": "Quitterie Raffaeli from Kanata no Astra [ep12].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:11"
         },
         {
             "personagem": "Yun Hua Lu",
             "info": "episode 5",
             "arquivo": "Yun Hua Lu from Kanata no Astra [episode 5].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:40"
         }
     ],
     "Back Arrow": [
@@ -2466,7 +2466,7 @@ const dados = {
             "personagem": "Prax Conrad",
             "info": "episode 9 flashback",
             "arquivo": "Prax Conrad from Back Arrow [episode 9 flashback].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:09"
         }
     ],
     "Hakkenden Toho Hakken Ibun": [
@@ -2474,7 +2474,7 @@ const dados = {
             "personagem": "Princess Yana",
             "info": "s2e5",
             "arquivo": "Princess Yana from Hakkenden Toho Hakken Ibun [s2e5].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:09"
         }
     ],
     "Xiong Bing Lian": [
@@ -2482,7 +2482,7 @@ const dados = {
             "personagem": "Qiangwei",
             "info": "s9ep26",
             "arquivo": "Qiangwei from Xiong Bing Lian [s9ep26].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:09"
         }
     ],
     "Mirai Nikki": [
@@ -2490,7 +2490,7 @@ const dados = {
             "personagem": "Rea Amane",
             "info": "episode 25",
             "arquivo": "Rea Amane from Mirai Nikki [episode 25].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:11"
         }
     ],
     "Kakegurui": [
@@ -2498,7 +2498,7 @@ const dados = {
             "personagem": "Rei Batsubami",
             "info": "s2e12 flashback",
             "arquivo": "Rei Batsubami from Kakegurui [s2e12 flashback].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:11"
         }
     ],
     "Stand My Heroes Piece of Truth": [
@@ -2506,7 +2506,7 @@ const dados = {
             "personagem": "Rei Izumi",
             "info": "episode 2",
             "arquivo": "Rei Izumi from Stand My Heroes Piece of Truth [episode 2].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:11"
         }
     ],
     "Healer Girl": [
@@ -2514,7 +2514,7 @@ const dados = {
             "personagem": "Reimi Itsushiro",
             "info": "ep12",
             "arquivo": "Reimi Itsushiro from Healer Girl [ep12].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:11"
         }
     ],
     "Rave Master": [
@@ -2522,7 +2522,7 @@ const dados = {
             "personagem": "Resha Valentine [Elie]",
             "info": "ep39 long hair flashback",
             "arquivo": "Resha Valentine [Elie] from Rave Master [ep39 long hair flashback].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:11"
         }
     ],
     "Kuroko no Basuke": [
@@ -2530,7 +2530,7 @@ const dados = {
             "personagem": "Riko Aida",
             "info": "s3e17",
             "arquivo": "Riko Aida from Kuroko no Basuke [s3e17].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:11"
         }
     ],
     "Made in Abyss": [
@@ -2538,7 +2538,7 @@ const dados = {
             "personagem": "Riko",
             "info": "s2e6",
             "arquivo": "Riko from Made in Abyss [s2e6].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:11"
         }
     ],
     "Shokugeki no Soma": [
@@ -2546,13 +2546,13 @@ const dados = {
             "personagem": "Rindo Kobayashi",
             "info": "s3e7 flashback",
             "arquivo": "Rindo Kobayashi from Shokugeki no Soma [s3e7 flashback].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:11"
         },
         {
             "personagem": "Ryoko Sakaki",
             "info": "s4e12",
             "arquivo": "Ryoko Sakaki from Shokugeki no Soma [s4e12].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:20"
         }
     ],
     "Ueki no Housoku": [
@@ -2560,7 +2560,7 @@ const dados = {
             "personagem": "Rinko Jerrard",
             "info": "episode 16",
             "arquivo": "Rinko Jerrard from Ueki no Housoku [episode 16].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:11"
         }
     ],
     "Loop 7-kaime no Akuyaku Reijou wa": [
@@ -2568,7 +2568,7 @@ const dados = {
             "personagem": "Rishe",
             "info": "ep 1",
             "arquivo": "Rishe from Loop 7-kaime no Akuyaku Reijou wa [ep 1].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:11"
         }
     ],
     "Wellber no Monogatari": [
@@ -2576,7 +2576,7 @@ const dados = {
             "personagem": "Rita Sior",
             "info": "ep2",
             "arquivo": "Rita Sior from Wellber no Monogatari [ep2].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:11"
         }
     ],
     "Evangelion 3+1": [
@@ -2584,7 +2584,7 @@ const dados = {
             "personagem": "Ritsuko Akagi",
             "info": "movie",
             "arquivo": "Ritsuko Akagi from Evangelion 3+1 [movie].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:12"
         }
     ],
     "Sakamichi no Apollon": [
@@ -2592,7 +2592,7 @@ const dados = {
             "personagem": "Ritsuko Mukae",
             "info": "episode 12",
             "arquivo": "Ritsuko Mukae from Sakamichi no Apollon [episode 12].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:12"
         }
     ],
     "Natsuyuki Rendezvous": [
@@ -2600,7 +2600,7 @@ const dados = {
             "personagem": "Rokka Shimao",
             "info": "flashbacks",
             "arquivo": "Rokka Shimao from Natsuyuki Rendezvous [flashbacks].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:12"
         }
     ],
     "Eminence in Shadow": [
@@ -2608,7 +2608,7 @@ const dados = {
             "personagem": "Rose Oriana",
             "info": "ep20",
             "arquivo": "Rose Oriana from Eminence in Shadow [ep20].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:12"
         }
     ],
     "Berserk of Gluttony": [
@@ -2616,7 +2616,7 @@ const dados = {
             "personagem": "Roxy Hart",
             "info": "ep 12 flashback short hair",
             "arquivo": "Roxy Hart from Berserk of Gluttony [ep 12 flashback short hair].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:12"
         }
     ],
     "WWW Working": [
@@ -2624,7 +2624,7 @@ const dados = {
             "personagem": "Rui Nagata",
             "info": "episode 13",
             "arquivo": "Rui Nagata from WWW Working [episode 13].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:12"
         }
     ],
     "Gaiking Legend of Daiky Maryu": [
@@ -2632,7 +2632,7 @@ const dados = {
             "personagem": "Ruru Ajesu",
             "info": "ep 30",
             "arquivo": "Ruru Ajesu from Gaiking Legend of Daiky Maryu [ep 30].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:19"
         }
     ],
     "Megazone 23": [
@@ -2640,7 +2640,7 @@ const dados = {
             "personagem": "Ryo Narahara",
             "info": "part 2 1989",
             "arquivo": "Ryo Narahara from Megazone 23 [part 2 1989].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:20"
         }
     ],
     "Kara no Kyoukai": [
@@ -2648,7 +2648,7 @@ const dados = {
             "personagem": "Ryougi Shiki",
             "info": "movie 4",
             "arquivo": "Ryougi Shiki from Kara no Kyoukai [movie 4].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:20"
         }
     ],
     "Hugtto Precure": [
@@ -2656,7 +2656,7 @@ const dados = {
             "personagem": "Saaya Yakushiji",
             "info": "ep49",
             "arquivo": "Saaya Yakushiji from Hugtto Precure [ep49].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:20"
         }
     ],
     "High Guardian Spice": [
@@ -2664,7 +2664,7 @@ const dados = {
             "personagem": "Sage",
             "info": "ep12",
             "arquivo": "Sage from High Guardian Spice [ep12].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:20"
         }
     ],
     "Shinsekai Yori": [
@@ -2672,7 +2672,7 @@ const dados = {
             "personagem": "Saki Watanabe",
             "info": "final episode",
             "arquivo": "Saki Watanabe from Shinsekai Yori [final episode].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:20"
         }
     ],
     "Kyokou Suiri": [
@@ -2680,7 +2680,7 @@ const dados = {
             "personagem": "Saki Yumihara",
             "info": "ep7 flashback",
             "arquivo": "Saki Yumihara from Kyokou Suiri [ep7 flashback].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:20"
         }
     ],
     "Urara Meirochou": [
@@ -2688,7 +2688,7 @@ const dados = {
             "personagem": "Saku",
             "info": "episode 3",
             "arquivo": "Saku from Urara Meirochou [episode 3].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:20"
         }
     ],
     "Gakkou Gurashi": [
@@ -2696,7 +2696,7 @@ const dados = {
             "personagem": "Sakura",
             "info": "episode 10",
             "arquivo": "Sakura from Gakkou Gurashi [episode 10].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:20"
         }
     ],
     "Kindaichi Shounen no Jikenbo": [
@@ -2704,7 +2704,7 @@ const dados = {
             "personagem": "Sakura",
             "info": "ep 10",
             "arquivo": "Sakura from Kindaichi Shounen no Jikenbo [ep 10].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:20"
         }
     ],
     "Yuru Camp Movie": [
@@ -2712,7 +2712,7 @@ const dados = {
             "personagem": "Sakura",
             "info": "timeskip",
             "arquivo": "Sakura from Yuru Camp Movie [timeskip].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:20"
         }
     ],
     "Sekai de Ichiban Tsuyoku Naritai!": [
@@ -2720,7 +2720,7 @@ const dados = {
             "personagem": "Sakura Hagiwara",
             "info": "episode 1",
             "arquivo": "Sakura Hagiwara from Sekai de Ichiban Tsuyoku Naritai! [episode 1].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:21"
         }
     ],
     "Samurai Flamenco": [
@@ -2728,7 +2728,7 @@ const dados = {
             "personagem": "Sakura Momoi",
             "info": "ep20",
             "arquivo": "Sakura Momoi from Samurai Flamenco [ep20].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:21"
         }
     ],
     "Weiß Kreuz": [
@@ -2736,7 +2736,7 @@ const dados = {
             "personagem": "Sakura Tomoe",
             "info": "ep 25",
             "arquivo": "Sakura Tomoe from Weiß Kreuz [ep 25].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:21"
         }
     ],
     "Da Capo": [
@@ -2744,7 +2744,7 @@ const dados = {
             "personagem": "Sakura Yoshino",
             "info": "s2e8",
             "arquivo": "Sakura Yoshino from Da Capo [s2e8].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:21"
         }
     ],
     "Utawarerumono": [
@@ -2752,7 +2752,7 @@ const dados = {
             "personagem": "Sakuya",
             "info": "ep20",
             "arquivo": "Sakuya from Utawarerumono [ep20].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:21"
         }
     ],
     "Peach Boy Riverside": [
@@ -2760,7 +2760,7 @@ const dados = {
             "personagem": "Saltorine Aldike",
             "info": "episode 4",
             "arquivo": "Saltorine Aldike from Peach Boy Riverside [episode 4].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:21"
         }
     ],
     "Alice to Zouroku": [
@@ -2768,7 +2768,7 @@ const dados = {
             "personagem": "Sana Kashimura",
             "info": "episode 6",
             "arquivo": "Sana Kashimura from Alice to Zouroku [episode 6].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:22"
         }
     ],
     "Kuzu no Honkai": [
@@ -2776,7 +2776,7 @@ const dados = {
             "personagem": "Sanae Ebato",
             "info": "episode 12",
             "arquivo": "Sanae Ebato from Kuzu no Honkai [episode 12].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:23"
         }
     ],
     "Jujutsu Kaisen": [
@@ -2784,7 +2784,7 @@ const dados = {
             "personagem": "Saori",
             "info": "ep 43",
             "arquivo": "Saori from Jujutsu Kaisen [ep 43].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:23"
         }
     ],
     "Saint Seiya Legend of Sanctuary": [
@@ -2792,7 +2792,7 @@ const dados = {
             "personagem": "Saori Kido",
             "info": "movie",
             "arquivo": "Saori Kido from Saint Seiya Legend of Sanctuary [movie].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:23"
         }
     ],
     "Ima, Soko ni Iru Boku": [
@@ -2800,7 +2800,7 @@ const dados = {
             "personagem": "Sara Ringwalt",
             "info": "episode 6",
             "arquivo": "Sara Ringwalt from Ima, Soko ni Iru Boku [episode 6].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:23"
         }
     ],
     "Soukou no Strain": [
@@ -2808,7 +2808,7 @@ const dados = {
             "personagem": "Sara Werec",
             "info": "ep2",
             "arquivo": "Sara Werec from Soukou no Strain [ep2].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:23"
         }
     ],
     "Shinmai Renkinjutsushi no Tenpo Keiei": [
@@ -2816,7 +2816,7 @@ const dados = {
             "personagem": "Sarasa",
             "info": "episode 1",
             "arquivo": "Sarasa from Shinmai Renkinjutsushi no Tenpo Keiei [episode 1].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:23"
         }
     ],
     "Mayonaka no Occult Koumuin": [
@@ -2824,7 +2824,7 @@ const dados = {
             "personagem": "Sasaki Shiori",
             "info": "episode 8",
             "arquivo": "Sasaki Shiori from Mayonaka no Occult Koumuin [episode 8].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:23"
         }
     ],
     "Kill la Kill": [
@@ -2832,13 +2832,13 @@ const dados = {
             "personagem": "Satsuki Kiryuin",
             "info": "ova",
             "arquivo": "Satsuki Kiryuin from Kill la Kill [ova].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:23"
         },
         {
             "personagem": "Satsuki Kiryuuin",
             "info": "OVA 1",
             "arquivo": "Satsuki Kiryuuin from Kill la Kill [OVA 1].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:23"
         }
     ],
     "Blood C": [
@@ -2846,7 +2846,7 @@ const dados = {
             "personagem": "Saya",
             "info": "movie",
             "arquivo": "Saya from Blood C [movie].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:23"
         }
     ],
     "Dagashi Kashi": [
@@ -2854,7 +2854,7 @@ const dados = {
             "personagem": "Saya",
             "info": "ep 6",
             "arquivo": "Saya from Dagashi Kashi [ep 6].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:24"
         }
     ],
     "Black Rock Shooter": [
@@ -2862,7 +2862,7 @@ const dados = {
             "personagem": "Saya Irino",
             "info": "ep 6 long hair flashback",
             "arquivo": "Saya Irino from Black Rock Shooter [ep 6 long hair flashback].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:24"
         }
     ],
     "Blood+": [
@@ -2870,7 +2870,7 @@ const dados = {
             "personagem": "Saya Otonashi",
             "info": "ep22 flashback",
             "arquivo": "Saya Otonashi from Blood+ [ep22 flashback].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:24"
         }
     ],
     "Kimi no na wa": [
@@ -2878,7 +2878,7 @@ const dados = {
             "personagem": "Sayaka Natori",
             "info": "movie",
             "arquivo": "Sayaka Natori from Kimi no na wa [movie].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:24"
         }
     ],
     "Sayonara Watashi no Cramer First Touch": [
@@ -2886,7 +2886,7 @@ const dados = {
             "personagem": "Sayonara Onda",
             "info": "movie",
             "arquivo": "Sayonara Onda from Sayonara Watashi no Cramer First Touch [movie].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:24"
         }
     ],
     "Dosanko Gal wa Namara Menkoi": [
@@ -2894,7 +2894,7 @@ const dados = {
             "personagem": "Sayuri Akino",
             "info": "ep10",
             "arquivo": "Sayuri Akino from Dosanko Gal wa Namara Menkoi [ep10].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:24"
         }
     ],
     "S CRY ED": [
@@ -2902,7 +2902,7 @@ const dados = {
             "personagem": "Scheris Adjani",
             "info": "ep 23",
             "arquivo": "Scheris Adjani from S CRY ED [ep 23].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:24"
         }
     ],
     "Tatoeba Last Dungeon Mae no Mura no Shounen ga Joban no Machi de Kurasu Youna Monogatari": [
@@ -2910,7 +2910,7 @@ const dados = {
             "personagem": "Selen Hemein",
             "info": "episode 1",
             "arquivo": "Selen Hemein from Tatoeba Last Dungeon Mae no Mura no Shounen ga Joban no Machi de Kurasu Youna Monogatari [episode 1].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:24"
         }
     ],
     "Pokemon XY": [
@@ -2918,7 +2918,7 @@ const dados = {
             "personagem": "Serena",
             "info": "ep 60",
             "arquivo": "Serena from Pokemon XY [ep 60].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:26"
         }
     ],
     "Rainbow Nisha Rokubou no Shichinin": [
@@ -2926,7 +2926,7 @@ const dados = {
             "personagem": "Setsuko Koike",
             "info": "episode 12",
             "arquivo": "Setsuko Koike from Rainbow Nisha Rokubou no Shichinin [episode 12].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:26"
         }
     ],
     "Kyoshiro to Towa no Sora": [
@@ -2934,7 +2934,7 @@ const dados = {
             "personagem": "Setsuna",
             "info": "episode 12",
             "arquivo": "Setsuna from Kyoshiro to Towa no Sora [episode 12].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:26"
         }
     ],
     "Upotte": [
@@ -2942,13 +2942,13 @@ const dados = {
             "personagem": "SG550",
             "info": "ep6",
             "arquivo": "SG550 from Upotte [ep6].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:26"
         },
         {
             "personagem": "Steyr AUG",
             "info": "ep 6 switches hairstyle",
             "arquivo": "Steyr AUG from Upotte [ep 6 switches hairstyle].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:28"
         }
     ],
     "Joshi Kausei": [
@@ -2956,7 +2956,7 @@ const dados = {
             "personagem": "Shibumi Shiwasawa",
             "info": "ep 10 flashback-she grows her hair",
             "arquivo": "Shibumi Shiwasawa from Joshi Kausei [ep 10 flashback-she grows her hair].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:27"
         }
     ],
     "Yesterday wo Utatte": [
@@ -2964,7 +2964,7 @@ const dados = {
             "personagem": "Shinako Morinome",
             "info": "episode 2",
             "arquivo": "Shinako Morinome from Yesterday wo Utatte [episode 2].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:27"
         }
     ],
     "Megami Cafe Terrace": [
@@ -2972,7 +2972,7 @@ const dados = {
             "personagem": "Shiragiku Ono",
             "info": "episode 12 flashback",
             "arquivo": "Shiragiku Ono from Megami Cafe Terrace [episode 12 flashback].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:27"
         }
     ],
     "Sora yori mo Tooi Basho": [
@@ -2980,7 +2980,7 @@ const dados = {
             "personagem": "Shirase Kobuchizawa",
             "info": "episode 13",
             "arquivo": "Shirase Kobuchizawa from Sora yori mo Tooi Basho [episode 13].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:27"
         }
     ],
     "Akagami no Shirayuki-hime": [
@@ -2988,7 +2988,7 @@ const dados = {
             "personagem": "Shirayuki",
             "info": "episode 1",
             "arquivo": "Shirayuki from Akagami no Shirayuki-hime [episode 1].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:27"
         }
     ],
     "Kidou Senshi Gundam 00": [
@@ -2996,13 +2996,13 @@ const dados = {
             "personagem": "Shirin Bakhtiar",
             "info": "movie",
             "arquivo": "Shirin Bakhtiar from Kidou Senshi Gundam 00 [movie].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:27"
         },
         {
             "personagem": "Sumeragi Lee Noriega",
             "info": "s2e2",
             "arquivo": "Sumeragi Lee Noriega from Kidou Senshi Gundam 00 [s2e2].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:28"
         }
     ],
     "Zom 100": [
@@ -3010,7 +3010,7 @@ const dados = {
             "personagem": "Shizuka Mikazuki",
             "info": "episode 7 flashback",
             "arquivo": "Shizuka Mikazuki from Zom 100 [episode 7 flashback].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:27"
         }
     ],
     "Undead Girl Murder Farce": [
@@ -3018,7 +3018,7 @@ const dados = {
             "personagem": "Shizuku Hasei",
             "info": "episode 2",
             "arquivo": "Shizuku Hasei from Undead Girl Murder Farce [episode 2].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:27"
         }
     ],
     "Saint Seiya Omega": [
@@ -3026,13 +3026,13 @@ const dados = {
             "personagem": "Shunrei",
             "info": "ep55",
             "arquivo": "Shunrei from Saint Seiya Omega [ep55].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:27"
         },
         {
             "personagem": "Sonia",
             "info": "episode 40 onscreen",
             "arquivo": "Sonia from Saint Seiya Omega [episode 40 onscreen].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:28"
         }
     ],
     "Air Gear": [
@@ -3040,13 +3040,13 @@ const dados = {
             "personagem": "Simca",
             "info": "_episode 21",
             "arquivo": "Simca from Air Gear [_episode 21].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:28"
         },
         {
             "personagem": "Simca",
             "info": "episode 21",
             "arquivo": "Simca from Air Gear [episode 21].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:27"
         }
     ],
     "Sakugan": [
@@ -3054,7 +3054,7 @@ const dados = {
             "personagem": "Sina",
             "info": "episode 11",
             "arquivo": "Sina from Sakugan [episode 11].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:28"
         }
     ],
     "Spirit Pact Yomi no Chigiri": [
@@ -3062,7 +3062,7 @@ const dados = {
             "personagem": "Siyun Duanmu",
             "info": "episode 12",
             "arquivo": "Siyun Duanmu from Spirit Pact Yomi no Chigiri [episode 12].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:28"
         }
     ],
     "Turn A Gundam": [
@@ -3070,7 +3070,7 @@ const dados = {
             "personagem": "Sochie",
             "info": "episode 1",
             "arquivo": "Sochie from Turn A Gundam [episode 1].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:28"
         }
     ],
     "Zoku Owarimonogatari": [
@@ -3078,7 +3078,7 @@ const dados = {
             "personagem": "Sodachi Oikura",
             "info": "episode 2",
             "arquivo": "Sodachi Oikura from Zoku Owarimonogatari [episode 2].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:28"
         }
     ],
     "Howl no Ugoku Shiro": [
@@ -3086,7 +3086,7 @@ const dados = {
             "personagem": "Sophie Hatter",
             "info": "movie",
             "arquivo": "Sophie Hatter from Howl no Ugoku Shiro [movie].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:28"
         }
     ],
     "Tonari no Kyuuketsuki-san": [
@@ -3094,7 +3094,7 @@ const dados = {
             "personagem": "Sophie Twilight",
             "info": "episode 12",
             "arquivo": "Sophie Twilight from Tonari no Kyuuketsuki-san [episode 12].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:28"
         }
     ],
     "Digimon Adventures Tri": [
@@ -3102,7 +3102,7 @@ const dados = {
             "personagem": "Sora",
             "info": "movie 6",
             "arquivo": "Sora from Digimon Adventures Tri [movie 6].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:28"
         }
     ],
     "Hanamonogatari": [
@@ -3110,7 +3110,7 @@ const dados = {
             "personagem": "Suruga Kanbaru",
             "info": "episode 5",
             "arquivo": "Suruga Kanbaru from Hanamonogatari [episode 5].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:28"
         }
     ],
     "Kono Sekai no Katasumi ni": [
@@ -3118,7 +3118,7 @@ const dados = {
             "personagem": "Suzu Urano",
             "info": "movie",
             "arquivo": "Suzu Urano from Kono Sekai no Katasumi ni [movie].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:28"
         }
     ],
     "Akudama Drive": [
@@ -3126,7 +3126,7 @@ const dados = {
             "personagem": "Swindler",
             "info": "episode 8",
             "arquivo": "Swindler from Akudama Drive [episode 8].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:29"
         }
     ],
     "Mizu Iro Jidai": [
@@ -3134,7 +3134,7 @@ const dados = {
             "personagem": "Taka",
             "info": "episode 1",
             "arquivo": "Taka from Mizu Iro Jidai [episode 1].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:30"
         }
     ],
     "Orange": [
@@ -3142,7 +3142,7 @@ const dados = {
             "personagem": "Takako Chino",
             "info": "episode 3 timeskip",
             "arquivo": "Takako Chino from Orange [episode 3 timeskip].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:30"
         }
     ],
     "Koukyoushihen Eureka Seven": [
@@ -3150,7 +3150,7 @@ const dados = {
             "personagem": "Talho Yuuki",
             "info": "episode 30",
             "arquivo": "Talho Yuuki from Koukyoushihen Eureka Seven [episode 30].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:30"
         }
     ],
     "Fantasy Bishoujo Junika Ojisan": [
@@ -3158,7 +3158,7 @@ const dados = {
             "personagem": "Tilolilo",
             "info": "episode 3",
             "arquivo": "Tilolilo from Fantasy Bishoujo Junika Ojisan [episode 3].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:30"
         }
     ],
     "Date a Live": [
@@ -3166,7 +3166,7 @@ const dados = {
             "personagem": "Tobiichi Origami",
             "info": "s3e10",
             "arquivo": "Tobiichi Origami from Date a Live [s3e10].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:30"
         }
     ],
     "Tengoku Daimakyou": [
@@ -3174,7 +3174,7 @@ const dados = {
             "personagem": "Tokio",
             "info": "episode 12",
             "arquivo": "Tokio from Tengoku Daimakyou [episode 12].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:31"
         }
     ],
     "Azumanga Daioh": [
@@ -3182,7 +3182,7 @@ const dados = {
             "personagem": "Tomo Takino",
             "info": "episode 20",
             "arquivo": "Tomo Takino from Azumanga Daioh [episode 20].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:31"
         }
     ],
     "Busou Chuugakusei Basket Army": [
@@ -3190,7 +3190,7 @@ const dados = {
             "personagem": "Touko Natori",
             "info": "episode 5",
             "arquivo": "Touko Natori from Busou Chuugakusei Basket Army [episode 5].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:31"
         }
     ],
     "Nil Admirari no Tenbin": [
@@ -3198,7 +3198,7 @@ const dados = {
             "personagem": "Tsugumi Kuze",
             "info": "ep1",
             "arquivo": "Tsugumi Kuze from Nil Admirari no Tenbin [ep1].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:31"
         }
     ],
     "Amagami SS": [
@@ -3206,7 +3206,7 @@ const dados = {
             "personagem": "Tsukasa Ayatsuji",
             "info": "ep 24",
             "arquivo": "Tsukasa Ayatsuji from Amagami SS [ep 24].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:31"
         }
     ],
     "Ichigo 100": [
@@ -3214,7 +3214,7 @@ const dados = {
             "personagem": "Tsukasa Nishino",
             "info": "ep10",
             "arquivo": "Tsukasa Nishino from Ichigo 100 [ep10].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:31"
         }
     ],
     "Mousou Dairinin": [
@@ -3222,7 +3222,7 @@ const dados = {
             "personagem": "Tsukiko Sagi",
             "info": "ep13",
             "arquivo": "Tsukiko Sagi from Mousou Dairinin [ep13].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:31"
         }
     ],
     "Inazuma Eleven Orion no Kokuin": [
@@ -3230,7 +3230,7 @@ const dados = {
             "personagem": "Umihara Norika",
             "info": "ep 34",
             "arquivo": "Umihara Norika from Inazuma Eleven Orion no Kokuin [ep 34].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:31"
         }
     ],
     "Shoujo Kakumei Utena": [
@@ -3238,7 +3238,7 @@ const dados = {
             "personagem": "Utena Tenjou",
             "info": "movie",
             "arquivo": "Utena Tenjou from Shoujo Kakumei Utena [movie].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:31"
         }
     ],
     "Helck": [
@@ -3246,7 +3246,7 @@ const dados = {
             "personagem": "Vamirio",
             "info": "episode 2",
             "arquivo": "Vamirio from Helck [episode 2].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:36"
         }
     ],
     "Kenran Butou Sai The Mars Daybreak": [
@@ -3254,7 +3254,7 @@ const dados = {
             "personagem": "Vestemona Lauren",
             "info": "episode 15",
             "arquivo": "Vestemona Lauren from Kenran Butou Sai The Mars Daybreak [episode 15].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:38"
         }
     ],
     "Vivy Fluorite Eye's Song": [
@@ -3262,7 +3262,7 @@ const dados = {
             "personagem": "Vivy",
             "info": "episode 12",
             "arquivo": "Vivy from Vivy Fluorite Eye's Song [episode 12].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:38"
         }
     ],
     "Jinrui Wa Suitai Shimashita": [
@@ -3270,7 +3270,7 @@ const dados = {
             "personagem": "Watashi",
             "info": "episode 6",
             "arquivo": "Watashi from Jinrui Wa Suitai Shimashita [episode 6].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:38"
         }
     ],
     "Read or Die the TV": [
@@ -3278,7 +3278,7 @@ const dados = {
             "personagem": "Wendy Earhart",
             "info": "ep 3",
             "arquivo": "Wendy Earhart from Read or Die the TV [ep 3].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:39"
         }
     ],
     "Love Between Fairy and Devil": [
@@ -3286,7 +3286,7 @@ const dados = {
             "personagem": "Xiao Lan Hua",
             "info": "s2ep1",
             "arquivo": "Xiao Lan Hua from Love Between Fairy and Devil [s2ep1].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:39"
         }
     ],
     "Koe No Katachi": [
@@ -3294,7 +3294,7 @@ const dados = {
             "personagem": "Yaeko Nishimiya",
             "info": "movie",
             "arquivo": "Yaeko Nishimiya from Koe No Katachi [movie].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:39"
         }
     ],
     "Majin Tantei Nougami Neuro": [
@@ -3302,7 +3302,7 @@ const dados = {
             "personagem": "Yako Katsuragi",
             "info": "ep6 wig",
             "arquivo": "Yako Katsuragi from Majin Tantei Nougami Neuro [ep6 wig].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:39"
         }
     ],
     "Aoi Hana": [
@@ -3310,7 +3310,7 @@ const dados = {
             "personagem": "Yasuko Sugimoto",
             "info": "ep10 flashback",
             "arquivo": "Yasuko Sugimoto from Aoi Hana [ep10 flashback].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:39"
         }
     ],
     "Rock wa Lady no Tashinami deshite": [
@@ -3318,7 +3318,7 @@ const dados = {
             "personagem": "Yayoi Takayanagi",
             "info": "episode 11",
             "arquivo": "Yayoi Takayanagi from Rock wa Lady no Tashinami deshite [episode 11].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2026-07-25T16:29:40"
         }
     ],
     "Akatsuki no Yona": [
@@ -3326,7 +3326,7 @@ const dados = {
             "personagem": "Yona",
             "info": "ep6",
             "arquivo": "Yona from Akatsuki no Yona [ep6].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:39"
         }
     ],
     "Wake Up, Girls!": [
@@ -3334,7 +3334,7 @@ const dados = {
             "personagem": "Yoshino Nanase",
             "info": "movie 2",
             "arquivo": "Yoshino Nanase from Wake Up, Girls! [movie 2].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:39"
         }
     ],
     "Boku wa Tomodachi ga Sukunai": [
@@ -3342,7 +3342,7 @@ const dados = {
             "personagem": "Yozora Mikazuki",
             "info": "s1e11",
             "arquivo": "Yozora Mikazuki from Boku wa Tomodachi ga Sukunai [s1e11].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:39"
         }
     ],
     "Twelve Kingdom": [
@@ -3350,7 +3350,7 @@ const dados = {
             "personagem": "Yuka Sugimoto",
             "info": "episode 15",
             "arquivo": "Yuka Sugimoto from Twelve Kingdom [episode 15].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:39"
         }
     ],
     "Whistle": [
@@ -3358,7 +3358,7 @@ const dados = {
             "personagem": "Yuki Kojima",
             "info": "episode 11",
             "arquivo": "Yuki Kojima from Whistle [episode 11].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:39"
         }
     ],
     "Shirobako": [
@@ -3366,7 +3366,7 @@ const dados = {
             "personagem": "Yumi Iguchi",
             "info": "episode 8 flashback",
             "arquivo": "Yumi Iguchi from Shirobako [episode 8 flashback].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:40"
         }
     ],
     "Soukyuu no Fafner Right of Left": [
@@ -3374,7 +3374,7 @@ const dados = {
             "personagem": "Yumi Ikoma",
             "info": "ep1",
             "arquivo": "Yumi Ikoma from Soukyuu no Fafner Right of Left [ep1].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:40"
         }
     ],
     "Stella_s Women Academy": [
@@ -3382,7 +3382,7 @@ const dados = {
             "personagem": "Yura Yamato",
             "info": "episode 3",
             "arquivo": "Yura Yamato from Stella_s Women Academy [episode 3].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:40"
         }
     ],
     "Two Car": [
@@ -3390,7 +3390,7 @@ const dados = {
             "personagem": "Yuria and Maria Shishido",
             "info": "episode 7",
             "arquivo": "Yuria and Maria Shishido from Two Car [episode 7].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:40"
         }
     ],
     "Sakimichi no Apollon": [
@@ -3398,7 +3398,7 @@ const dados = {
             "personagem": "Yurika Fukahori",
             "info": "episode 8",
             "arquivo": "Yurika Fukahori from Sakimichi no Apollon [episode 8].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:40"
         }
     ],
     "Yurumates 3D": [
@@ -3406,7 +3406,7 @@ const dados = {
             "personagem": "Yurume Aida",
             "info": "episode 2 - bangs",
             "arquivo": "Yurume Aida from Yurumates 3D [episode 2 - bangs].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:41"
         }
     ],
     "Dr Stone": [
@@ -3414,7 +3414,7 @@ const dados = {
             "personagem": "Yuzuhira",
             "info": "episode 4",
             "arquivo": "Yuzuhira from Dr Stone [episode 4].webp",
-            "data_adicao": "2026-07-25"
+            "data_adicao": "2025-05-14T12:25:42"
         }
     ]
 };

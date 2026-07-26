@@ -1,38 +1,9 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-
-    <meta charset="UTF-8">
-
-    <title>Recently Added</title>
-
-    <link rel="stylesheet" href="style.css">
-
-</head>
-
-
-<body>
-
-
 <div class="page-controls">
+    <a href="#" class="nav-button" id="back-button">Back</a>
 
-    <a
-        href="#"
-        class="nav-button"
-        id="back-button"
-    >
-        Back
-    </a>
-
-
-    <a
-        href="index.html"
-        class="nav-button"
-    >
+    <a href="index.html" class="nav-button">
         Homepage
     </a>
-
 
     <button
         id="theme-toggle"
@@ -40,7 +11,6 @@
     >
         Dark Mode
     </button>
-
 </div>
 
 
@@ -57,9 +27,7 @@
 
 
 <script src="scroll-top.js"></script>
-
 <script src="back-navigation.js"></script>
-
 <script src="theme.js"></script>
 
 
@@ -67,9 +35,18 @@
 
 
 // ============================================================
-// MAIN ELEMENT
+// CONFIGURATION
 // ============================================================
 
+// Only files created from this date onward are shown.
+
+const DATA_MINIMA =
+    "2026-01-01T00:00:00";
+
+
+// ============================================================
+// MAIN CONTAINER
+// ============================================================
 
 const recentes =
     document.getElementById(
@@ -78,22 +55,8 @@ const recentes =
 
 
 // ============================================================
-// MINIMUM DATE
+// DATA COLLECTION
 // ============================================================
-
-
-// Only items added on or after this date
-// will appear in Recently Added.
-
-
-const DATA_MINIMA =
-    "2026-07-01";
-
-
-// ============================================================
-// ALL ITEMS
-// ============================================================
-
 
 let todosItens = [];
 
@@ -101,7 +64,6 @@ let todosItens = [];
 // ============================================================
 // LOAD JAVASCRIPT DATA FILE
 // ============================================================
-
 
 async function carregarDados(url) {
 
@@ -112,11 +74,8 @@ async function carregarDados(url) {
 
     if (!resposta.ok) {
 
-
         throw new Error(
-
             `Could not load ${url}`
-
         );
 
     }
@@ -127,13 +86,13 @@ async function carregarDados(url) {
 
 
     const executar =
-        new Function(`
+        new Function(
 
-            ${texto}
+            texto +
 
-            return dados;
+            "\nreturn dados;"
 
-        `);
+        );
 
 
     return executar();
@@ -142,9 +101,8 @@ async function carregarDados(url) {
 
 
 // ============================================================
-// ADD ITEMS TO THE MAIN ARRAY
+// ADD ITEMS TO THE TEMPORARY LIST
 // ============================================================
-
 
 function adicionarItens(
 
@@ -169,10 +127,81 @@ function adicionarItens(
                 item => {
 
 
+                    // ------------------------------------------------
+                    // If there is no creation date, ignore the item.
+                    // ------------------------------------------------
+
+                    if (
+
+                        !item.data_criacao
+
+                    ) {
+
+                        return;
+
+                    }
+
+
+                    const dataCriacao =
+                        new Date(
+
+                            item.data_criacao
+
+                        );
+
+
+                    // ------------------------------------------------
+                    // Ignore invalid dates.
+                    // ------------------------------------------------
+
+                    if (
+
+                        Number.isNaN(
+
+                            dataCriacao.getTime()
+
+                        )
+
+                    ) {
+
+                        return;
+
+                    }
+
+
+                    // ------------------------------------------------
+                    // Only keep files created from 2026-01-01 onward.
+                    // ------------------------------------------------
+
+                    const dataMinima =
+                        new Date(
+
+                            DATA_MINIMA
+
+                        );
+
+
+                    if (
+
+                        dataCriacao <
+
+                        dataMinima
+
+                    ) {
+
+                        return;
+
+                    }
+
+
+                    // ------------------------------------------------
+                    // Store only the information necessary
+                    // for Recently Added.
+                    // ------------------------------------------------
+
                     todosItens.push({
 
                         personagem:
-
                             item.personagem ||
 
                             item.obra ||
@@ -181,41 +210,32 @@ function adicionarItens(
 
 
                         info:
-
                             item.info ||
 
                             "",
 
 
                         arquivo:
-
                             item.arquivo,
 
 
-                        data_adicao:
-
-                            item.data_adicao ||
-
-                            "1970-01-01",
+                        data_criacao:
+                            item.data_criacao,
 
 
                         obra:
-
                             obra,
 
 
                         categoria:
-
                             categoria,
 
 
                         pastaImagens:
-
                             pastaImagens,
 
 
                         paginaObra:
-
                             paginaObra
 
                     });
@@ -236,7 +256,6 @@ function adicionarItens(
 // ============================================================
 // FORMAT MONTH AND YEAR
 // ============================================================
-
 
 function formatarMes(
 
@@ -275,30 +294,20 @@ function formatarMes(
 
 
     const dataObj =
-        new Date(data);
+        new Date(
 
+            data
 
-    if (
-
-        isNaN(
-
-            dataObj.getTime()
-
-        )
-
-    ) {
-
-
-        return "Unknown Date";
-
-    }
+        );
 
 
     return (
 
-        `${meses[dataObj.getMonth()]} ` +
+        meses[dataObj.getMonth()] +
 
-        `${dataObj.getFullYear()}`
+        " " +
+
+        dataObj.getFullYear()
 
     );
 
@@ -306,9 +315,8 @@ function formatarMes(
 
 
 // ============================================================
-// LOAD ALL CATEGORIES
+// LOAD ALL DATA
 // ============================================================
-
 
 async function carregarTodos() {
 
@@ -323,20 +331,17 @@ async function carregarTodos() {
 
     ] = await Promise.all([
 
-
         carregarDados(
 
             "dados.js"
 
         ),
 
-
         carregarDados(
 
             "anime-dados.js"
 
         ),
-
 
         carregarDados(
 
@@ -346,6 +351,10 @@ async function carregarTodos() {
 
     ]);
 
+
+    // --------------------------------------------------------
+    // Manga
+    // --------------------------------------------------------
 
     adicionarItens(
 
@@ -360,6 +369,10 @@ async function carregarTodos() {
     );
 
 
+    // --------------------------------------------------------
+    // Anime
+    // --------------------------------------------------------
+
     adicionarItens(
 
         anime,
@@ -372,6 +385,10 @@ async function carregarTodos() {
 
     );
 
+
+    // --------------------------------------------------------
+    // Light Novel
+    // --------------------------------------------------------
 
     adicionarItens(
 
@@ -387,121 +404,29 @@ async function carregarTodos() {
 
 
     // ========================================================
-    // FILTER BY MINIMUM DATE
+    // SORT NEWEST FIRST
     // ========================================================
-
-
-    todosItens =
-
-        todosItens.filter(
-
-            item => {
-
-
-                const data =
-                    new Date(
-
-                        item.data_adicao
-
-                    );
-
-
-                if (
-
-                    isNaN(
-
-                        data.getTime()
-
-                    )
-
-                ) {
-
-
-                    return false;
-
-                }
-
-
-                return (
-
-                    item.data_adicao >=
-
-                    DATA_MINIMA
-
-                );
-
-            }
-
-        );
-
-
-    // ========================================================
-    // SORT BY DATE AND TIME
-    // MOST RECENT FIRST
-    // ========================================================
-
 
     todosItens.sort(
 
-        (
-
-            a,
-
-            b
-
-        ) => {
-
-
-            const timeA =
-
-                Date.parse(
-
-                    a.data_adicao
-
-                );
-
-
-            const timeB =
-
-                Date.parse(
-
-                    b.data_adicao
-
-                );
-
-
-            // Invalid dates go to the end
-
-
-            if (
-
-                isNaN(timeA)
-
-            ) {
-
-
-                return 1;
-
-            }
-
-
-            if (
-
-                isNaN(timeB)
-
-            ) {
-
-
-                return -1;
-
-            }
+        (a, b) => {
 
 
             return (
 
-                timeB -
+                new Date(
 
-                timeA
+                    b.data_criacao
+
+                ).getTime()
+
+                -
+
+                new Date(
+
+                    a.data_criacao
+
+                ).getTime()
 
             );
 
@@ -511,9 +436,8 @@ async function carregarTodos() {
 
 
     // ========================================================
-    // GROUP ITEMS BY YEAR AND MONTH
+    // GROUP BY MONTH AND YEAR
     // ========================================================
-
 
     const grupos = {};
 
@@ -523,50 +447,26 @@ async function carregarTodos() {
         item => {
 
 
-            const data =
-                new Date(
+            const grupo =
+                formatarMes(
 
-                    item.data_adicao
-
-                );
-
-
-            const ano =
-                data.getFullYear();
-
-
-            const mes =
-                String(
-
-                    data.getMonth() + 1
-
-                ).padStart(
-
-                    2,
-
-                    "0"
+                    item.data_criacao
 
                 );
-
-
-            const chave =
-
-                `${ano}-${mes}`;
 
 
             if (
 
-                !grupos[chave]
+                !grupos[grupo]
 
             ) {
 
-
-                grupos[chave] = [];
+                grupos[grupo] = [];
 
             }
 
 
-            grupos[chave].push(
+            grupos[grupo].push(
 
                 item
 
@@ -578,357 +478,269 @@ async function carregarTodos() {
 
 
     // ========================================================
-    // RENDER MONTH GROUPS
-    // NEWEST MONTH FIRST
+    // RENDER RESULTS
     // ========================================================
 
+    Object.keys(
 
-    Object.keys(grupos)
+        grupos
 
-        .sort()
+    ).forEach(
 
-        .reverse()
-
-        .forEach(
-
-            chave => {
+        grupo => {
 
 
-                const [
+            const tituloMes =
+                document.createElement(
 
-                    ano,
-
-                    mes
-
-                ] = chave.split(
-
-                    "-"
+                    "h2"
 
                 );
 
 
-                const meses = [
-
-                    "January",
-
-                    "February",
-
-                    "March",
-
-                    "April",
-
-                    "May",
-
-                    "June",
-
-                    "July",
-
-                    "August",
-
-                    "September",
-
-                    "October",
-
-                    "November",
-
-                    "December"
-
-                ];
+            tituloMes.textContent =
+                grupo;
 
 
-                const tituloMes =
+            recentes.appendChild(
 
-                    document.createElement(
+                tituloMes
 
-                        "h2"
+            );
+
+
+            const lista =
+                document.createElement(
+
+                    "div"
+
+                );
+
+
+            lista.className =
+                "recentes-lista";
+
+
+            grupos[grupo].forEach(
+
+                item => {
+
+
+                    const bloco =
+                        document.createElement(
+
+                            "div"
+
+                        );
+
+
+                    bloco.className =
+                        "recent-item";
+
+
+                    const link =
+                        document.createElement(
+
+                            "a"
+
+                        );
+
+
+                    link.href =
+
+                        item.paginaObra +
+
+                        "?nome=" +
+
+                        encodeURIComponent(
+
+                            item.obra
+
+                        );
+
+
+                    link.className =
+                        "recent-link";
+
+
+                    const imagem =
+                        document.createElement(
+
+                            "img"
+
+                        );
+
+
+                    imagem.src =
+
+                        item.pastaImagens +
+
+                        "/" +
+
+                        item.arquivo;
+
+
+                    imagem.loading =
+                        "lazy";
+
+
+                    imagem.decoding =
+                        "async";
+
+
+                    const texto =
+                        document.createElement(
+
+                            "div"
+
+                        );
+
+
+                    texto.className =
+                        "recent-text";
+
+
+                    const personagem =
+                        document.createElement(
+
+                            "b"
+
+                        );
+
+
+                    personagem.textContent =
+                        item.personagem;
+
+
+                    const obra =
+                        document.createElement(
+
+                            "div"
+
+                        );
+
+
+                    obra.textContent =
+                        item.obra;
+
+
+                    const info =
+                        document.createElement(
+
+                            "div"
+
+                        );
+
+
+                    info.textContent =
+                        item.info;
+
+
+                    const categoria =
+                        document.createElement(
+
+                            "small"
+
+                        );
+
+
+                    categoria.textContent =
+                        item.categoria;
+
+
+                    texto.appendChild(
+
+                        personagem
 
                     );
 
 
-                tituloMes.textContent =
+                    texto.appendChild(
 
-                    `${
-
-                        meses[
-
-                            Number(mes) - 1
-
-                        ]
-
-                    } ${ano}`;
-
-
-                recentes.appendChild(
-
-                    tituloMes
-
-                );
-
-
-                const lista =
-
-                    document.createElement(
-
-                        "div"
+                        obra
 
                     );
 
 
-                lista.className =
+                    texto.appendChild(
 
-                    "recentes-lista";
+                        info
 
+                    );
 
-                // ====================================================
-                // ITEMS INSIDE THIS MONTH
-                // ====================================================
 
+                    texto.appendChild(
 
-                grupos[chave].forEach(
+                        categoria
 
-                    item => {
+                    );
 
 
-                        const bloco =
+                    link.appendChild(
 
-                            document.createElement(
+                        imagem
 
-                                "div"
+                    );
 
-                            );
 
+                    link.appendChild(
 
-                        bloco.className =
+                        texto
 
-                            "recent-item";
+                    );
 
 
-                        const link =
+                    bloco.appendChild(
 
-                            document.createElement(
+                        link
 
-                                "a"
+                    );
 
-                            );
 
+                    lista.appendChild(
 
-                        link.href =
+                        bloco
 
-                            `${
+                    );
 
-                                item.paginaObra
 
-                            }?nome=${
+                }
 
-                                encodeURIComponent(
+            );
 
-                                    item.obra
 
-                                )
+            recentes.appendChild(
 
-                            }`;
+                lista
 
+            );
 
-                        link.className =
 
-                            "recent-link";
+        }
 
+    );
 
-                        const imagem =
 
-                            document.createElement(
+    // ========================================================
+    // EMPTY RESULT
+    // ========================================================
 
-                                "img"
+    if (
 
-                            );
+        todosItens.length === 0
 
+    ) {
 
-                        imagem.src =
 
-                            `${
+        recentes.innerHTML =
 
-                                item.pastaImagens
+            "<p class='empty-state'>" +
 
-                            }/${
+            "No images created from January 1, 2026 onward." +
 
-                                item.arquivo
+            "</p>";
 
-                            }`;
-
-
-                        imagem.loading =
-
-                            "lazy";
-
-
-                        imagem.decoding =
-
-                            "async";
-
-
-                        // ====================================================
-                        // IMAGE ERROR HANDLING
-                        // ====================================================
-
-
-                        imagem.onerror =
-
-                            function() {
-
-
-                                console.warn(
-
-                                    "Image could not be loaded:",
-
-                                    imagem.src
-
-                                );
-
-
-                            };
-
-
-                        const texto =
-
-                            document.createElement(
-
-                                "div"
-
-                            );
-
-
-                        texto.className =
-
-                            "recent-text";
-
-
-                        const personagem =
-
-                            document.createElement(
-
-                                "b"
-
-                            );
-
-
-                        personagem.textContent =
-
-                            item.personagem;
-
-
-                        const obra =
-
-                            document.createElement(
-
-                                "div"
-
-                            );
-
-
-                        obra.textContent =
-
-                            item.obra;
-
-
-                        const info =
-
-                            document.createElement(
-
-                                "div"
-
-                            );
-
-
-                        info.textContent =
-
-                            item.info;
-
-
-                        const categoria =
-
-                            document.createElement(
-
-                                "small"
-
-                            );
-
-
-                        categoria.textContent =
-
-                            item.categoria;
-
-
-                        texto.appendChild(
-
-                            personagem
-
-                        );
-
-
-                        texto.appendChild(
-
-                            obra
-
-                        );
-
-
-                        texto.appendChild(
-
-                            info
-
-                        );
-
-
-                        texto.appendChild(
-
-                            categoria
-
-                        );
-
-
-                        link.appendChild(
-
-                            imagem
-
-                        );
-
-
-                        link.appendChild(
-
-                            texto
-
-                        );
-
-
-                        bloco.appendChild(
-
-                            link
-
-                        );
-
-
-                        lista.appendChild(
-
-                            bloco
-
-                        );
-
-
-                    }
-
-                );
-
-
-                recentes.appendChild(
-
-                    lista
-
-                );
-
-
-            }
-
-        );
+    }
 
 }
 
@@ -937,39 +749,30 @@ async function carregarTodos() {
 // START
 // ============================================================
 
+carregarTodos().catch(
 
-carregarTodos()
-
-    .catch(
-
-        erro => {
+    erro => {
 
 
-            console.error(
+        console.error(
 
-                "Could not load recently added items:",
+            "Could not load Recently Added:",
 
-                erro
+            erro
 
-            );
+        );
 
 
-            recentes.innerHTML =
+        recentes.innerHTML =
 
-                '<p class="empty-state">' +
+            "<p class='empty-state'>" +
 
-                'Unable to load recently added items.' +
+            "Unable to load recently added items." +
 
-                '</p>';
+            "</p>";
 
-        }
+    }
 
-    );
-
+);
 
 </script>
-
-
-</body>
-
-</html>
