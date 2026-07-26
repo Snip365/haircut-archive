@@ -14985,6 +14985,14 @@ const dados = {
             "data_adicao": "2026-07-26T11:33:27"
         }
     ],
+    "The Professor Who Reads Love Stories": [
+        {
+            "personagem": "Seong-Min Choi",
+            "info": "ch 45",
+            "arquivo": "Seong-Min Choi from The Professor Who Reads Love Stories [ch 45].webp",
+            "data_adicao": "2026-07-26T16:16:47"
+        }
+    ],
     "Dr. Frost": [
         {
             "personagem": "Seonga Yoon",
