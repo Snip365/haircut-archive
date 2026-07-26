@@ -7,416 +7,6 @@ const dados = {
             "data_adicao": "2025-05-14T12:25:51"
         }
     ],
-    "SEM IDENTIFICAÇÃO": [
-        {
-            "personagem": "200 percent Lilac [chapter 42]",
-            "info": "",
-            "arquivo": "200 percent Lilac [chapter 42].webp",
-            "data_adicao": "2025-05-14T12:25:53"
-        },
-        {
-            "personagem": "Akari Naruse from 成瀬は天下を取りにいく[ch 7]",
-            "info": "",
-            "arquivo": "Akari Naruse from 成瀬は天下を取りにいく[ch 7].webp",
-            "data_adicao": "2025-05-14T12:25:59"
-        },
-        {
-            "personagem": "Asahi from Naka no Warui Iinazuke no Hanashi [chapter 37.5]2",
-            "info": "",
-            "arquivo": "Asahi from Naka no Warui Iinazuke no Hanashi [chapter 37.5]2.webp",
-            "data_adicao": "2025-05-14T12:26:15"
-        },
-        {
-            "personagem": "Awakening in the Three Kingdoms as the Demon's Granddaughter -The Legend of Dong Bai- [chapter 13]",
-            "info": "",
-            "arquivo": "Awakening in the Three Kingdoms as the Demon's Granddaughter -The Legend of Dong Bai- [chapter 13].webp",
-            "data_adicao": "2025-05-14T12:26:21"
-        },
-        {
-            "personagem": "Chidori from Hana ni Arashi (KOBACHI Ruka)[chapter 44]",
-            "info": "",
-            "arquivo": "Chidori from Hana ni Arashi (KOBACHI Ruka)[chapter 44].webp",
-            "data_adicao": "2025-05-14T12:26:44"
-        },
-        {
-            "personagem": "Chungsum from Pitiful Us[안미운 우리들][chapter 53]",
-            "info": "",
-            "arquivo": "Chungsum from Pitiful Us[안미운 우리들][chapter 53].webp",
-            "data_adicao": "2025-05-14T12:26:48"
-        },
-        {
-            "personagem": "Chunja from What Happens Inside The Dungeon chapter 60]",
-            "info": "",
-            "arquivo": "Chunja from What Happens Inside The Dungeon chapter 60].webp",
-            "data_adicao": "2025-05-14T12:26:49"
-        },
-        {
-            "personagem": "Class Rep from 透過百合SM能否連結兩人的身心呢？[flashback]",
-            "info": "",
-            "arquivo": "Class Rep from 透過百合SM能否連結兩人的身心呢？[flashback].webp",
-            "data_adicao": "2025-05-14T12:26:50"
-        },
-        {
-            "personagem": "Da-Eun from Crossing the Lines[선을 넘은 연애][chapter 53]",
-            "info": "",
-            "arquivo": "Da-Eun from Crossing the Lines[선을 넘은 연애][chapter 53].webp",
-            "data_adicao": "2025-05-14T12:26:58"
-        },
-        {
-            "personagem": "Elicia from Boukansha no Koi[傍観者の恋][ch 3]",
-            "info": "",
-            "arquivo": "Elicia from Boukansha no Koi[傍観者の恋][ch 3].webp",
-            "data_adicao": "2025-05-14T12:27:05"
-        },
-        {
-            "personagem": "Homura Akemi from Mahou Shoujo Madoka★Magica - Arukano (Doujinshi)",
-            "info": "",
-            "arquivo": "Homura Akemi from Mahou Shoujo Madoka★Magica - Arukano (Doujinshi).webp",
-            "data_adicao": "2025-05-14T12:28:20"
-        },
-        {
-            "personagem": "Houkago no Goumon Shoujo [chapter",
-            "info": "",
-            "arquivo": "Houkago no Goumon Shoujo [chapter.webp",
-            "data_adicao": "2025-05-14T12:28:21"
-        },
-        {
-            "personagem": "Jade from Seasons of Canvas[화폭의 계절][ch 8]",
-            "info": "",
-            "arquivo": "Jade from Seasons of Canvas[화폭의 계절][ch 8].webp",
-            "data_adicao": "2025-05-14T12:28:39"
-        },
-        {
-            "personagem": "Ji Seoyeon Dungeon Reset [chapter 119]",
-            "info": "",
-            "arquivo": "Ji Seoyeon Dungeon Reset [chapter 119].webp",
-            "data_adicao": "2025-05-14T12:28:46"
-        },
-        {
-            "personagem": "Jineon from Hell Love Story[지옥연애환담][ch 64]",
-            "info": "",
-            "arquivo": "Jineon from Hell Love Story[지옥연애환담][ch 64].webp",
-            "data_adicao": "2025-05-14T12:28:51"
-        },
-        {
-            "personagem": "Kageki Shoujo [vol 9 ch 29]",
-            "info": "",
-            "arquivo": "Kageki Shoujo [vol 9 ch 29].webp",
-            "data_adicao": "2025-05-14T12:29:02"
-        },
-        {
-            "personagem": "kiki akagami no shirayuki",
-            "info": "",
-            "arquivo": "kiki akagami no shirayuki.webp",
-            "data_adicao": "2025-05-14T12:29:25"
-        },
-        {
-            "personagem": "Ko Sooah from Something Between Us[사귄 건 아닌데][chapter 5 flashback]",
-            "info": "",
-            "arquivo": "Ko Sooah from Something Between Us[사귄 건 아닌데][chapter 5 flashback].webp",
-            "data_adicao": "2025-05-14T12:29:31"
-        },
-        {
-            "personagem": "Koharu from Open Marriage[オープンマリッジ][vol 8 epilogue 4]",
-            "info": "",
-            "arquivo": "Koharu from Open Marriage[オープンマリッジ][vol 8 epilogue 4].webp",
-            "data_adicao": "2025-05-14T12:29:31"
-        },
-        {
-            "personagem": "Kotoka Hatsushima from Fechippuru ~Our Innocent Love~[chapter 68]",
-            "info": "",
-            "arquivo": "Kotoka Hatsushima from Fechippuru ~Our Innocent Love~[chapter 68].webp",
-            "data_adicao": "2025-05-14T12:29:38"
-        },
-        {
-            "personagem": "Koyoko Takahashi [chapter 32]",
-            "info": "",
-            "arquivo": "Koyoko Takahashi [chapter 32].webp",
-            "data_adicao": "2025-05-14T12:29:39"
-        },
-        {
-            "personagem": "Kuro Ageha [chapter 63]",
-            "info": "",
-            "arquivo": "Kuro Ageha [chapter 63].webp",
-            "data_adicao": "2025-05-14T12:29:41"
-        },
-        {
-            "personagem": "Lee Seojin from How to Kill You[너를 죽이는 방법][chapter 60]",
-            "info": "",
-            "arquivo": "Lee Seojin from How to Kill You[너를 죽이는 방법][chapter 60].webp",
-            "data_adicao": "2025-05-14T12:29:51"
-        },
-        {
-            "personagem": "Lee Ye-Seul from Breaking News[속보입니다][epilogue 4]",
-            "info": "",
-            "arquivo": "Lee Ye-Seul from Breaking News[속보입니다][epilogue 4].webp",
-            "data_adicao": "2025-05-14T12:29:51"
-        },
-        {
-            "personagem": "Lenalee Loreis from かたわれ令嬢が男装する理由",
-            "info": "",
-            "arquivo": "Lenalee Loreis from かたわれ令嬢が男装する理由.webp",
-            "data_adicao": "2025-05-14T12:29:51"
-        },
-        {
-            "personagem": "Li-na from My Kingdom Silent War [ch",
-            "info": "",
-            "arquivo": "Li-na from My Kingdom Silent War [ch.webp",
-            "data_adicao": "2025-05-14T12:29:54"
-        },
-        {
-            "personagem": "Liliane Mujikaku na Tensai Shoujo wa Kizukanai[無自覚な天才少女は気付かない] [vol 1]",
-            "info": "",
-            "arquivo": "Liliane Mujikaku na Tensai Shoujo wa Kizukanai[無自覚な天才少女は気付かない] [vol 1].webp",
-            "data_adicao": "2025-05-14T12:29:54"
-        },
-        {
-            "personagem": "Lucy from Lessa",
-            "info": "",
-            "arquivo": "Lucy from Lessa.webp",
-            "data_adicao": "2025-05-14T12:30:00"
-        },
-        {
-            "personagem": "Mafuyu Kirisu from Bokutachi Wa Benkyou Ga Dekinai",
-            "info": "",
-            "arquivo": "Mafuyu Kirisu from Bokutachi Wa Benkyou Ga Dekinai.webp",
-            "data_adicao": "2025-05-14T12:30:08"
-        },
-        {
-            "personagem": "Mei Yoshizono from Oshihen Shiyagare [chapter 1",
-            "info": "",
-            "arquivo": "Mei Yoshizono from Oshihen Shiyagare [chapter 1.webp",
-            "data_adicao": "2025-05-14T12:30:29"
-        },
-        {
-            "personagem": "Miharu Arashiyama from 天然素材でいこう[vol 2 ch 2]",
-            "info": "",
-            "arquivo": "Miharu Arashiyama from 天然素材でいこう[vol 2 ch 2].webp",
-            "data_adicao": "2025-05-14T12:30:37"
-        },
-        {
-            "personagem": "Miki Aoki from Onna na no de Shouganai[女なのでしょうがない][chapter 56]",
-            "info": "",
-            "arquivo": "Miki Aoki from Onna na no de Shouganai[女なのでしょうがない][chapter 56].webp",
-            "data_adicao": "2025-05-14T12:30:38"
-        },
-        {
-            "personagem": "Minami from 結婚相手は地雷男サレ妻美波の逆転人生[ch 1]",
-            "info": "",
-            "arquivo": "Minami from 結婚相手は地雷男サレ妻美波の逆転人生[ch 1].webp",
-            "data_adicao": "2025-05-14T12:30:44"
-        },
-        {
-            "personagem": "Miriam from Romeo, Come On Out",
-            "info": "",
-            "arquivo": "Miriam from Romeo, Come On Out.webp",
-            "data_adicao": "2025-05-14T12:30:47"
-        },
-        {
-            "personagem": "Miss Lu from Devils President Sacrificial Bride",
-            "info": "",
-            "arquivo": "Miss Lu from Devils President Sacrificial Bride.webp",
-            "data_adicao": "2025-05-14T12:30:54"
-        },
-        {
-            "personagem": "Mushoku Tensei - Eris ch 52",
-            "info": "",
-            "arquivo": "Mushoku Tensei - Eris ch 52.webp",
-            "data_adicao": "2025-05-14T12:31:03"
-        },
-        {
-            "personagem": "Nako from Boku ga Kimi o Kaeru[僕が君を変える][ch 1]",
-            "info": "",
-            "arquivo": "Nako from Boku ga Kimi o Kaeru[僕が君を変える][ch 1].webp",
-            "data_adicao": "2025-05-14T12:31:13"
-        },
-        {
-            "personagem": "Natsuki from Oshima Aki] Saikai - reunion + restart (COMIC Anthurium 2022-12)",
-            "info": "",
-            "arquivo": "Natsuki from Oshima Aki] Saikai - reunion + restart (COMIC Anthurium 2022-12).webp",
-            "data_adicao": "2025-05-14T12:31:22"
-        },
-        {
-            "personagem": "Nuri from Hot Black Tea [chapter 1 and ch 33] (1)",
-            "info": "",
-            "arquivo": "Nuri from Hot Black Tea [chapter 1 and ch 33] (1).webp",
-            "data_adicao": "2025-05-14T12:31:29"
-        },
-        {
-            "personagem": "Nuri from Hot Black Tea [chapter 1 and ch 33] (2)",
-            "info": "",
-            "arquivo": "Nuri from Hot Black Tea [chapter 1 and ch 33] (2).webp",
-            "data_adicao": "2025-05-14T12:31:29"
-        },
-        {
-            "personagem": "Oh Saebom from Newbies[풋내기들][chapter 106-side story 1]",
-            "info": "",
-            "arquivo": "Oh Saebom from Newbies[풋내기들][chapter 106-side story 1].webp",
-            "data_adicao": "2025-05-14T12:31:29"
-        },
-        {
-            "personagem": "Princess from What’s With the Three Kingdoms-Obsessed Male Lead[삼국지에 집착 남주가 왜 나와요][ch 7]",
-            "info": "",
-            "arquivo": "Princess from What’s With the Three Kingdoms-Obsessed Male Lead[삼국지에 집착 남주가 왜 나와요][ch 7].webp",
-            "data_adicao": "2025-05-14T12:31:39"
-        },
-        {
-            "personagem": "Princess Lapis fromドカクエ異世界ドカコッククエスト [ch 6]",
-            "info": "",
-            "arquivo": "Princess Lapis fromドカクエ異世界ドカコッククエスト [ch 6].webp",
-            "data_adicao": "2025-05-14T12:31:39"
-        },
-        {
-            "personagem": "Princess Rin from Hakuhei Musha vol 2]",
-            "info": "",
-            "arquivo": "Princess Rin from Hakuhei Musha vol 2].webp",
-            "data_adicao": "2025-05-14T12:31:39"
-        },
-        {
-            "personagem": "Reimi Ninose Onryou Oku-sama [ch 8]",
-            "info": "",
-            "arquivo": "Reimi Ninose Onryou Oku-sama [ch 8].webp",
-            "data_adicao": "2025-05-14T12:31:44"
-        },
-        {
-            "personagem": "Rinko Kobayakawa from Love Plus Kanojo no Kako",
-            "info": "",
-            "arquivo": "Rinko Kobayakawa from Love Plus Kanojo no Kako.webp",
-            "data_adicao": "2025-05-14T12:31:55"
-        },
-        {
-            "personagem": "Sanae from Rocket Monkey Hitodzuma no Kōkishin",
-            "info": "",
-            "arquivo": "Sanae from Rocket Monkey Hitodzuma no Kōkishin.webp",
-            "data_adicao": "2025-05-14T12:32:13"
-        },
-        {
-            "personagem": "Sasahara from Watashi no H na Rirekisho Mitekudasai[私のHな履歴書みてください][chapter 4]",
-            "info": "",
-            "arquivo": "Sasahara from Watashi no H na Rirekisho Mitekudasai[私のHな履歴書みてください][chapter 4].webp",
-            "data_adicao": "2025-05-14T12:32:14"
-        },
-        {
-            "personagem": "Saya from ハッピーエンドじゃ終わらせない－イケメン美容師の愛されレッスン",
-            "info": "",
-            "arquivo": "Saya from ハッピーエンドじゃ終わらせない－イケメン美容師の愛されレッスン.webp",
-            "data_adicao": "2025-05-14T12:32:22"
-        },
-        {
-            "personagem": "Seri Kang from Resizer[리사이저][chapter 32 flashback]",
-            "info": "",
-            "arquivo": "Seri Kang from Resizer[리사이저][chapter 32 flashback].webp",
-            "data_adicao": "2025-05-14T12:32:36"
-        },
-        {
-            "personagem": "Sohae from Love So Pure",
-            "info": "",
-            "arquivo": "Sohae from Love So Pure.webp",
-            "data_adicao": "2025-05-14T12:32:53"
-        },
-        {
-            "personagem": "Song of Theodor [chapter 34]",
-            "info": "",
-            "arquivo": "Song of Theodor [chapter 34].webp",
-            "data_adicao": "2025-05-14T12:32:55"
-        },
-        {
-            "personagem": "Song-yeon from Demonic Sword Immortal[마도선자][ch 17]",
-            "info": "",
-            "arquivo": "Song-yeon from Demonic Sword Immortal[마도선자][ch 17].webp",
-            "data_adicao": "2025-05-14T12:32:56"
-        },
-        {
-            "personagem": "Sunami Yuuko And The Yuri People",
-            "info": "",
-            "arquivo": "Sunami Yuuko And The Yuri People.webp",
-            "data_adicao": "2025-05-14T12:33:06"
-        },
-        {
-            "personagem": "Sword of Werebeasts Rey from Guardian Tales - Kanterbury Days! Chapter 81",
-            "info": "",
-            "arquivo": "Sword of Werebeasts Rey from Guardian Tales - Kanterbury Days! Chapter 81.webp",
-            "data_adicao": "2025-05-14T12:33:07"
-        },
-        {
-            "personagem": "Uijie Machiko from ジドリの女王 ～氏家真知子 最後の取材～[ch 1]",
-            "info": "",
-            "arquivo": "Uijie Machiko from ジドリの女王 ～氏家真知子 最後の取材～[ch 1].webp",
-            "data_adicao": "2025-05-14T12:33:32"
-        },
-        {
-            "personagem": "Umeko from Namaiki Little Prince[なまいきリトルプリンス][chapter 23]",
-            "info": "",
-            "arquivo": "Umeko from Namaiki Little Prince[なまいきリトルプリンス][chapter 23].webp",
-            "data_adicao": "2025-05-14T12:33:32"
-        },
-        {
-            "personagem": "Unnie from The Missing O [chapter 112](1)",
-            "info": "",
-            "arquivo": "Unnie from The Missing O [chapter 112](1).webp",
-            "data_adicao": "2025-05-14T12:33:33"
-        },
-        {
-            "personagem": "Yoko from 美チェンジ！[vol 1]",
-            "info": "",
-            "arquivo": "Yoko from 美チェンジ！[vol 1].webp",
-            "data_adicao": "2025-05-14T12:34:00"
-        },
-        {
-            "personagem": "Yuiko Amano from Dareka no Koto o Sukinadake[vol 1]",
-            "info": "",
-            "arquivo": "Yuiko Amano from Dareka no Koto o Sukinadake[vol 1].webp",
-            "data_adicao": "2025-05-14T12:34:09"
-        },
-        {
-            "personagem": "Yukie Aihara from Kamen no Inmu",
-            "info": "",
-            "arquivo": "Yukie Aihara from Kamen no Inmu.webp",
-            "data_adicao": "2025-05-14T12:34:12"
-        },
-        {
-            "personagem": "Yuna from Paper Feather 3",
-            "info": "",
-            "arquivo": "Yuna from Paper Feather 3.webp",
-            "data_adicao": "2025-05-14T12:34:16"
-        },
-        {
-            "personagem": "Yuu Koito from Bloom Into You [chapter 45](1)",
-            "info": "",
-            "arquivo": "Yuu Koito from Bloom Into You [chapter 45](1).webp",
-            "data_adicao": "2025-05-14T12:34:24"
-        },
-        {
-            "personagem": "マヘリア from 鉱石令嬢〜没落した悪役令嬢が炭鉱で一山当てるまでのお話〜 chap 1 - haircut scene]",
-            "info": "",
-            "arquivo": "マヘリア from 鉱石令嬢〜没落した悪役令嬢が炭鉱で一山当てるまでのお話〜 chap 1 - haircut scene].webp",
-            "data_adicao": "2025-05-11T17:28:33"
-        },
-        {
-            "personagem": "地球のお魚ぽんちゃん [chapter 76]",
-            "info": "",
-            "arquivo": "地球のお魚ぽんちゃん [chapter 76].webp",
-            "data_adicao": "2025-05-14T12:34:32"
-        },
-        {
-            "personagem": "所持金1000円で家出主婦DV夫に私は負けない!",
-            "info": "",
-            "arquivo": "所持金1000円で家出主婦DV夫に私は負けない!.webp",
-            "data_adicao": "2025-05-11T17:28:33"
-        },
-        {
-            "personagem": "硬核一中 [chapter 77]",
-            "info": "",
-            "arquivo": "硬核一中 [chapter 77].webp",
-            "data_adicao": "2025-05-14T12:34:32"
-        },
-        {
-            "personagem": "１００％探偵物語",
-            "info": "",
-            "arquivo": "１００％探偵物語.webp",
-            "data_adicao": "2025-05-14T12:34:34"
-        }
-    ],
     "AZ Cup": [
         {
             "personagem": "A",
@@ -597,6 +187,14 @@ const dados = {
             "data_adicao": "2025-05-14T12:25:56"
         }
     ],
+    "Kageki Shoujo": [
+        {
+            "personagem": "Ai Narata",
+            "info": "vol 9 ch 29",
+            "arquivo": "Ai Narata from Kageki Shoujo [vol 9 ch 29].webp",
+            "data_adicao": "2025-05-14T12:29:02"
+        }
+    ],
     "ユキヒョウ 白銀の闘牌": [
         {
             "personagem": "Ai Yamaguchi",
@@ -764,6 +362,14 @@ const dados = {
             "personagem": "Akari Inamori",
             "info": "chapter 60",
             "arquivo": "Akari Inamori from Maga Tsuki [chapter 60].webp",
+            "data_adicao": "2025-05-14T12:25:59"
+        }
+    ],
+    "成瀬は天下を取りにいく": [
+        {
+            "personagem": "Akari Naruse",
+            "info": "ch 7",
+            "arquivo": "Akari Naruse from 成瀬は天下を取りにいく [ch 7].webp",
             "data_adicao": "2025-05-14T12:25:59"
         }
     ],
@@ -1107,6 +713,12 @@ const dados = {
             "info": "chapter 30",
             "arquivo": "Amy Ward from Yokuoni [chapter 30].webp",
             "data_adicao": "2026-07-26T16:59:35"
+        },
+        {
+            "personagem": "Meruru Inugami",
+            "info": "chapter 30",
+            "arquivo": "Meruru Inugami from Yokuoni [chapter 30].webp",
+            "data_adicao": "2026-07-26T16:59:35"
         }
     ],
     "Once More": [
@@ -1145,6 +757,20 @@ const dados = {
             "info": "chapter 1",
             "arquivo": "Koharu from 偏愛カレシは私を躾けたい [chapter 1].webp",
             "data_adicao": "2025-05-14T12:29:31"
+        }
+    ],
+    "Shitsuren Biyoushitsu": [
+        {
+            "personagem": "Andou",
+            "info": "chap 1 - scene",
+            "arquivo": "Andou from Shitsuren Biyoushitsu [chap 1 - scene].webp",
+            "data_adicao": "2026-07-26T16:59:35"
+        },
+        {
+            "personagem": "Girl",
+            "info": "chapter 1",
+            "arquivo": "Girl from Shitsuren Biyoushitsu [chapter 1].webp",
+            "data_adicao": "2025-05-14T12:27:37"
         }
     ],
     "Cross Ange - Tenshi to Ryuu": [
@@ -1195,12 +821,28 @@ const dados = {
             "data_adicao": "2025-05-14T12:26:05"
         }
     ],
+    "Roman Holiday": [
+        {
+            "personagem": "Ann",
+            "info": "oneshot",
+            "arquivo": "Ann from Roman Holiday [oneshot].webp",
+            "data_adicao": "2026-07-26T16:59:35"
+        }
+    ],
     "15-sai": [
         {
             "personagem": "Anna",
             "info": "ch 19",
             "arquivo": "Anna from 15-sai [ch 19].webp",
             "data_adicao": "2025-05-14T12:26:05"
+        }
+    ],
+    "Boku wa Kiss de Uso wo Tsuku": [
+        {
+            "personagem": "Anna",
+            "info": "chapter 7.5",
+            "arquivo": "Anna from Boku wa Kiss de Uso wo Tsuku [chapter 7.5].webp",
+            "data_adicao": "2026-07-26T16:59:35"
         }
     ],
     "Urareta Henkyou Haku Reijou wa Ringoku no Outaishi ni Dekiai Sareru": [
@@ -1355,6 +997,14 @@ const dados = {
             "data_adicao": "2025-05-14T12:26:14"
         }
     ],
+    "Tsundere – Megane Cafe E Youkoso": [
+        {
+            "personagem": "Aoki Misao",
+            "info": "chap 2 - no scene",
+            "arquivo": "Aoki Misao from Tsundere – Megane Cafe E Youkoso [chap 2 - no scene].webp",
+            "data_adicao": "2026-07-26T16:59:35"
+        }
+    ],
     "想要觸碰青野君所以我想死": [
         {
             "personagem": "Aono",
@@ -1451,6 +1101,56 @@ const dados = {
             "info": "ch 47",
             "arquivo": "Areum from Night of Shadows [ch 47].webp",
             "data_adicao": "2025-05-14T12:26:14"
+        }
+    ],
+    "SEM IDENTIFICAÇÃO": [
+        {
+            "personagem": "Aria from I Tried To Be Her Loyal Sword [충직한 검이 되려 했는데] chapter 88",
+            "info": "",
+            "arquivo": "Aria from I Tried To Be Her Loyal Sword [충직한 검이 되려 했는데] chapter 88.webp",
+            "data_adicao": "2026-07-26T16:59:35"
+        },
+        {
+            "personagem": "Himukai Nichiko from Inu to Sandbag[犬とサンドバッグ][chapter 1]",
+            "info": "",
+            "arquivo": "Himukai Nichiko from Inu to Sandbag[犬とサンドバッグ][chapter 1].webp",
+            "data_adicao": "2026-07-26T16:59:35"
+        },
+        {
+            "personagem": "Houkago no Goumon Shoujo [vol 8 flashback]",
+            "info": "",
+            "arquivo": "Houkago no Goumon Shoujo [vol 8 flashback].webp",
+            "data_adicao": "2025-05-14T12:28:21"
+        },
+        {
+            "personagem": "Hyun Jang from Ouroboros The Social Cycle [chapter 22] 1",
+            "info": "",
+            "arquivo": "Hyun Jang from Ouroboros The Social Cycle [chapter 22] 1.webp",
+            "data_adicao": "2026-07-26T16:59:35"
+        },
+        {
+            "personagem": "Hyun Jang from Ouroboros The Social Cycle [chapter 76] 2",
+            "info": "",
+            "arquivo": "Hyun Jang from Ouroboros The Social Cycle [chapter 76] 2.webp",
+            "data_adicao": "2026-07-26T16:59:35"
+        },
+        {
+            "personagem": "Liliane Mujikaku na Tensai Shoujo wa Kizukanai [無自覚な天才少女は気付かない] [vol 1]",
+            "info": "",
+            "arquivo": "Liliane Mujikaku na Tensai Shoujo wa Kizukanai [無自覚な天才少女は気付かない] [vol 1].webp",
+            "data_adicao": "2025-05-14T12:29:54"
+        },
+        {
+            "personagem": "SKI [chap 6 - scene]",
+            "info": "",
+            "arquivo": "SKI [chap 6 - scene].webp",
+            "data_adicao": "2026-07-26T16:59:35"
+        },
+        {
+            "personagem": "Sunami Yuuko And The Yuri People [chapter ]",
+            "info": "",
+            "arquivo": "Sunami Yuuko And The Yuri People [chapter ].webp",
+            "data_adicao": "2025-05-14T12:33:06"
         }
     ],
     "Updater": [
@@ -1566,6 +1266,12 @@ const dados = {
             "personagem": "Asahi",
             "info": "chapter 37.5",
             "arquivo": "Asahi from Naka no Warui Iinazuke no Hanashi [chapter 37.5].webp",
+            "data_adicao": "2025-05-14T12:26:15"
+        },
+        {
+            "personagem": "Asahi",
+            "info": "chapter 37.5_2",
+            "arquivo": "Asahi from Naka no Warui Iinazuke no Hanashi [chapter 37.5_2].webp",
             "data_adicao": "2025-05-14T12:26:15"
         }
     ],
@@ -1921,6 +1627,14 @@ const dados = {
             "data_adicao": "2025-05-14T12:26:26"
         }
     ],
+    "Tokyo Juliet": [
+        {
+            "personagem": "Ayase Minori",
+            "info": "chapter 6",
+            "arquivo": "Ayase Minori from Tokyo Juliet [chapter 6].webp",
+            "data_adicao": "2026-07-26T16:59:35"
+        }
+    ],
     "Gimai Seikatsu": [
         {
             "personagem": "Ayase Saki",
@@ -2219,6 +1933,12 @@ const dados = {
             "info": "ch 46",
             "arquivo": "Bibi from I Love Amy [ch 46].webp",
             "data_adicao": "2025-05-14T12:26:30"
+        },
+        {
+            "personagem": "Camila",
+            "info": "chapter 46.11",
+            "arquivo": "Camila from I Love Amy [chapter 46.11].webp",
+            "data_adicao": "2026-07-26T16:59:35"
         }
     ],
     "Crazy Professor System": [
@@ -2561,6 +2281,14 @@ const dados = {
             "data_adicao": "2025-05-14T12:26:43"
         }
     ],
+    "The Land of Abstinence": [
+        {
+            "personagem": "Cheon Saebyeok",
+            "info": "chapter 16",
+            "arquivo": "Cheon Saebyeok from The Land of Abstinence [chapter 16].webp",
+            "data_adicao": "2026-07-26T16:59:35"
+        }
+    ],
     "Kill Me Dead": [
         {
             "personagem": "Cheon Seowoo",
@@ -2625,6 +2353,14 @@ const dados = {
             "data_adicao": "2025-05-14T12:26:43"
         }
     ],
+    "Hana ni Arashi(KOBACHI Ruka)": [
+        {
+            "personagem": "Chidori",
+            "info": "chapter 44",
+            "arquivo": "Chidori from Hana ni Arashi(KOBACHI Ruka) [chapter 44].webp",
+            "data_adicao": "2025-05-14T12:26:44"
+        }
+    ],
     "Yakozen": [
         {
             "personagem": "Chie",
@@ -2669,6 +2405,12 @@ const dados = {
             "info": "chapter 1",
             "arquivo": "Chiharu Chitsubaki from 寄生妻 ～それでも離婚しない女たち～ [chapter 1].webp",
             "data_adicao": "2025-05-14T12:26:44"
+        },
+        {
+            "personagem": "ちはる千椿",
+            "info": "chap 1.3 - no scene",
+            "arquivo": "ちはる千椿 from 寄生妻 ～それでも離婚しない女たち～ [chap 1.3 - no scene].webp",
+            "data_adicao": "2026-07-26T16:59:35"
         }
     ],
     "Kono Kaisha Ni Suki Na Hito Ga Imasu": [
@@ -2969,6 +2711,28 @@ const dados = {
             "data_adicao": "2025-05-14T12:26:48"
         }
     ],
+    "Pitiful Us": [
+        {
+            "personagem": "Chungsum",
+            "info": "안미운 우리들][chapter 53",
+            "arquivo": "Chungsum from Pitiful Us [안미운 우리들][chapter 53].webp",
+            "data_adicao": "2025-05-14T12:26:48"
+        },
+        {
+            "personagem": "Noa",
+            "info": "chapter 39",
+            "arquivo": "Noa from Pitiful Us [chapter 39].webp",
+            "data_adicao": "2025-05-14T12:31:25"
+        }
+    ],
+    "What Happens Inside The Dungeon": [
+        {
+            "personagem": "Chunja",
+            "info": "chapter 60",
+            "arquivo": "Chunja from What Happens Inside The Dungeon [chapter 60].webp",
+            "data_adicao": "2025-05-14T12:26:49"
+        }
+    ],
     "Ai Ga Tomaranai": [
         {
             "personagem": "Cindy",
@@ -3155,6 +2919,14 @@ const dados = {
             "data_adicao": "2025-05-14T12:26:57"
         }
     ],
+    "Be of Every Color to Meet": [
+        {
+            "personagem": "Cult Leader",
+            "info": "chapter 39",
+            "arquivo": "Cult Leader from Be of Every Color to Meet [chapter 39].webp",
+            "data_adicao": "2026-07-26T16:59:35"
+        }
+    ],
     "Godeath - Megami no Ketsumyaku": [
         {
             "personagem": "D'Eon",
@@ -3176,6 +2948,14 @@ const dados = {
             "personagem": "Da Rae",
             "info": "ch 67",
             "arquivo": "Da Rae from The Turning Point [ch 67].webp",
+            "data_adicao": "2025-05-14T12:26:58"
+        }
+    ],
+    "Crossing the Lines": [
+        {
+            "personagem": "Da-Eun",
+            "info": "선을 넘은 연애][chapter 53",
+            "arquivo": "Da-Eun from Crossing the Lines [선을 넘은 연애][chapter 53].webp",
             "data_adicao": "2025-05-14T12:26:58"
         }
     ],
@@ -3219,12 +2999,28 @@ const dados = {
             "data_adicao": "2025-05-14T12:27:00"
         }
     ],
+    "The Jobless Guy Who Has Come to Slay": [
+        {
+            "personagem": "Dame of night's end",
+            "info": "chap 145 - scene",
+            "arquivo": "Dame of night's end from The Jobless Guy Who Has Come to Slay [chap 145 - scene].webp",
+            "data_adicao": "2026-07-26T16:59:35"
+        }
+    ],
     "Would You Like To Hold My Hand": [
         {
             "personagem": "Dami",
             "info": "chapter 60",
             "arquivo": "Dami from Would You Like To Hold My Hand [chapter 60].webp",
             "data_adicao": "2025-05-14T12:27:01"
+        }
+    ],
+    "The Prince's Love": [
+        {
+            "personagem": "Dan",
+            "info": "chap 3 - scene",
+            "arquivo": "Dan from The Prince's Love [chap 3 - scene].webp",
+            "data_adicao": "2026-07-26T16:59:35"
         }
     ],
     "The Prince_s Cactus": [
@@ -3393,6 +3189,14 @@ const dados = {
             "data_adicao": "2025-05-14T12:27:02"
         }
     ],
+    "Villainess with a 0% Survival Rate": [
+        {
+            "personagem": "Diana",
+            "info": "chapter 12",
+            "arquivo": "Diana from Villainess with a 0% Survival Rate [chapter 12].webp",
+            "data_adicao": "2026-07-26T16:59:35"
+        }
+    ],
     "I Choose the Emperor Ending": [
         {
             "personagem": "Diathe",
@@ -3455,6 +3259,14 @@ const dados = {
             "data_adicao": "2025-05-14T12:27:03"
         }
     ],
+    "Awakening in the Three Kingdoms as the Demon's Granddaughter The Legend of Dong Bai": [
+        {
+            "personagem": "Dong Bai",
+            "info": "chapter 13",
+            "arquivo": "Dong Bai from Awakening in the Three Kingdoms as the Demon's Granddaughter The Legend of Dong Bai [chapter 13].webp",
+            "data_adicao": "2025-05-14T12:26:21"
+        }
+    ],
     "What Does The Fox Says": [
         {
             "personagem": "Dong Ook",
@@ -3485,6 +3297,14 @@ const dados = {
             "info": "chapter 63",
             "arquivo": "Doyeon from Just Right There [chapter 63].webp",
             "data_adicao": "2025-05-14T12:27:03"
+        }
+    ],
+    "Tiger & Bunny": [
+        {
+            "personagem": "Dragon Kid",
+            "info": "chapter 19",
+            "arquivo": "Dragon Kid from Tiger & Bunny [chapter 19].webp",
+            "data_adicao": "2026-07-26T16:59:35"
         }
     ],
     "死生勿論(anemone)": [
@@ -3580,6 +3400,14 @@ const dados = {
             "personagem": "Elesia",
             "info": "ch 2",
             "arquivo": "Elesia from The White Rose And The Black Lion [ch 2].webp",
+            "data_adicao": "2025-05-14T12:27:05"
+        }
+    ],
+    "Boukansha no Koi": [
+        {
+            "personagem": "Elicia",
+            "info": "傍観者の恋][ch 3",
+            "arquivo": "Elicia from Boukansha no Koi [傍観者の恋][ch 3].webp",
             "data_adicao": "2025-05-14T12:27:05"
         }
     ],
@@ -3935,6 +3763,14 @@ const dados = {
             "data_adicao": "2025-05-14T12:27:16"
         }
     ],
+    "Gunnm Kasei Senki": [
+        {
+            "personagem": "Erika",
+            "info": "chap 51.2 - scene",
+            "arquivo": "Erika from Gunnm Kasei Senki [chap 51.2 - scene].webp",
+            "data_adicao": "2026-07-26T16:59:35"
+        }
+    ],
     "Skip Beat": [
         {
             "personagem": "Erika Koenji",
@@ -3957,6 +3793,14 @@ const dados = {
             "info": "chapter 26",
             "arquivo": "Erina from The Honor Student_s Secret Job [chapter 26].webp",
             "data_adicao": "2025-05-14T12:27:16"
+        }
+    ],
+    "Mushoku Tensei": [
+        {
+            "personagem": "Eris",
+            "info": "chapter 52",
+            "arquivo": "Eris from Mushoku Tensei [chapter 52].webp",
+            "data_adicao": "2025-05-14T12:31:03"
         }
     ],
     "Fairy Tail 100 Year Quest": [
@@ -4077,6 +3921,14 @@ const dados = {
             "info": "vol 3 ch 5",
             "arquivo": "Eunhyung from Let Dai [vol 3 ch 5].webp",
             "data_adicao": "2025-05-14T12:27:20"
+        }
+    ],
+    "Love & Wish": [
+        {
+            "personagem": "Eunice Ko",
+            "info": "chapter 65",
+            "arquivo": "Eunice Ko from Love & Wish [chapter 65].webp",
+            "data_adicao": "2026-07-26T16:59:35"
         }
     ],
     "Flee If You Cant Avoid It": [
@@ -4437,6 +4289,14 @@ const dados = {
             "data_adicao": "2025-05-14T12:27:31"
         }
     ],
+    "Hana to Hoshi": [
+        {
+            "personagem": "Funami",
+            "info": "chapter 11",
+            "arquivo": "Funami from Hana to Hoshi [chapter 11].webp",
+            "data_adicao": "2026-07-26T16:59:35"
+        }
+    ],
     "えなまなえ作品集": [
         {
             "personagem": "Furukawa",
@@ -4485,6 +4345,12 @@ const dados = {
             "info": "vol 6 ch 1",
             "arquivo": "Futami from 天然素材でいこう [vol 6 ch 1].webp",
             "data_adicao": "2025-05-14T12:27:33"
+        },
+        {
+            "personagem": "Miharu Arashiyama",
+            "info": "vol 2 ch 2",
+            "arquivo": "Miharu Arashiyama from 天然素材でいこう [vol 2 ch 2].webp",
+            "data_adicao": "2025-05-14T12:30:37"
         }
     ],
     "Himawari-san (Sugano Manami)": [
@@ -4643,6 +4509,14 @@ const dados = {
             "data_adicao": "2025-05-14T12:27:36"
         }
     ],
+    "200 percent Lilac": [
+        {
+            "personagem": "Girl",
+            "info": "chapter 42",
+            "arquivo": "Girl from 200 percent Lilac [chapter 42].webp",
+            "data_adicao": "2025-05-14T12:25:53"
+        }
+    ],
     "Awkward Love": [
         {
             "personagem": "Girl",
@@ -4749,12 +4623,20 @@ const dados = {
             "data_adicao": "2025-05-14T12:27:37"
         }
     ],
-    "Shitsuren Biyoushitsu": [
+    "Shojo no Mayu": [
         {
             "personagem": "Girl",
-            "info": "chapter 1",
-            "arquivo": "Girl from Shitsuren Biyoushitsu [chapter 1].webp",
-            "data_adicao": "2025-05-14T12:27:37"
+            "info": "author Kaiko Fuyumushi] [chapter 2",
+            "arquivo": "Girl from Shojo no Mayu [author Kaiko Fuyumushi] [chapter 2].webp",
+            "data_adicao": "2026-07-26T16:59:35"
+        }
+    ],
+    "Song of Theodor": [
+        {
+            "personagem": "Girl",
+            "info": "chapter 34",
+            "arquivo": "Girl from Song of Theodor [chapter 34].webp",
+            "data_adicao": "2025-05-14T12:32:55"
         }
     ],
     "Story of Carocheila": [
@@ -4821,6 +4703,14 @@ const dados = {
             "data_adicao": "2025-05-14T12:27:44"
         }
     ],
+    "地球のお魚ぽんちゃん": [
+        {
+            "personagem": "Girl",
+            "info": "chapter 76",
+            "arquivo": "Girl from 地球のお魚ぽんちゃん [chapter 76].webp",
+            "data_adicao": "2025-05-14T12:34:32"
+        }
+    ],
     "川島芳子は男になりたい": [
         {
             "personagem": "Girl",
@@ -4837,6 +4727,22 @@ const dados = {
             "data_adicao": "2025-05-14T12:27:44"
         }
     ],
+    "所持金1000円で家出主婦DV夫に私は負けない!": [
+        {
+            "personagem": "Girl",
+            "info": "chapter",
+            "arquivo": "Girl from 所持金1000円で家出主婦DV夫に私は負けない! [chapter ].webp",
+            "data_adicao": "2025-05-11T17:28:33"
+        }
+    ],
+    "硬核一中": [
+        {
+            "personagem": "Girl",
+            "info": "chapter 77",
+            "arquivo": "Girl from 硬核一中 [chapter 77].webp",
+            "data_adicao": "2025-05-14T12:34:32"
+        }
+    ],
     "窒息少女": [
         {
             "personagem": "Girl",
@@ -4851,6 +4757,14 @@ const dados = {
             "info": "chapter 7",
             "arquivo": "Girl from 교환 남녀 [chapter 7].webp",
             "data_adicao": "2025-05-14T12:27:44"
+        }
+    ],
+    "１００％探偵物語": [
+        {
+            "personagem": "Girl",
+            "info": "chapter",
+            "arquivo": "Girl from １００％探偵物語 [chapter ].webp",
+            "data_adicao": "2025-05-14T12:34:34"
         }
     ],
     "Gisele Alain": [
@@ -5121,6 +5035,14 @@ const dados = {
             "info": "chapter 28",
             "arquivo": "Haman Karn from Kidou Senshi Gundam CDA Wakaki Suisei no Shouzou [chapter 28].webp",
             "data_adicao": "2025-05-14T12:27:51"
+        }
+    ],
+    "F (My Ex)": [
+        {
+            "personagem": "Han Eunyu",
+            "info": "chap 5 and 6 - scene",
+            "arquivo": "Han Eunyu from F (My Ex) [chap 5 and 6 - scene].webp",
+            "data_adicao": "2026-07-26T16:59:35"
         }
     ],
     "Viral Hit": [
@@ -5417,6 +5339,14 @@ const dados = {
             "info": "chapter 88",
             "arquivo": "Harin from College Life Starts With Clubs [chapter 88].webp",
             "data_adicao": "2025-05-14T12:27:59"
+        }
+    ],
+    "晴の詩": [
+        {
+            "personagem": "Haru",
+            "info": "author 伊万里すみ子] [chapter 1",
+            "arquivo": "Haru from  晴の詩 [author 伊万里すみ子] [chapter 1].webp",
+            "data_adicao": "2026-07-26T16:59:35"
         }
     ],
     "Haru to Midori": [
@@ -5743,6 +5673,14 @@ const dados = {
             "info": "chapter 73",
             "arquivo": "Heejoo from The Landlord [chapter 73].webp",
             "data_adicao": "2025-05-14T12:28:06"
+        }
+    ],
+    "Concubine": [
+        {
+            "personagem": "Heera",
+            "info": "chap 133 - scene",
+            "arquivo": "Heera from Concubine [chap 133 - scene].webp",
+            "data_adicao": "2026-07-26T16:59:35"
         }
     ],
     "My Little Brother Is The Academy’s Hotshot": [
@@ -6145,6 +6083,14 @@ const dados = {
             "data_adicao": "2025-05-14T12:29:29"
         }
     ],
+    "Mahou Shoujo Madoka Magica  Arukano": [
+        {
+            "personagem": "Homura Akemi",
+            "info": "doujinshi",
+            "arquivo": "Homura Akemi from Mahou Shoujo Madoka Magica  Arukano [doujinshi].webp",
+            "data_adicao": "2025-05-14T12:28:20"
+        }
+    ],
     "Ageku no Hate no Kanon[あげくの果てのカノン]": [
         {
             "personagem": "Honda",
@@ -6335,6 +6281,14 @@ const dados = {
             "data_adicao": "2025-05-14T12:28:24"
         }
     ],
+    "Unauthorized Access": [
+        {
+            "personagem": "Hyejun",
+            "info": "chap 34 - scene",
+            "arquivo": "Hyejun from Unauthorized Access [chap 34 - scene].webp",
+            "data_adicao": "2026-07-26T16:59:35"
+        }
+    ],
     "달이 가려지는 날": [
         {
             "personagem": "Hyo-ju",
@@ -6365,6 +6319,12 @@ const dados = {
             "info": "s3ch20",
             "arquivo": "Hyun from Ouroboros The Social Cycle [s3ch20].webp",
             "data_adicao": "2025-05-14T12:28:24"
+        },
+        {
+            "personagem": "Jung",
+            "info": "chapter 86",
+            "arquivo": "Jung from Ouroboros The Social Cycle [chapter 86].webp",
+            "data_adicao": "2026-07-26T16:59:35"
         }
     ],
     "Radio of the Present Age": [
@@ -6637,6 +6597,22 @@ const dados = {
             "data_adicao": "2025-05-14T12:28:35"
         }
     ],
+    "Chippai Kanojo to Bijin Kareshi": [
+        {
+            "personagem": "Iori",
+            "info": "chap 43 - no scene",
+            "arquivo": "Iori from Chippai Kanojo to Bijin Kareshi [chap 43 - no scene].webp",
+            "data_adicao": "2026-07-26T16:59:35"
+        }
+    ],
+    "School of Dogs": [
+        {
+            "personagem": "Ipsae",
+            "info": "chapter 103",
+            "arquivo": "Ipsae from School of Dogs [chapter 103].webp",
+            "data_adicao": "2026-07-26T16:59:35"
+        }
+    ],
     "Advance Of Zeta Mace Of Judgment": [
         {
             "personagem": "Iris Allison",
@@ -6763,6 +6739,14 @@ const dados = {
             "data_adicao": "2025-05-14T12:28:38"
         }
     ],
+    "Yoru ni Kikasete": [
+        {
+            "personagem": "Itone",
+            "info": "chap 6 - no scene",
+            "arquivo": "Itone from Yoru ni Kikasete [chap 6 - no scene].webp",
+            "data_adicao": "2026-07-26T16:59:35"
+        }
+    ],
     "校舎の天では悪魔が嗤っている": [
         {
             "personagem": "Itsuka Mitsumine",
@@ -6835,6 +6819,14 @@ const dados = {
             "data_adicao": "2025-05-14T12:28:39"
         }
     ],
+    "普通の愛がほしいだけなのに": [
+        {
+            "personagem": "Izumi Megumi [出水恵]",
+            "info": "chapter 2",
+            "arquivo": "Izumi Megumi [出水恵] from 普通の愛がほしいだけなのに [chapter 2].webp",
+            "data_adicao": "2026-07-26T16:59:35"
+        }
+    ],
     "Samurai Deeper Kyo": [
         {
             "personagem": "Izumo no Okuni",
@@ -6848,6 +6840,14 @@ const dados = {
             "personagem": "Izuna Nobel",
             "info": "ch 73",
             "arquivo": "Izuna Nobel from Servamp [ch 73].webp",
+            "data_adicao": "2025-05-14T12:28:39"
+        }
+    ],
+    "Seasons of Canvas": [
+        {
+            "personagem": "Jade",
+            "info": "화폭의 계절][ch 8",
+            "arquivo": "Jade from Seasons of Canvas [화폭의 계절][ch 8].webp",
             "data_adicao": "2025-05-14T12:28:39"
         }
     ],
@@ -6931,6 +6931,14 @@ const dados = {
             "data_adicao": "2025-05-14T12:28:45"
         }
     ],
+    "Sir Tiger's Table": [
+        {
+            "personagem": "Jangmi Ban",
+            "info": "chapter 11",
+            "arquivo": "Jangmi Ban from Sir Tiger's Table [chapter 11].webp",
+            "data_adicao": "2026-07-26T16:59:35"
+        }
+    ],
     "Love Revolution": [
         {
             "personagem": "Jarim",
@@ -7001,6 +7009,14 @@ const dados = {
             "data_adicao": "2025-05-14T12:28:46"
         }
     ],
+    "Unknown Caller": [
+        {
+            "personagem": "Jeong Chaewon",
+            "info": "chap 35 - no scene",
+            "arquivo": "Jeong Chaewon from Unknown Caller [chap 35 - no scene].webp",
+            "data_adicao": "2026-07-26T16:59:35"
+        }
+    ],
     "MEMORIZE": [
         {
             "personagem": "Jeong Ha Yeon",
@@ -7055,12 +7071,28 @@ const dados = {
             "data_adicao": "2025-05-14T12:28:46"
         }
     ],
+    "Dungeon Reset": [
+        {
+            "personagem": "Ji Seoyeon",
+            "info": "chapter 119",
+            "arquivo": "Ji Seoyeon from Dungeon Reset [chapter 119].webp",
+            "data_adicao": "2025-05-14T12:28:46"
+        }
+    ],
     "Goodnight Cinderella": [
         {
             "personagem": "Ji Su Jeong",
             "info": "chpter 46",
             "arquivo": "Ji Su Jeong from Goodnight Cinderella [chpter 46].webp",
             "data_adicao": "2025-05-14T12:28:46"
+        }
+    ],
+    "Something about 30": [
+        {
+            "personagem": "Ji Won",
+            "info": "chapter 3 flashback",
+            "arquivo": "Ji Won from Something about 30 [chapter 3 flashback].webp",
+            "data_adicao": "2026-07-26T16:59:35"
         }
     ],
     "魔氣來襲": [
@@ -7229,6 +7261,14 @@ const dados = {
             "data_adicao": "2025-05-14T12:28:50"
         }
     ],
+    "Hell Love Story": [
+        {
+            "personagem": "Jineon",
+            "info": "지옥연애환담][ch 64",
+            "arquivo": "Jineon from Hell Love Story [지옥연애환담][ch 64].webp",
+            "data_adicao": "2025-05-14T12:28:51"
+        }
+    ],
     "Nice To Meet You": [
         {
             "personagem": "Jinha",
@@ -7369,6 +7409,14 @@ const dados = {
             "data_adicao": "2025-05-14T12:28:54"
         }
     ],
+    "Medical Top Surgeon": [
+        {
+            "personagem": "Joo Ji-eun",
+            "info": "chapter 44",
+            "arquivo": "Joo Ji-eun from Medical Top Surgeon [chapter 44].webp",
+            "data_adicao": "2026-07-26T16:59:35"
+        }
+    ],
     "Josee, the Tiger and the Fish": [
         {
             "personagem": "Josee",
@@ -7463,6 +7511,14 @@ const dados = {
             "info": "chapter 65",
             "arquivo": "Tsukasa Taira from Devils Line [chapter 65].webp",
             "data_adicao": "2025-05-14T12:33:28"
+        }
+    ],
+    "Skip Beat!": [
+        {
+            "personagem": "Julie",
+            "info": "chap 332 - scene",
+            "arquivo": "Julie from Skip Beat! [chap 332 - scene].webp",
+            "data_adicao": "2026-07-26T16:59:35"
         }
     ],
     "Bokura wa Rakuen de Musubareru": [
@@ -7613,6 +7669,14 @@ const dados = {
             "info": "chapter 5",
             "arquivo": "Kamijou from Ayame to Amane [chapter 5].webp",
             "data_adicao": "2025-05-14T12:29:05"
+        }
+    ],
+    "Full Contact": [
+        {
+            "personagem": "Kana",
+            "info": "chap 26 - scene",
+            "arquivo": "Kana from Full Contact [chap 26 - scene].webp",
+            "data_adicao": "2026-07-26T16:59:35"
         }
     ],
     "Oboreru Knife": [
@@ -7915,6 +7979,22 @@ const dados = {
             "info": "chapter 144.5",
             "arquivo": "Karayusama Chitose from D-Frag [chapter 144.5].webp",
             "data_adicao": "2025-05-14T12:29:11"
+        }
+    ],
+    "The Swordsman Called The Countless Swords Sorcerer": [
+        {
+            "personagem": "Karen",
+            "info": "chap 26 - scene",
+            "arquivo": "Karen from The Swordsman Called The Countless Swords Sorcerer [chap 26 - scene].webp",
+            "data_adicao": "2026-07-26T16:59:35"
+        }
+    ],
+    "Replica Revenge of the Ex-Wife": [
+        {
+            "personagem": "Karin",
+            "info": "chap 82 - no scene",
+            "arquivo": "Karin from Replica Revenge of the Ex-Wife [chap 82 - no scene].webp",
+            "data_adicao": "2026-07-26T16:59:35"
         }
     ],
     "ヴァンプスレイヤー果鈴": [
@@ -8363,6 +8443,14 @@ const dados = {
             "data_adicao": "2025-05-14T12:29:25"
         }
     ],
+    "Shirayukihime": [
+        {
+            "personagem": "Kiki Akagami",
+            "info": "chapter",
+            "arquivo": "Kiki Akagami from Shirayukihime [chapter ].webp",
+            "data_adicao": "2025-05-14T12:29:25"
+        }
+    ],
     "ZENO -西川秀明短編集-": [
         {
             "personagem": "Kiko",
@@ -8377,6 +8465,14 @@ const dados = {
             "info": "ch 63",
             "arquivo": "Kikusui from My Monster Girl's Too Cool For You [ch 63].webp",
             "data_adicao": "2025-05-14T12:29:25"
+        }
+    ],
+    "Married to Madness": [
+        {
+            "personagem": "Kim Dahna",
+            "info": "chap 40 - no scene",
+            "arquivo": "Kim Dahna from Married to Madness [chap 40 - no scene].webp",
+            "data_adicao": "2026-07-26T16:59:35"
         }
     ],
     "인과관계": [
@@ -8505,6 +8601,14 @@ const dados = {
             "data_adicao": "2025-05-11T17:28:27"
         }
     ],
+    "Mosquito Wars": [
+        {
+            "personagem": "Kisses",
+            "info": "chapter 9",
+            "arquivo": "Kisses from Mosquito Wars [chapter 9].webp",
+            "data_adicao": "2026-07-26T16:59:35"
+        }
+    ],
     "Dasei 67 Percent": [
         {
             "personagem": "Kitahara",
@@ -8519,6 +8623,14 @@ const dados = {
             "info": "ch 33.5",
             "arquivo": "Kitami Mamori from Doctor Price [ch 33.5].webp",
             "data_adicao": "2025-05-14T12:29:28"
+        }
+    ],
+    "Apple Parfait - One-Loli Yuri Anthology": [
+        {
+            "personagem": "Kitsune",
+            "info": "chapter 1",
+            "arquivo": "Kitsune from Apple Parfait - One-Loli Yuri Anthology [chapter 1].webp",
+            "data_adicao": "2026-07-26T16:59:35"
         }
     ],
     "Kyoukai no Nai Sekai": [
@@ -8575,6 +8687,14 @@ const dados = {
             "data_adicao": "2025-05-14T12:29:31"
         }
     ],
+    "Something Between Us": [
+        {
+            "personagem": "Ko Sooah",
+            "info": "사귄 건 아닌데][chapter 5 flashback",
+            "arquivo": "Ko Sooah from Something Between Us [사귄 건 아닌데][chapter 5 flashback].webp",
+            "data_adicao": "2025-05-14T12:29:31"
+        }
+    ],
     "フォーチュン+ブリゲイド": [
         {
             "personagem": "Kochelle",
@@ -8618,6 +8738,14 @@ const dados = {
             "personagem": "Koharu",
             "info": "chapter 36 timeskip",
             "arquivo": "Koharu from Haru x Kiyo [chapter 36 timeskip].webp",
+            "data_adicao": "2025-05-14T12:29:31"
+        }
+    ],
+    "Open Marriage": [
+        {
+            "personagem": "Koharu",
+            "info": "オープンマリッジ][vol 8 epilogue 4",
+            "arquivo": "Koharu from Open Marriage [オープンマリッジ][vol 8 epilogue 4].webp",
             "data_adicao": "2025-05-14T12:29:31"
         }
     ],
@@ -8734,6 +8862,14 @@ const dados = {
             "personagem": "Kotaro Kongochi",
             "info": "chapter 14",
             "arquivo": "Kotaro Kongochi from Reincarne [chapter 14].webp",
+            "data_adicao": "2025-05-14T12:29:38"
+        }
+    ],
+    "Fechippuru ~Our Innocent Love~": [
+        {
+            "personagem": "Kotoka Hatsushima",
+            "info": "chapter 68",
+            "arquivo": "Kotoka Hatsushima from Fechippuru ~Our Innocent Love~ [chapter 68].webp",
             "data_adicao": "2025-05-14T12:29:38"
         }
     ],
@@ -9193,12 +9329,44 @@ const dados = {
             "data_adicao": "2025-05-14T12:29:50"
         }
     ],
+    "Next door. Younger guy. Heart fluttering.": [
+        {
+            "personagem": "Lee Jieun",
+            "info": "chapter 24",
+            "arquivo": "Lee Jieun from Next door. Younger guy. Heart fluttering. [chapter 24].webp",
+            "data_adicao": "2026-07-26T16:59:35"
+        }
+    ],
     "섹스크리에이터즈 능욕의 사과방송": [
         {
             "personagem": "Lee Ribbon",
             "info": "chapter 6",
             "arquivo": "Lee Ribbon from 섹스크리에이터즈 능욕의 사과방송 [chapter 6].webp",
             "data_adicao": "2025-05-14T12:29:50"
+        }
+    ],
+    "How to Kill You": [
+        {
+            "personagem": "Lee Seojin",
+            "info": "너를 죽이는 방법][chapter 60",
+            "arquivo": "Lee Seojin from How to Kill You [너를 죽이는 방법][chapter 60].webp",
+            "data_adicao": "2025-05-14T12:29:51"
+        }
+    ],
+    "Insta Life": [
+        {
+            "personagem": "Lee Seolha",
+            "info": "인싸라이프] [chapter 12",
+            "arquivo": "Lee Seolha from Insta Life [인싸라이프] [chapter 12].webp",
+            "data_adicao": "2026-07-26T16:59:35"
+        }
+    ],
+    "Breaking News": [
+        {
+            "personagem": "Lee Ye-Seul",
+            "info": "속보입니다][epilogue 4",
+            "arquivo": "Lee Ye-Seul from Breaking News [속보입니다][epilogue 4].webp",
+            "data_adicao": "2025-05-14T12:29:51"
         }
     ],
     "I Became a Millionaire Daughter": [
@@ -9230,6 +9398,14 @@ const dados = {
             "personagem": "Lenalee",
             "info": "ch 89",
             "arquivo": "Lenalee from The Reason Why The Twin Lady Crossdresses [ch 89].webp",
+            "data_adicao": "2025-05-14T12:29:51"
+        }
+    ],
+    "かたわれ令嬢が男装する理由": [
+        {
+            "personagem": "Lenalee Loreis",
+            "info": "chapter 3",
+            "arquivo": "Lenalee Loreis from かたわれ令嬢が男装する理由 [chapter 3].webp",
             "data_adicao": "2025-05-14T12:29:51"
         }
     ],
@@ -9265,6 +9441,14 @@ const dados = {
             "data_adicao": "2025-05-11T17:28:27"
         }
     ],
+    "The Fake Beauty": [
+        {
+            "personagem": "Li Linna",
+            "info": "chap 49 - no scene",
+            "arquivo": "Li Linna from The Fake Beauty [chap 49 - no scene].webp",
+            "data_adicao": "2026-07-26T16:59:35"
+        }
+    ],
     "Love Is Full of Thorns": [
         {
             "personagem": "Li Meng Meng",
@@ -9278,6 +9462,14 @@ const dados = {
             "personagem": "Li Zi Mo",
             "info": "chapter 0",
             "arquivo": "Li Zi Mo from Secret Love And Secret Marriage [chapter 0].webp",
+            "data_adicao": "2025-05-14T12:29:54"
+        }
+    ],
+    "My Kingdom Silent War": [
+        {
+            "personagem": "Li-na",
+            "info": "ch",
+            "arquivo": "Li-na from My Kingdom Silent War [ch ].webp",
             "data_adicao": "2025-05-14T12:29:54"
         }
     ],
@@ -9327,6 +9519,14 @@ const dados = {
             "info": "ch 82",
             "arquivo": "Lily from All Saints Street [ch 82].webp",
             "data_adicao": "2025-05-14T12:29:55"
+        }
+    ],
+    "Lily the Vicious Villainess": [
+        {
+            "personagem": "Lily",
+            "info": "chap 49 - no scene",
+            "arquivo": "Lily from Lily the Vicious Villainess [chap 49 - no scene].webp",
+            "data_adicao": "2026-07-26T16:59:35"
         }
     ],
     "Old Friend": [
@@ -9577,6 +9777,14 @@ const dados = {
             "data_adicao": "2025-05-14T12:30:00"
         }
     ],
+    "Lessa": [
+        {
+            "personagem": "Lucy",
+            "info": "chapter",
+            "arquivo": "Lucy from Lessa [chapter ].webp",
+            "data_adicao": "2025-05-14T12:30:00"
+        }
+    ],
     "イタリア富豪の秘めた情熱": [
         {
             "personagem": "Lucy",
@@ -9625,6 +9833,28 @@ const dados = {
             "data_adicao": "2025-05-14T12:30:01"
         }
     ],
+    "The Villainess Wants to Die Gracefully": [
+        {
+            "personagem": "Luna",
+            "info": "chap 83 - no scene",
+            "arquivo": "Luna from The Villainess Wants to Die Gracefully [chap 83 - no scene].webp",
+            "data_adicao": "2026-07-26T16:59:35"
+        },
+        {
+            "personagem": "Windy",
+            "info": "chap 36 - no scene - long hair flashback",
+            "arquivo": "Windy from The Villainess Wants to Die Gracefully [chap 36 - no scene - long hair flashback].webp",
+            "data_adicao": "2026-07-26T16:59:35"
+        }
+    ],
+    "The Black Witch Runs Her Own Boarding House in Another World": [
+        {
+            "personagem": "Lunan",
+            "info": "chap 11 - scene",
+            "arquivo": "Lunan from The Black Witch Runs Her Own Boarding House in Another World [chap 11 - scene].webp",
+            "data_adicao": "2026-07-26T16:59:35"
+        }
+    ],
     "楼上的房客[The Tenant Upstairs]": [
         {
             "personagem": "Luo Qi",
@@ -9663,6 +9893,14 @@ const dados = {
             "info": "ch 1-2-3-4",
             "arquivo": "Lyanne from Terra Draconis [ch 1-2-3-4].webp",
             "data_adicao": "2025-05-14T12:30:07"
+        }
+    ],
+    "Ryuu to Ryuu no Kekkon": [
+        {
+            "personagem": "Lycoris",
+            "info": "chapter 17",
+            "arquivo": "Lycoris from Ryuu to Ryuu no Kekkon [chapter 17].webp",
+            "data_adicao": "2026-07-26T16:59:35"
         }
     ],
     "Dokuhime": [
@@ -9778,6 +10016,14 @@ const dados = {
             "personagem": "Mafuyu",
             "info": "chapter 1",
             "arquivo": "Mafuyu from Oresama Teacher [chapter 1].webp",
+            "data_adicao": "2025-05-14T12:30:08"
+        }
+    ],
+    "Bokutachi Wa Benkyou Ga Dekinai": [
+        {
+            "personagem": "Mafuyu Kirisu",
+            "info": "chapter",
+            "arquivo": "Mafuyu Kirisu from Bokutachi Wa Benkyou Ga Dekinai [chapter ].webp",
             "data_adicao": "2025-05-14T12:30:08"
         }
     ],
@@ -9949,6 +10195,14 @@ const dados = {
             "info": "vol 4 ch 1",
             "arquivo": "Makoto from センチメントの季節 [vol 4 ch 1].webp",
             "data_adicao": "2025-05-14T12:30:12"
+        }
+    ],
+    "最低な君をひとりじめしたい": [
+        {
+            "personagem": "Makoto",
+            "info": "oneshot",
+            "arquivo": "Makoto from 最低な君をひとりじめしたい [oneshot].webp",
+            "data_adicao": "2026-07-26T16:59:35"
         }
     ],
     "Bungo": [
@@ -10145,6 +10399,14 @@ const dados = {
             "info": "ch 19",
             "arquivo": "Mari from Faded Away [ch 19].webp",
             "data_adicao": "2025-05-14T12:30:15"
+        }
+    ],
+    "Menhera Usagi wa Yandere Ookami ni Dekiaisareru": [
+        {
+            "personagem": "Mari",
+            "info": "chapter 63.3",
+            "arquivo": "Mari from Menhera Usagi wa Yandere Ookami ni Dekiaisareru [chapter 63.3].webp",
+            "data_adicao": "2026-07-26T16:59:35"
         }
     ],
     "Nanamaru Sanbatsu": [
@@ -10347,6 +10609,14 @@ const dados = {
             "data_adicao": "2025-05-14T12:30:24"
         }
     ],
+    "Jiki Wo Okoshita Koshaku Reijo Ha Sugata Wo Kuramashi Jiyu Wo Tanoshimu": [
+        {
+            "personagem": "Martina",
+            "info": "chap 1 - scene",
+            "arquivo": "Martina from Jiki Wo Okoshita Koshaku Reijo Ha Sugata Wo Kuramashi Jiyu Wo Tanoshimu [chap 1 - scene].webp",
+            "data_adicao": "2026-07-26T16:59:35"
+        }
+    ],
     "Yake wo Okoshita Koushaku Reijou wa Sugata wo Kuramashi Jiyuu wo Tanoshimu": [
         {
             "personagem": "Martina",
@@ -10535,6 +10805,14 @@ const dados = {
             "data_adicao": "2025-05-14T12:30:27"
         }
     ],
+    "Rainbow Raindrop": [
+        {
+            "personagem": "Mayuko Kitajima",
+            "info": "inside Hoshi no Harmony 星のハーモニー 1979] [chapter 4",
+            "arquivo": "Mayuko Kitajima from Rainbow Raindrop [inside Hoshi no Harmony 星のハーモニー 1979] [chapter 4].webp",
+            "data_adicao": "2026-07-26T16:59:35"
+        }
+    ],
     "Bishounen Tanteidan": [
         {
             "personagem": "Mayumi Doujima",
@@ -10637,6 +10915,14 @@ const dados = {
             "info": "chapter 67",
             "arquivo": "Mei Tachibana from Sukitte Ii Na Yo [chapter 67].webp",
             "data_adicao": "2025-05-14T12:30:28"
+        }
+    ],
+    "Oshihen Shiyagare": [
+        {
+            "personagem": "Mei Yoshizono",
+            "info": "chapter 1",
+            "arquivo": "Mei Yoshizono from Oshihen Shiyagare [chapter 1].webp",
+            "data_adicao": "2025-05-14T12:30:29"
         }
     ],
     "The Eunuch’s Consort Rules the World": [
@@ -10951,6 +11237,14 @@ const dados = {
             "data_adicao": "2025-05-14T12:30:38"
         }
     ],
+    "Onna na no de Shouganai": [
+        {
+            "personagem": "Miki Aoki",
+            "info": "女なのでしょうがない][chapter 56",
+            "arquivo": "Miki Aoki from Onna na no de Shouganai [女なのでしょうがない][chapter 56].webp",
+            "data_adicao": "2025-05-14T12:30:38"
+        }
+    ],
     "Marmalade Boy": [
         {
             "personagem": "Miki",
@@ -11055,6 +11349,14 @@ const dados = {
             "data_adicao": "2025-05-14T12:30:41"
         }
     ],
+    "My crazy, feminist girlfriend": [
+        {
+            "personagem": "Min Ji",
+            "info": "chap 6 - no scene - long hair flasback",
+            "arquivo": "Min Ji from My crazy, feminist girlfriend [chap 6 - no scene - long hair flasback].webp",
+            "data_adicao": "2026-07-26T16:59:35"
+        }
+    ],
     "Bad Guy": [
         {
             "personagem": "Min-Ah",
@@ -11155,6 +11457,14 @@ const dados = {
             "info": "chapter 37",
             "arquivo": "Minami from Usami's Little Secret [chapter 37].webp",
             "data_adicao": "2025-05-14T12:30:43"
+        }
+    ],
+    "結婚相手は地雷男サレ妻美波の逆転人生": [
+        {
+            "personagem": "Minami",
+            "info": "ch 1",
+            "arquivo": "Minami from 結婚相手は地雷男サレ妻美波の逆転人生 [ch 1].webp",
+            "data_adicao": "2025-05-14T12:30:44"
         }
     ],
     "Hokkaido Gals Are Super Adorable": [
@@ -11345,6 +11655,14 @@ const dados = {
             "data_adicao": "2025-05-14T12:30:47"
         }
     ],
+    "Romeo Come On Out": [
+        {
+            "personagem": "Miriam",
+            "info": "chapter",
+            "arquivo": "Miriam from Romeo Come On Out [chapter ].webp",
+            "data_adicao": "2025-05-14T12:30:47"
+        }
+    ],
     "夫の愛を妻は知らなかった零れる焔": [
         {
             "personagem": "Misa",
@@ -11414,6 +11732,14 @@ const dados = {
             "personagem": "Miss Baxter",
             "info": "chapter 14",
             "arquivo": "Miss Baxter from Kidnapped [chapter 14].webp",
+            "data_adicao": "2025-05-14T12:30:54"
+        }
+    ],
+    "Devils President Sacrificial Bride": [
+        {
+            "personagem": "Miss Lu",
+            "info": "chapte",
+            "arquivo": "Miss Lu from Devils President Sacrificial Bride [chapte ].webp",
             "data_adicao": "2025-05-14T12:30:54"
         }
     ],
@@ -11709,6 +12035,14 @@ const dados = {
             "data_adicao": "2025-05-14T12:30:59"
         }
     ],
+    "The Taste of Summer Peach": [
+        {
+            "personagem": "Mizuki",
+            "info": "chap 1 - no scene",
+            "arquivo": "Mizuki from The Taste of Summer Peach [chap 1 - no scene].webp",
+            "data_adicao": "2026-07-26T16:59:35"
+        }
+    ],
     "アルテミスの爪紅": [
         {
             "personagem": "Mizuki",
@@ -11755,6 +12089,14 @@ const dados = {
             "info": "ch 71-72",
             "arquivo": "Mizutani Sayuri from Jesus [ch 71-72].webp",
             "data_adicao": "2025-05-14T12:30:59"
+        }
+    ],
+    "The Ice Princess Wants to Be Melted by a Small Patch of Sunlight": [
+        {
+            "personagem": "Mizutori",
+            "info": "ch 37.5",
+            "arquivo": "Mizutori from The Ice Princess Wants to Be Melted by a Small Patch of Sunlight [ch 37.5].webp",
+            "data_adicao": "2026-07-26T16:59:35"
         }
     ],
     "Cigarette and Cherry": [
@@ -12131,6 +12473,14 @@ const dados = {
             "data_adicao": "2025-05-14T12:31:10"
         }
     ],
+    "Sweety Gem": [
+        {
+            "personagem": "Nadia",
+            "info": "chapter 20",
+            "arquivo": "Nadia from Sweety Gem [chapter 20].webp",
+            "data_adicao": "2026-07-26T16:59:35"
+        }
+    ],
     "Maou No Hajimekata": [
         {
             "personagem": "Nadja",
@@ -12287,6 +12637,14 @@ const dados = {
             "data_adicao": "2025-05-14T12:33:11"
         }
     ],
+    "Boku ga Kimi o Kaeru": [
+        {
+            "personagem": "Nako",
+            "info": "僕が君を変える][ch 1",
+            "arquivo": "Nako from Boku ga Kimi o Kaeru [僕が君を変える][ch 1].webp",
+            "data_adicao": "2025-05-14T12:31:13"
+        }
+    ],
     "I Became a Childhood Friend of a Mid-Level Boss": [
         {
             "personagem": "Nam Yuri",
@@ -12325,6 +12683,20 @@ const dados = {
             "info": "chapter 1",
             "arquivo": "Nana from Nanairo Kakumei [chapter 1].webp",
             "data_adicao": "2025-05-14T12:31:15"
+        }
+    ],
+    "Sunohara-sou no Kanrinin-san": [
+        {
+            "personagem": "Nana Sunohara",
+            "info": "Miss Caretaker of Sunohara-sou] [chapter 90",
+            "arquivo": "Nana Sunohara from Sunohara-sou no Kanrinin-san [Miss Caretaker of Sunohara-sou] [chapter 90].webp",
+            "data_adicao": "2026-07-26T16:59:35"
+        },
+        {
+            "personagem": "Yuzu Yukimoto",
+            "info": "Miss Caretaker of Sunohara-sou] [chapter 82 and 90",
+            "arquivo": "Yuzu Yukimoto from Sunohara-sou no Kanrinin-san [Miss Caretaker of Sunohara-sou] [chapter 82 and 90].webp",
+            "data_adicao": "2026-07-26T16:59:35"
         }
     ],
     "ウワサになりたい！": [
@@ -12543,6 +12915,22 @@ const dados = {
             "data_adicao": "2025-05-14T12:31:22"
         }
     ],
+    "Eiga Daisuki Pompo-san": [
+        {
+            "personagem": "Nathalie Woodward",
+            "info": "chapter 6",
+            "arquivo": "Nathalie Woodward from Eiga Daisuki Pompo-san [chapter 6].webp",
+            "data_adicao": "2026-07-26T16:59:35"
+        }
+    ],
+    "Oshima Aki Saikai - reunion + restart": [
+        {
+            "personagem": "Natsuki",
+            "info": "COMIC Anthurium 2022-12",
+            "arquivo": "Natsuki from Oshima Aki Saikai - reunion + restart [COMIC Anthurium 2022-12].webp",
+            "data_adicao": "2025-05-14T12:31:22"
+        }
+    ],
     "君に出会えたというコト": [
         {
             "personagem": "Natsuki",
@@ -12719,14 +13107,6 @@ const dados = {
             "data_adicao": "2025-05-14T12:31:25"
         }
     ],
-    "Pitiful Us": [
-        {
-            "personagem": "Noa",
-            "info": "chapter 39",
-            "arquivo": "Noa from Pitiful Us [chapter 39].webp",
-            "data_adicao": "2025-05-14T12:31:25"
-        }
-    ],
     "The Fabled Warrior": [
         {
             "personagem": "Noa",
@@ -12765,6 +13145,14 @@ const dados = {
             "info": "ch 69",
             "arquivo": "Nobuko Tanaka from Mobuko's Love [ch 69].webp",
             "data_adicao": "2025-05-14T12:31:26"
+        }
+    ],
+    "Kimi wo Sukuu Tatta Hitotsu no Houhou": [
+        {
+            "personagem": "Nodoka",
+            "info": "君を救うたったひとつの方法] [chapter 2",
+            "arquivo": "Nodoka from Kimi wo Sukuu Tatta Hitotsu no Houhou [君を救うたったひとつの方法] [chapter 2].webp",
+            "data_adicao": "2026-07-26T16:59:35"
         }
     ],
     "Hito no Yomei de Seishun suru na": [
@@ -12899,6 +13287,36 @@ const dados = {
             "data_adicao": "2025-05-14T12:31:29"
         }
     ],
+    "Itomeguri no Sobyou": [
+        {
+            "personagem": "Nuiko",
+            "info": "chap 7 - no scene",
+            "arquivo": "Nuiko from Itomeguri no Sobyou [chap 7 - no scene].webp",
+            "data_adicao": "2026-07-26T16:59:35"
+        },
+        {
+            "personagem": "Tomoe",
+            "info": "chap 7 - no scene",
+            "arquivo": "Tomoe from Itomeguri no Sobyou [chap 7 - no scene].webp",
+            "data_adicao": "2026-07-26T16:59:35"
+        }
+    ],
+    "The One I Yearn For": [
+        {
+            "personagem": "Nuo En",
+            "info": "chapter 92",
+            "arquivo": "Nuo En from The One I Yearn For [chapter 92].webp",
+            "data_adicao": "2026-07-26T16:59:35"
+        }
+    ],
+    "Hot Black Tea": [
+        {
+            "personagem": "Nuri",
+            "info": "chapter 1 and ch 33",
+            "arquivo": "Nuri from Hot Black Tea [chapter 1 and ch 33].webp",
+            "data_adicao": "2025-05-14T12:31:29"
+        }
+    ],
     "Elfen Lied": [
         {
             "personagem": "Nyuu",
@@ -12920,6 +13338,22 @@ const dados = {
             "personagem": "Ogihara Sakura",
             "info": "chapter 3",
             "arquivo": "Ogihara Sakura from Sekai de Ichiban Tsuyokunaritai [chapter 3].webp",
+            "data_adicao": "2025-05-14T12:31:29"
+        }
+    ],
+    "How To Turn You Around": [
+        {
+            "personagem": "Oh Juri",
+            "info": "chap 16 - no scene",
+            "arquivo": "Oh Juri from How To Turn You Around [chap 16 - no scene].webp",
+            "data_adicao": "2026-07-26T16:59:35"
+        }
+    ],
+    "Newbies": [
+        {
+            "personagem": "Oh Saebom",
+            "info": "풋내기들][chapter 106-side story 1",
+            "arquivo": "Oh Saebom from Newbies [풋내기들][chapter 106-side story 1].webp",
             "data_adicao": "2025-05-14T12:31:29"
         }
     ],
@@ -13113,6 +13547,20 @@ const dados = {
             "data_adicao": "2025-05-14T12:31:33"
         }
     ],
+    "Falling in Love Gives Me Superpowers": [
+        {
+            "personagem": "Pei Qian",
+            "info": "chap 80 - no scene",
+            "arquivo": "Pei Qian from Falling in Love Gives Me Superpowers [chap 80 - no scene].webp",
+            "data_adicao": "2026-07-26T16:59:35"
+        },
+        {
+            "personagem": "Xiu Xiu",
+            "info": "ch 7",
+            "arquivo": "Xiu Xiu from Falling in Love Gives Me Superpowers [ch 7].webp",
+            "data_adicao": "2025-05-14T12:33:48"
+        }
+    ],
     "Dropkick On My Devil": [
         {
             "personagem": "Pekora",
@@ -13127,6 +13575,14 @@ const dados = {
             "info": "chapter 1",
             "arquivo": "Pepe from LittLE 13 [chapter 1].webp",
             "data_adicao": "2025-05-14T12:31:33"
+        }
+    ],
+    "Lore Olympus": [
+        {
+            "personagem": "Persephone",
+            "info": "chap 11 - scene",
+            "arquivo": "Persephone from Lore Olympus [chap 11 - scene].webp",
+            "data_adicao": "2026-07-26T16:59:35"
         }
     ],
     "Cinderella Got Married So the Evil Stepsister Can Chill Out...Right": [
@@ -13186,6 +13642,30 @@ const dados = {
             "personagem": "Primavera",
             "info": "chapter 104",
             "arquivo": "Primavera from Jigoku no Gouka de Yaka re Tsuzuketa Shounen Saikyou no Honou Tsukai to Natte Fukkatsu Suru [chapter 104].webp",
+            "data_adicao": "2025-05-14T12:31:39"
+        }
+    ],
+    "What’s With the Three Kingdoms-Obsessed Male Lead": [
+        {
+            "personagem": "Princess",
+            "info": "삼국지에 집착 남주가 왜 나와요][ch 7",
+            "arquivo": "Princess from What’s With the Three Kingdoms-Obsessed Male Lead [삼국지에 집착 남주가 왜 나와요][ch 7].webp",
+            "data_adicao": "2025-05-14T12:31:39"
+        }
+    ],
+    "ドカクエ異世界ドカコッククエスト": [
+        {
+            "personagem": "Princess Lapis",
+            "info": "ch 6",
+            "arquivo": "Princess Lapis from ドカクエ異世界ドカコッククエスト [ch 6].webp",
+            "data_adicao": "2025-05-14T12:31:39"
+        }
+    ],
+    "Hakuhei Musha": [
+        {
+            "personagem": "Princess Rin",
+            "info": "vol 2",
+            "arquivo": "Princess Rin from Hakuhei Musha [vol 2].webp",
             "data_adicao": "2025-05-14T12:31:39"
         }
     ],
@@ -13259,6 +13739,22 @@ const dados = {
             "info": "chapter 23",
             "arquivo": "Ranying from Looking for Clotho [chapter 23].webp",
             "data_adicao": "2025-05-14T12:31:43"
+        }
+    ],
+    "Sneewittchen - Geschichten nach Grimm": [
+        {
+            "personagem": "Rapunzel",
+            "info": "chapter 6",
+            "arquivo": "Rapunzel from Sneewittchen - Geschichten nach Grimm [chapter 6].webp",
+            "data_adicao": "2026-07-26T16:59:35"
+        }
+    ],
+    "Covered in Cinders": [
+        {
+            "personagem": "Rapuzen",
+            "info": "世界一残酷で美しいグリム童話 1999] [chapter 3",
+            "arquivo": "Rapuzen from Covered in Cinders [世界一残酷で美しいグリム童話 1999] [chapter 3].webp",
+            "data_adicao": "2026-07-26T16:59:35"
         }
     ],
     "On the Hunt": [
@@ -13370,6 +13866,14 @@ const dados = {
             "personagem": "Reiko",
             "info": "vol 1",
             "arquivo": "Reiko from カナヤコ 女鍛冶職人物語 [vol 1].webp",
+            "data_adicao": "2025-05-14T12:31:44"
+        }
+    ],
+    "Onryou Oku-sama": [
+        {
+            "personagem": "Reimi Ninose",
+            "info": "ch 8",
+            "arquivo": "Reimi Ninose from Onryou Oku-sama [ch 8].webp",
             "data_adicao": "2025-05-14T12:31:44"
         }
     ],
@@ -13595,6 +14099,14 @@ const dados = {
             "data_adicao": "2025-05-14T12:31:52"
         }
     ],
+    "Dekiai Contract - Yachin wa Karada de Haraimasu": [
+        {
+            "personagem": "Rin Enokura",
+            "info": "chapter 1 flashback",
+            "arquivo": "Rin Enokura from Dekiai Contract - Yachin wa Karada de Haraimasu [chapter 1 flashback].webp",
+            "data_adicao": "2026-07-26T16:59:35"
+        }
+    ],
     "Go Shimei wa Yakuza Kara": [
         {
             "personagem": "Rin",
@@ -13691,6 +14203,14 @@ const dados = {
             "data_adicao": "2025-05-14T12:31:55"
         }
     ],
+    "Love Plus Kanojo no Kako": [
+        {
+            "personagem": "Rinko Kobayakawa",
+            "info": "chapter",
+            "arquivo": "Rinko Kobayakawa from Love Plus Kanojo no Kako [chapter ].webp",
+            "data_adicao": "2025-05-14T12:31:55"
+        }
+    ],
     "Taishou Renai Katsudou": [
         {
             "personagem": "Rinko Maisaka",
@@ -13769,6 +14289,14 @@ const dados = {
             "info": "vol 2",
             "arquivo": "Risa from 機動少年XX [vol 2].webp",
             "data_adicao": "2025-05-14T12:31:55"
+        }
+    ],
+    "Secret Room! Private Adult Training Course": [
+        {
+            "personagem": "Risa Kasahara",
+            "info": "Vol 2 Chap 15.5 - no scene",
+            "arquivo": "Risa Kasahara from Secret Room! Private Adult Training Course [Vol 2 Chap 15.5 - no scene].webp",
+            "data_adicao": "2026-07-26T16:59:35"
         }
     ],
     "The Villainess Wants to Enjoy a Carefree Married Life in a Former Enemy Country in Her Seventh Loop": [
@@ -14197,6 +14725,14 @@ const dados = {
             "data_adicao": "2025-05-11T17:28:32"
         }
     ],
+    "Change 123": [
+        {
+            "personagem": "Saeki Ryoko",
+            "info": "chapter 53",
+            "arquivo": "Saeki Ryoko from Change 123 [chapter 53].webp",
+            "data_adicao": "2026-07-26T16:59:35"
+        }
+    ],
     "Shitsuren Chocolatier": [
         {
             "personagem": "Saeko",
@@ -14251,6 +14787,14 @@ const dados = {
             "info": "chapter 24 flashback",
             "arquivo": "Saionji Tsubasa from Ojousama No Shimobe [chapter 24 flashback].webp",
             "data_adicao": "2025-05-14T12:32:08"
+        }
+    ],
+    "Tokyo Girls Bravo 1993": [
+        {
+            "personagem": "Sakae Kaneda",
+            "info": "ch 2",
+            "arquivo": "Sakae Kaneda from Tokyo Girls Bravo 1993 [ch 2].webp",
+            "data_adicao": "2026-07-26T16:59:35"
         }
     ],
     "Kekkaishi": [
@@ -14405,6 +14949,14 @@ const dados = {
             "data_adicao": "2025-05-14T12:32:11"
         }
     ],
+    "Press Play, Sami": [
+        {
+            "personagem": "Sami",
+            "info": "chap 25 - scene",
+            "arquivo": "Sami from Press Play, Sami [chap 25 - scene].webp",
+            "data_adicao": "2026-07-26T16:59:35"
+        }
+    ],
     "Covenant": [
         {
             "personagem": "Samson",
@@ -14442,6 +14994,22 @@ const dados = {
             "personagem": "Sana",
             "info": "oneshot",
             "arquivo": "Sana from 世界一かわいいキレデレ童貞後輩くん [oneshot].webp",
+            "data_adicao": "2025-05-14T12:32:13"
+        }
+    ],
+    "Mandarin Gypsy Cat no Roujou": [
+        {
+            "personagem": "Sanada",
+            "info": "chap 9 - scene",
+            "arquivo": "Sanada from Mandarin Gypsy Cat no Roujou [chap 9 - scene].webp",
+            "data_adicao": "2026-07-26T16:59:35"
+        }
+    ],
+    "Rocket Monkey Hitodzuma no Kōkishin": [
+        {
+            "personagem": "Sanae",
+            "info": "oneshot",
+            "arquivo": "Sanae from Rocket Monkey Hitodzuma no Kōkishin [oneshot].webp",
             "data_adicao": "2025-05-14T12:32:13"
         }
     ],
@@ -14530,6 +15098,14 @@ const dados = {
             "personagem": "Sarutonine Aldike",
             "info": "chapter 1",
             "arquivo": "Sarutonine Aldike from Peach Boy Riverside [chapter 1].webp",
+            "data_adicao": "2025-05-14T12:32:14"
+        }
+    ],
+    "Watashi no H na Rirekisho Mitekudasai": [
+        {
+            "personagem": "Sasahara",
+            "info": "私のHな履歴書みてください][chapter 4",
+            "arquivo": "Sasahara from Watashi no H na Rirekisho Mitekudasai [私のHな履歴書みてください][chapter 4].webp",
             "data_adicao": "2025-05-14T12:32:14"
         }
     ],
@@ -15073,6 +15649,14 @@ const dados = {
             "data_adicao": "2025-05-14T12:32:36"
         }
     ],
+    "Resizer": [
+        {
+            "personagem": "Seri Kang",
+            "info": "리사이저][chapter 32 flashback",
+            "arquivo": "Seri Kang from Resizer [리사이저][chapter 32 flashback].webp",
+            "data_adicao": "2025-05-14T12:32:36"
+        }
+    ],
     "Choku!": [
         {
             "personagem": "Serika",
@@ -15335,6 +15919,14 @@ const dados = {
             "info": "chapter 50",
             "arquivo": "Shin Seonnyeo from Shaman After School [chapter 50].webp",
             "data_adicao": "2025-05-14T12:32:40"
+        }
+    ],
+    "I killed him": [
+        {
+            "personagem": "Shin Yeo Ju",
+            "info": "chap 74 - no scene",
+            "arquivo": "Shin Yeo Ju from I killed him [chap 74 - no scene].webp",
+            "data_adicao": "2026-07-26T16:59:35"
         }
     ],
     "The Elusive Samurai": [
@@ -15721,6 +16313,14 @@ const dados = {
             "data_adicao": "2025-05-14T12:32:53"
         }
     ],
+    "Love So Pure": [
+        {
+            "personagem": "Sohae",
+            "info": "chapter",
+            "arquivo": "Sohae from Love So Pure [chapter ].webp",
+            "data_adicao": "2025-05-14T12:32:53"
+        }
+    ],
     "Moonmade Child": [
         {
             "personagem": "Soi",
@@ -15831,6 +16431,14 @@ const dados = {
             "data_adicao": "2025-05-14T12:32:55"
         }
     ],
+    "Demonic Sword Immortal": [
+        {
+            "personagem": "Song-yeon",
+            "info": "마도선자][ch 17",
+            "arquivo": "Song-yeon from Demonic Sword Immortal [마도선자][ch 17].webp",
+            "data_adicao": "2025-05-14T12:32:56"
+        }
+    ],
     "The Sound of Another": [
         {
             "personagem": "Songyi",
@@ -15845,6 +16453,28 @@ const dados = {
             "info": "ch 18",
             "arquivo": "Sono from Tonari no Shiba-kun wa Misete Kurenai [ch 18].webp",
             "data_adicao": "2025-05-14T12:32:56"
+        }
+    ],
+    "By Chance We": [
+        {
+            "personagem": "Soo-Young",
+            "info": "chapter 54 - ch 39 other sources",
+            "arquivo": "Soo-Young from By Chance We [chapter 54 - ch 39 other sources].webp",
+            "data_adicao": "2026-07-26T16:59:35"
+        }
+    ],
+    "We Are a Matter of Time": [
+        {
+            "personagem": "Soohyun",
+            "info": "ch 43",
+            "arquivo": "Soohyun from We Are a Matter of Time [ch 43].webp",
+            "data_adicao": "2026-07-26T16:59:35"
+        },
+        {
+            "personagem": "Yujin",
+            "info": "ch 43",
+            "arquivo": "Yujin from We Are a Matter of Time [ch 43].webp",
+            "data_adicao": "2026-07-26T16:59:35"
         }
     ],
     "Uncle": [
@@ -16089,6 +16719,14 @@ const dados = {
             "data_adicao": "2025-05-14T12:33:05"
         }
     ],
+    "Cinderella Athletes": [
+        {
+            "personagem": "Sumeragi Raichi",
+            "info": "シンデレラアスリーツ] [chapter 30",
+            "arquivo": "Sumeragi Raichi from Cinderella Athletes [シンデレラアスリーツ] [chapter 30].webp",
+            "data_adicao": "2026-07-26T16:59:35"
+        }
+    ],
     "We May Be An Inexperienced Couple But": [
         {
             "personagem": "Sumika",
@@ -16266,6 +16904,14 @@ const dados = {
             "personagem": "Swan",
             "info": "chapter 31",
             "arquivo": "Swan from The Emperor's Mask [chapter 31].webp",
+            "data_adicao": "2025-05-14T12:33:07"
+        }
+    ],
+    "Guardian Tales - Kanterbury Days": [
+        {
+            "personagem": "Sword of Werebeasts Rey",
+            "info": "Chapter 81",
+            "arquivo": "Sword of Werebeasts Rey from Guardian Tales - Kanterbury Days [Chapter 81].webp",
             "data_adicao": "2025-05-14T12:33:07"
         }
     ],
@@ -16715,6 +17361,14 @@ const dados = {
             "data_adicao": "2025-05-14T12:33:25"
         }
     ],
+    "Touma-kun": [
+        {
+            "personagem": "Tsubaki",
+            "info": "冬馬くん 2017] [chapter 5",
+            "arquivo": "Tsubaki from Touma-kun [冬馬くん 2017] [chapter 5].webp",
+            "data_adicao": "2026-07-26T16:59:35"
+        }
+    ],
     "月と椿": [
         {
             "personagem": "Tsubaki",
@@ -16833,6 +17487,20 @@ const dados = {
             "info": "author Shuyo Yamamoto][ch 1",
             "arquivo": "Tsukimi Miyashita from 月が綺麗ですね [author Shuyo Yamamoto][ch 1].webp",
             "data_adicao": "2025-05-14T12:33:29"
+        },
+        {
+            "personagem": "清水",
+            "info": "chap 11 - no scene",
+            "arquivo": "清水 from 月が綺麗ですね [chap 11 - no scene].webp",
+            "data_adicao": "2026-07-26T16:59:35"
+        }
+    ],
+    "Anata wo Shiawase ni Shimasu": [
+        {
+            "personagem": "Tsukino",
+            "info": "あなたを幸せにします] [ch 1",
+            "arquivo": "Tsukino from Anata wo Shiawase ni Shimasu [あなたを幸せにします] [ch 1].webp",
+            "data_adicao": "2026-07-26T16:59:35"
         }
     ],
     "Amaama to Inazuma": [
@@ -16883,6 +17551,22 @@ const dados = {
             "data_adicao": "2025-05-14T12:33:32"
         }
     ],
+    "Tiger Hunting": [
+        {
+            "personagem": "Uesugi Ryu",
+            "info": "chap 4 - no scene",
+            "arquivo": "Uesugi Ryu from Tiger Hunting [chap 4 - no scene].webp",
+            "data_adicao": "2026-07-26T16:59:35"
+        }
+    ],
+    "ジドリの女王 ～氏家真知子 最後の取材～": [
+        {
+            "personagem": "Uijie Machiko",
+            "info": "ch 1",
+            "arquivo": "Uijie Machiko from ジドリの女王 ～氏家真知子 最後の取材～ [ch 1].webp",
+            "data_adicao": "2025-05-14T12:33:32"
+        }
+    ],
     "Yard for Two[두 마리를 위한 뜰]": [
         {
             "personagem": "Uiram",
@@ -16904,6 +17588,14 @@ const dados = {
             "personagem": "Umegami Arisa",
             "info": "chapter 11 short hair flashback",
             "arquivo": "Umegami Arisa from I Want to Drink Your Tears [chapter 11 short hair flashback].webp",
+            "data_adicao": "2025-05-14T12:33:32"
+        }
+    ],
+    "Namaiki Little Prince": [
+        {
+            "personagem": "Umeko",
+            "info": "なまいきリトルプリンス][chapter 23",
+            "arquivo": "Umeko from Namaiki Little Prince [なまいきリトルプリンス][chapter 23].webp",
             "data_adicao": "2025-05-14T12:33:32"
         }
     ],
@@ -16936,6 +17628,14 @@ const dados = {
             "personagem": "Umino",
             "info": "ch 8",
             "arquivo": "Umino from Last Summer Vacation [ch 8].webp",
+            "data_adicao": "2025-05-14T12:33:33"
+        }
+    ],
+    "The Missing O": [
+        {
+            "personagem": "Unnie",
+            "info": "chapter 112",
+            "arquivo": "Unnie from The Missing O [chapter 112].webp",
             "data_adicao": "2025-05-14T12:33:33"
         }
     ],
@@ -17187,6 +17887,14 @@ const dados = {
             "data_adicao": "2025-05-14T12:33:44"
         }
     ],
+    "Long Live My Queen": [
+        {
+            "personagem": "Xi Yuan",
+            "info": "chap 45 - no scene",
+            "arquivo": "Xi Yuan from Long Live My Queen [chap 45 - no scene].webp",
+            "data_adicao": "2026-07-26T16:59:35"
+        }
+    ],
     "蔷薇x": [
         {
             "personagem": "Xia Mei",
@@ -17249,6 +17957,14 @@ const dados = {
             "data_adicao": "2025-05-14T12:33:45"
         }
     ],
+    "Here Lies the Wicked": [
+        {
+            "personagem": "Xiao Xiao",
+            "info": "chap 69 - no scene",
+            "arquivo": "Xiao Xiao from Here Lies the Wicked [chap 69 - no scene].webp",
+            "data_adicao": "2026-07-26T16:59:35"
+        }
+    ],
     "The Ghost Bride": [
         {
             "personagem": "Xiao Yu",
@@ -17295,14 +18011,6 @@ const dados = {
             "info": "chapter 3",
             "arquivo": "Xing Ling from The Celestial Zone [chapter 3].webp",
             "data_adicao": "2025-05-14T12:33:47"
-        }
-    ],
-    "Falling in Love Gives Me Superpowers": [
-        {
-            "personagem": "Xiu Xiu",
-            "info": "ch 7",
-            "arquivo": "Xiu Xiu from Falling in Love Gives Me Superpowers [ch 7].webp",
-            "data_adicao": "2025-05-14T12:33:48"
         }
     ],
     "Link Click": [
@@ -17529,12 +18237,36 @@ const dados = {
             "data_adicao": "2025-05-14T12:33:55"
         }
     ],
+    "Wedding Strategy": [
+        {
+            "personagem": "Yeo-un",
+            "info": "chap 69 - scene",
+            "arquivo": "Yeo-un from Wedding Strategy [chap 69 - scene].webp",
+            "data_adicao": "2026-07-26T16:59:35"
+        }
+    ],
+    "Solitary Bird": [
+        {
+            "personagem": "Yeo-won",
+            "info": "chap 9 - no scene",
+            "arquivo": "Yeo-won from Solitary Bird [chap 9 - no scene].webp",
+            "data_adicao": "2026-07-26T16:59:35"
+        }
+    ],
     "Pine in the Flower Garden": [
         {
             "personagem": "Yeon Bora",
             "info": "ch 60",
             "arquivo": "Yeon Bora from Pine in the Flower Garden [ch 60].webp",
             "data_adicao": "2025-05-14T12:33:55"
+        }
+    ],
+    "Mingginyu": [
+        {
+            "personagem": "Yeon Wu",
+            "info": "chapter 199",
+            "arquivo": "Yeon Wu from Mingginyu [chapter 199].webp",
+            "data_adicao": "2026-07-26T16:59:35"
         }
     ],
     "銀河戀人": [
@@ -17695,12 +18427,34 @@ const dados = {
             "data_adicao": "2025-05-14T12:34:00"
         }
     ],
+    "美チェンジ": [
+        {
+            "personagem": "Yoko",
+            "info": "vol 1",
+            "arquivo": "Yoko from 美チェンジ [vol 1].webp",
+            "data_adicao": "2025-05-14T12:34:00"
+        }
+    ],
     "Yoko-San, Sugari Yoru": [
         {
             "personagem": "Yoko-san",
             "info": "chapter 24",
             "arquivo": "Yoko-san from Yoko-San, Sugari Yoru [chapter 24].webp",
             "data_adicao": "2025-05-14T12:34:00"
+        }
+    ],
+    "Amagami-san Chi no Enmusubi": [
+        {
+            "personagem": "Yomiko",
+            "info": "ch 194",
+            "arquivo": "Yomiko from Amagami-san Chi no Enmusubi [ch 194].webp",
+            "data_adicao": "2026-07-26T16:59:35"
+        },
+        {
+            "personagem": "Yuna",
+            "info": "ch 194",
+            "arquivo": "Yuna from Amagami-san Chi no Enmusubi [ch 194].webp",
+            "data_adicao": "2026-07-26T16:59:35"
         }
     ],
     "Kill Starter": [
@@ -17837,6 +18591,14 @@ const dados = {
             "info": "chapter 1",
             "arquivo": "Yoshiko Kawashima from Yoshiko Kawashima Wants to Become a Man [chapter 1].webp",
             "data_adicao": "2025-05-14T12:34:02"
+        }
+    ],
+    "Ningen Shikkaku": [
+        {
+            "personagem": "Yoshino",
+            "info": "chapter 10",
+            "arquivo": "Yoshino from Ningen Shikkaku [chapter 10].webp",
+            "data_adicao": "2026-07-26T16:59:35"
         }
     ],
     "Wake Up Girls  リーダーズ": [
@@ -17999,6 +18761,14 @@ const dados = {
             "data_adicao": "2025-05-14T12:34:09"
         }
     ],
+    "Dareka no Koto o Sukinadake": [
+        {
+            "personagem": "Yuiko Amano",
+            "info": "vol 1",
+            "arquivo": "Yuiko Amano from Dareka no Koto o Sukinadake [vol 1].webp",
+            "data_adicao": "2025-05-14T12:34:09"
+        }
+    ],
     "Naka Iki suru Kao Motto Misete Omiai Aite to Zetsurin SEX": [
         {
             "personagem": "Yuimi",
@@ -18135,6 +18905,14 @@ const dados = {
             "data_adicao": "2025-05-14T12:34:12"
         }
     ],
+    "Kamen no Inmu": [
+        {
+            "personagem": "Yukie Aihara",
+            "info": "chapter",
+            "arquivo": "Yukie Aihara from Kamen no Inmu [chapter ].webp",
+            "data_adicao": "2025-05-14T12:34:12"
+        }
+    ],
     "デュエット": [
         {
             "personagem": "Yukihi",
@@ -18231,6 +19009,14 @@ const dados = {
             "data_adicao": "2025-05-14T12:34:14"
         }
     ],
+    "Nando Otto wo Koroshite mo": [
+        {
+            "personagem": "Yume",
+            "info": "chapter 6",
+            "arquivo": "Yume from Nando Otto wo Koroshite mo [chapter 6].webp",
+            "data_adicao": "2026-07-26T16:59:35"
+        }
+    ],
     "Marriage Gray": [
         {
             "personagem": "Yume Gamagori",
@@ -18268,6 +19054,14 @@ const dados = {
             "personagem": "Yun-jeong",
             "info": "chapter 40",
             "arquivo": "Yun-jeong from 하는 형님 [chapter 40].webp",
+            "data_adicao": "2025-05-14T12:34:16"
+        }
+    ],
+    "Paper Feather": [
+        {
+            "personagem": "Yuna",
+            "info": "chapter",
+            "arquivo": "Yuna from Paper Feather [chapter ].webp",
             "data_adicao": "2025-05-14T12:34:16"
         }
     ],
@@ -18439,6 +19233,14 @@ const dados = {
             "data_adicao": "2025-05-14T12:34:24"
         }
     ],
+    "Doctor Quest Fallen Physician Reincarnates as the Ultimate Doctor": [
+        {
+            "personagem": "Yurino",
+            "info": "chapter 22",
+            "arquivo": "Yurino from Doctor Quest Fallen Physician Reincarnates as the Ultimate Doctor [chapter 22].webp",
+            "data_adicao": "2026-07-26T16:59:35"
+        }
+    ],
     "OL、ラッコを飼う": [
         {
             "personagem": "Yutori Tokiba",
@@ -18452,6 +19254,14 @@ const dados = {
             "personagem": "Yuu",
             "info": "bangs - chapter 20",
             "arquivo": "Yuu from Miyori no Nai Onnanoko [bangs - chapter 20].webp",
+            "data_adicao": "2025-05-14T12:34:24"
+        }
+    ],
+    "Bloom Into You": [
+        {
+            "personagem": "Yuu Koito",
+            "info": "chapter 45",
+            "arquivo": "Yuu Koito from Bloom Into You [chapter 45].webp",
             "data_adicao": "2025-05-14T12:34:24"
         }
     ],
@@ -18607,6 +19417,14 @@ const dados = {
             "data_adicao": "2025-05-14T12:34:29"
         }
     ],
+    "Fetters of Fate": [
+        {
+            "personagem": "ليمان",
+            "info": "chap 24 - no scene",
+            "arquivo": "ليمان from Fetters of Fate [chap 24 - no scene].webp",
+            "data_adicao": "2026-07-26T16:59:35"
+        }
+    ],
     "ばくてん！ 沖田くんとたわわな土方さん": [
         {
             "personagem": "な土方",
@@ -18623,12 +19441,28 @@ const dados = {
             "data_adicao": "2025-05-14T12:34:29"
         }
     ],
+    "グッケンハイブ": [
+        {
+            "personagem": "サナ",
+            "info": "Season 2 chap 1 - no scene",
+            "arquivo": "サナ from グッケンハイブ [Season 2 chap 1 - no scene].webp",
+            "data_adicao": "2026-07-26T16:59:35"
+        }
+    ],
     "インチキ聖女と言われたので、国を出てのんびり暮らそうと思います": [
         {
             "personagem": "フレメア",
             "info": "chap 3 - no scene",
             "arquivo": "フレメア from インチキ聖女と言われたので、国を出てのんびり暮らそうと思います [chap 3 - no scene].webp",
             "data_adicao": "2025-05-11T17:34:20"
+        }
+    ],
+    "鉱石令嬢〜没落した悪役令嬢が炭鉱で一山当てるまでのお話〜": [
+        {
+            "personagem": "マヘリア",
+            "info": "chap 1 - haircut scene",
+            "arquivo": "マヘリア from 鉱石令嬢〜没落した悪役令嬢が炭鉱で一山当てるまでのお話〜 [chap 1 - haircut scene].webp",
+            "data_adicao": "2025-05-11T17:28:33"
         }
     ],
     "SPIN OUT スピンナウト": [
@@ -18655,12 +19489,50 @@ const dados = {
             "data_adicao": "2025-05-14T12:34:29"
         }
     ],
+    "だから、彼女は彼を買う。": [
+        {
+            "personagem": "和泉",
+            "info": "chap 17 - no scene",
+            "arquivo": "和泉 from だから、彼女は彼を買う。 [chap 17 - no scene].webp",
+            "data_adicao": "2026-07-26T16:59:35"
+        }
+    ],
+    "壊サレ妻 ～シタ女は私の妊活友達～": [
+        {
+            "personagem": "奈月",
+            "info": "chap 7 - no scene",
+            "arquivo": "奈月 from 壊サレ妻 ～シタ女は私の妊活友達～ [chap 7 - no scene].webp",
+            "data_adicao": "2026-07-26T16:59:35"
+        }
+    ],
     "混蛋上司": [
         {
             "personagem": "彩英代理 [Chae Young]",
             "info": "Bastard Boss] [chapter 26",
             "arquivo": "彩英代理 [Chae Young] from 混蛋上司 [Bastard Boss] [chapter 26].webp",
             "data_adicao": "2025-05-14T12:34:32"
+        }
+    ],
+    "人としてつき合えたら": [
+        {
+            "personagem": "月城",
+            "info": "chap 2 - no scene",
+            "arquivo": "月城 from 人としてつき合えたら [chap 2 - no scene].webp",
+            "data_adicao": "2026-07-26T16:59:35"
+        }
+    ],
+    "Guilty2": [
+        {
+            "personagem": "月島冴子",
+            "info": "chap 5 - scene",
+            "arquivo": "月島冴子 from Guilty2 [chap 5 - scene].webp",
+            "data_adicao": "2026-07-26T16:59:35"
+        },
+        {
+            "personagem": "竹内由季",
+            "info": "chap 2 and 4 - no scene",
+            "arquivo": "竹内由季 from Guilty2 [chap 2 and 4 - no scene].webp",
+            "data_adicao": "2026-07-26T16:59:35"
         }
     ],
     "陸軍中野予備校": [
@@ -18671,6 +19543,22 @@ const dados = {
             "data_adicao": "2025-05-14T12:34:32"
         }
     ],
+    "馬刺しが食べたい": [
+        {
+            "personagem": "梅野かえで",
+            "info": "chap 6 - no scene",
+            "arquivo": "梅野かえで from 馬刺しが食べたい [chap 6 - no scene].webp",
+            "data_adicao": "2026-07-26T16:59:35"
+        }
+    ],
+    "カプチーノ": [
+        {
+            "personagem": "涙川克美",
+            "info": "chap 1 - scene",
+            "arquivo": "涙川克美 from カプチーノ [chap 1 - scene].webp",
+            "data_adicao": "2026-07-26T16:59:35"
+        }
+    ],
     "超酷的恋爱": [
         {
             "personagem": "玄芝",
@@ -18679,12 +19567,28 @@ const dados = {
             "data_adicao": "2025-05-14T12:34:32"
         }
     ],
+    "Young Guns": [
+        {
+            "personagem": "紀幼蘭",
+            "info": "chap 10 - no scene",
+            "arquivo": "紀幼蘭 from Young Guns [chap 10 - no scene].webp",
+            "data_adicao": "2026-07-26T16:59:35"
+        }
+    ],
     "怪奇实录": [
         {
             "personagem": "芷晴",
             "info": "ch 439",
             "arquivo": "芷晴 from 怪奇实录 [ch 439].webp",
             "data_adicao": "2025-05-14T12:34:33"
+        }
+    ],
+    "きらきら、あおい": [
+        {
+            "personagem": "荻野美穂",
+            "info": "chap 12 - no scene",
+            "arquivo": "荻野美穂 from きらきら、あおい [chap 12 - no scene].webp",
+            "data_adicao": "2026-07-26T16:59:35"
         }
     ],
     "You're my Angel 你是我的天使": [
@@ -18703,6 +19607,22 @@ const dados = {
             "data_adicao": "2025-05-14T12:34:33"
         }
     ],
+    "俺はあざといを許さない": [
+        {
+            "personagem": "薬師寺みかげ",
+            "info": "chap 32 - no scene",
+            "arquivo": "薬師寺みかげ from 俺はあざといを許さない [chap 32 - no scene].webp",
+            "data_adicao": "2026-07-26T16:59:35"
+        }
+    ],
+    "復讐の未亡人": [
+        {
+            "personagem": "鈴木密",
+            "info": "chap 7 - no scene",
+            "arquivo": "鈴木密 from 復讐の未亡人 [chap 7 - no scene].webp",
+            "data_adicao": "2026-07-26T16:59:35"
+        }
+    ],
     "トップ・ノート 香りのマジシャン": [
         {
             "personagem": "鈴木真理藻",
@@ -18717,6 +19637,14 @@ const dados = {
             "info": "chapter 14",
             "arquivo": "阿久 from 恶魔治愈 [chapter 14].webp",
             "data_adicao": "2025-05-14T12:34:33"
+        }
+    ],
+    "アイドルマスター シャイニーカラーズ 事務的光空記録": [
+        {
+            "personagem": "風野灯織",
+            "info": "chap 12 - no scene",
+            "arquivo": "風野灯織 from アイドルマスター シャイニーカラーズ 事務的光空記録 [chap 12 - no scene].webp",
+            "data_adicao": "2026-07-26T16:59:35"
         }
     ],
     "나의 짝사랑 고백법": [
@@ -18757,6 +19685,22 @@ const dados = {
             "info": "ch 11 long hair flashback",
             "arquivo": "유은아 from 카메라ON [ch 11 long hair flashback].webp",
             "data_adicao": "2025-05-14T12:34:34"
+        }
+    ],
+    "엔딩, 바꿔보려합니다": [
+        {
+            "personagem": "최세화로",
+            "info": "chap 100 - no scene",
+            "arquivo": "최세화로 from 엔딩, 바꿔보려합니다 [chap 100 - no scene].webp",
+            "data_adicao": "2026-07-26T16:59:35"
+        }
+    ],
+    "반려짐승": [
+        {
+            "personagem": "해미",
+            "info": "chap 58 - no scene",
+            "arquivo": "해미 from 반려짐승 [chap 58 - no scene].webp",
+            "data_adicao": "2026-07-26T16:59:35"
         }
     ]
 };
