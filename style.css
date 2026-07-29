@@ -187,6 +187,54 @@ a:hover {
     color: var(--text);
 }
 
+.tag-section {
+    margin-top: 14px;
+}
+
+.tag-section-title {
+    display: block;
+    margin-bottom: 8px;
+    color: var(--muted);
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.tag-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    color: var(--muted);
+    font-size: 14px;
+}
+
+.tag-chip {
+    display: inline-flex;
+    align-items: center;
+    min-height: 32px;
+    padding: 6px 12px;
+    border: 1px solid var(--accent);
+    border-radius: 999px;
+    background: var(--bg);
+    color: var(--accent);
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 1;
+    cursor: pointer;
+    transition: transform 0.2s ease, background-color 0.2s ease, color 0.2s ease;
+}
+
+.tag-chip:hover,
+.tag-chip:focus-visible {
+    background: var(--accent);
+    color: var(--button-text);
+    transform: translateY(-1px);
+}
+
+.tag-chip:focus-visible {
+    outline: 3px solid var(--accent-hover);
+    outline-offset: 2px;
+}
+
 .recentes-lista {
     display: grid;
     gap: 18px;

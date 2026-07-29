@@ -42,6 +42,7 @@
     <script src="scroll-top.js"></script>
     <script src="back-navigation.js"></script>
     <script src="theme.js"></script>
+    <script src="tags.js"></script>
 
     <script>
         // ============================================================
@@ -157,7 +158,6 @@
         // ============================================================
 
         // Cache for assets/tags.json
-        let cachedTagsData = null;
         // Cache for dados.js, anime-dados.js, ln-dados.js metadata index
         let cachedDataIndex = null;
 
@@ -179,13 +179,7 @@
          * Fetches and caches assets/tags.json.
          */
         async function getTagsData() {
-            if (cachedTagsData) return cachedTagsData;
-            const response = await fetch("assets/tags.json");
-            if (!response.ok) {
-                throw new Error("Could not load assets/tags.json");
-            }
-            cachedTagsData = await response.json();
-            return cachedTagsData;
+            return TagsDatabase.load();
         }
 
         /**
@@ -417,7 +411,26 @@
         // INITIALIZATION
         // ============================================================
         document.addEventListener("DOMContentLoaded", () => {
-            loadAndRenderFilters();
+            loadAndRenderFilters().then(() => {
+                const urlFilters = new URLSearchParams(window.location.search);
+                let hasUrlFilters = false;
+
+                urlFilters.forEach((value, category) => {
+                    const checkbox = Array.from(document.querySelectorAll(".filter-checkbox")).find(input =>
+                        input.dataset.category === category.toLowerCase() &&
+                        input.value.toLowerCase() === value.toLowerCase()
+                    );
+
+                    if (checkbox) {
+                        checkbox.checked = true;
+                        hasUrlFilters = true;
+                    }
+                });
+
+                if (hasUrlFilters) {
+                    runSearch();
+                }
+            });
 
             const searchBtn = document.getElementById("search-button");
             if (searchBtn) {

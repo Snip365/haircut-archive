@@ -32,6 +32,7 @@
 
 
 <script src="anime-dados.js"></script>
+    <script src="tags.js"></script>
     <script src="scroll-top.js"></script>
     <script src="back-navigation.js"></script>
     <script src="theme.js"></script>
@@ -95,17 +96,38 @@ else {
 	imagem.decoding = "async";
 
         const texto = document.createElement("p");
+        const personagem = document.createElement("b");
+        personagem.textContent = item.personagem;
+        texto.appendChild(personagem);
+        texto.appendChild(document.createElement("br"));
+        texto.append(item.info);
 
+        const tagsSection = document.createElement("section");
+        tagsSection.className = "tag-section";
+        tagsSection.setAttribute("aria-label", "Tags");
 
-        texto.innerHTML =
-        "<b>" + item.personagem + "</b><br>" +
-        item.info;
+        const tagsTitle = document.createElement("span");
+        tagsTitle.className = "tag-section-title";
+        tagsTitle.textContent = "Tags";
+
+        const tagsList = document.createElement("div");
+        tagsList.className = "tag-list";
+        tagsList.textContent = "Loading tags...";
+
+        tagsSection.append(tagsTitle, tagsList);
+
+        TagsDatabase.getImageTags("imagens_anime", item.arquivo)
+            .then(imageTags => renderTags(tagsList, imageTags))
+            .catch(() => {
+                tagsList.textContent = "Tags unavailable.";
+            });
 
 
 
         bloco.appendChild(imagem);
 
         bloco.appendChild(texto);
+        bloco.appendChild(tagsSection);
 
 
         galeria.appendChild(bloco);
@@ -171,6 +193,26 @@ else {
     navContainer.appendChild(navDiv);
 
 
+}
+
+function renderTags(container, imageTags) {
+    container.innerHTML = "";
+    const tags = Object.entries(imageTags).flatMap(([category, values]) =>
+        (Array.isArray(values) ? values : [values]).map(value => ({ category, value }))
+    );
+
+    if (tags.length === 0) {
+        container.textContent = "No tags available.";
+        return;
+    }
+
+    tags.forEach(({ category, value }) => {
+        const tag = document.createElement("a");
+        tag.className = "tag-chip";
+        tag.href = "filter.html?" + encodeURIComponent(category) + "=" + encodeURIComponent(value);
+        tag.textContent = value;
+        container.appendChild(tag);
+    });
 }
 
 
