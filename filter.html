@@ -1,0 +1,431 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0">
+
+    <title>Filters - Manga Haircut Archive</title>
+
+    <link rel="stylesheet"
+          href="style.css">
+
+</head>
+
+<body>
+
+    <img src="assets/banner.webp" alt="Manga Haircut Archive banner" class="hero-banner">
+
+    <div class="page-controls">
+        <a href="#" class="nav-button" id="back-button">Back</a>
+        <a href="index.html" class="nav-button">Homepage</a>
+        <button id="theme-toggle" type="button">Dark Mode</button>
+    </div>
+
+    <h1>Filters</h1>
+
+    <div id="filter-panel" class="filter-container"></div>
+
+    <div class="filter-actions">
+        <button type="button" class="nav-button search-button" id="search-button">Search</button>
+    </div>
+
+    <div class="results-section">
+        <hr class="section-divider">
+        <h2>Results</h2>
+        <div id="results-container" class="empty-state">(no results yet)</div>
+    </div>
+
+    <script src="scroll-top.js"></script>
+    <script src="back-navigation.js"></script>
+    <script src="theme.js"></script>
+
+    <script>
+        // ============================================================
+        // PARSE PYTHON CONFIGURATION (assets/config.py)
+        // ============================================================
+        function parseConfigPy(text) {
+            const categories = [];
+            const regex = /([A-Z0-9_]+)\s*=\s*\[([\s\S]*?)\]/g;
+            let match;
+
+            while ((match = regex.exec(text)) !== null) {
+                const rawVarName = match[1];
+                const content = match[2];
+
+                let categoryName = rawVarName.replace(/_TAGS$/i, '').replace(/_/g, ' ');
+                categoryName = categoryName.charAt(0).toUpperCase() + categoryName.slice(1).toLowerCase();
+
+                const itemRegex = /["']([^"']+)["']/g;
+                const items = [];
+                let itemMatch;
+                while ((itemMatch = itemRegex.exec(content)) !== null) {
+                    items.push(itemMatch[1]);
+                }
+
+                if (items.length > 0) {
+                    categories.push({
+                        name: categoryName,
+                        key: rawVarName,
+                        items: items
+                    });
+                }
+            }
+            return categories;
+        }
+
+        const fallbackConfig = [
+            {
+                name: "Media",
+                key: "MEDIA_TAGS",
+                items: ["Manga", "Anime", "Light Novel", "Manhwa", "Manhua", "Onscreen"]
+            },
+            {
+                name: "Style",
+                key: "STYLE_TAGS",
+                items: ["Long", "Bob", "Pixie", "Bald", "Dye", "Braid", "Twintail", "Ponytail", "Himecut", "Wolfcut", "Other"]
+            }
+        ];
+
+        // ============================================================
+        // RENDER CHECKBOX GROUPS
+        // ============================================================
+        function renderFilterPanel(categories) {
+            const filterPanel = document.getElementById("filter-panel");
+            filterPanel.innerHTML = "";
+
+            categories.forEach(cat => {
+                const groupDiv = document.createElement("div");
+                groupDiv.className = "filter-group";
+
+                const title = document.createElement("h2");
+                title.className = "filter-group-title";
+                title.textContent = cat.name;
+                groupDiv.appendChild(title);
+
+                const optionsDiv = document.createElement("div");
+                optionsDiv.className = "filter-options";
+
+                cat.items.forEach(item => {
+                    const label = document.createElement("label");
+                    label.className = "filter-checkbox-label";
+
+                    const checkbox = document.createElement("input");
+                    checkbox.type = "checkbox";
+                    // Store category name in dataset for generic matching
+                    checkbox.dataset.category = cat.name.toLowerCase();
+                    checkbox.value = item;
+                    checkbox.className = "filter-checkbox";
+
+                    const textSpan = document.createElement("span");
+                    textSpan.textContent = item;
+
+                    label.appendChild(checkbox);
+                    label.appendChild(textSpan);
+                    optionsDiv.appendChild(label);
+                });
+
+                groupDiv.appendChild(optionsDiv);
+                filterPanel.appendChild(groupDiv);
+            });
+        }
+
+        async function loadAndRenderFilters() {
+            let categories = [];
+            try {
+                const response = await fetch("assets/config.py");
+                if (response.ok) {
+                    const text = await response.text();
+                    categories = parseConfigPy(text);
+                }
+            } catch (err) {
+                console.warn("Could not fetch assets/config.py directly. Using fallback config.", err);
+            }
+
+            if (!categories || categories.length === 0) {
+                categories = fallbackConfig;
+            }
+
+            renderFilterPanel(categories);
+        }
+
+        // ============================================================
+        // DATA ACCESS & CACHING UTILITIES
+        // ============================================================
+
+        // Cache for assets/tags.json
+        let cachedTagsData = null;
+        // Cache for dados.js, anime-dados.js, ln-dados.js metadata index
+        let cachedDataIndex = null;
+
+        /**
+         * Dynamically loads a JS data file and evaluates `dados`.
+         * Reuses the pattern from recently-added.html.
+         */
+        async function carregarDados(url) {
+            const resposta = await fetch(url);
+            if (!resposta.ok) {
+                throw new Error(`Could not load ${url}`);
+            }
+            const texto = await resposta.text();
+            const executar = new Function(texto + "\nreturn dados;");
+            return executar();
+        }
+
+        /**
+         * Fetches and caches assets/tags.json.
+         */
+        async function getTagsData() {
+            if (cachedTagsData) return cachedTagsData;
+            const response = await fetch("assets/tags.json");
+            if (!response.ok) {
+                throw new Error("Could not load assets/tags.json");
+            }
+            cachedTagsData = await response.json();
+            return cachedTagsData;
+        }
+
+        /**
+         * Builds an index of work metadata (character, work title, info, page URL)
+         * mapping full normalized relative image paths and filenames to their details.
+         */
+        async function getDataIndex() {
+            if (cachedDataIndex) return cachedDataIndex;
+
+            const [mangaResult, animeResult, lnResult] = await Promise.allSettled([
+                carregarDados("dados.js"),
+                carregarDados("anime-dados.js"),
+                carregarDados("ln-dados.js")
+            ]);
+
+            const index = {};
+
+            const datasets = [
+                { data: mangaResult.status === "fulfilled" ? mangaResult.value : null, cat: "Manga", folder: "imagens", page: "obra.html" },
+                { data: animeResult.status === "fulfilled" ? animeResult.value : null, cat: "Anime", folder: "imagens_anime", page: "anime-obra.html" },
+                { data: lnResult.status === "fulfilled" ? lnResult.value : null, cat: "Light Novel", folder: "imagens_ln", page: "ln-obra.html" }
+            ];
+
+            datasets.forEach(ds => {
+                if (!ds.data) return;
+                Object.keys(ds.data).forEach(obra => {
+                    ds.data[obra].forEach(item => {
+                        const fullPath = ds.folder + "/" + item.arquivo;
+                        const infoObj = {
+                            personagem: item.personagem || obra,
+                            obra: obra,
+                            info: item.info || "",
+                            arquivo: item.arquivo,
+                            categoria: ds.cat,
+                            pastaImagens: ds.folder,
+                            paginaObra: ds.page
+                        };
+
+                        // Store lowercased path keys for fast lookup
+                        index[fullPath.toLowerCase()] = infoObj;
+                        index[item.arquivo.toLowerCase()] = infoObj;
+                    });
+                });
+            });
+
+            cachedDataIndex = index;
+            return cachedDataIndex;
+        }
+
+        /**
+         * Normalizes Windows-style backslashes to forward slashes
+         * and strips any leading slashes.
+         */
+        function normalizeImagePath(pathStr) {
+            if (!pathStr) return "";
+            return pathStr.replace(/\\/g, "/").replace(/^\/+/, "");
+        }
+
+        /**
+         * Converts a relative path into a safe URL with segment encoding.
+         */
+        function formatImageURL(normalizedPath) {
+            return normalizedPath.split("/").map(seg => encodeURIComponent(seg)).join("/");
+        }
+
+        // ============================================================
+        // FILTERING & SEARCH LOGIC
+        // ============================================================
+
+        /**
+         * Reads selected checkboxes, loads tags.json, compares each entry
+         * against selected tags (satisfying ALL selected filters), and displays results.
+         */
+        async function runSearch() {
+            const resultsContainer = document.getElementById("results-container");
+            resultsContainer.innerHTML = "<p class='empty-state'>Searching...</p>";
+
+            // 1. Collect all selected checkboxes grouped by category
+            const selectedCheckboxes = document.querySelectorAll(".filter-checkbox:checked");
+
+            if (selectedCheckboxes.length === 0) {
+                resultsContainer.innerHTML = "<p class='empty-state'>No entries match the selected filters.</p>";
+                return;
+            }
+
+            // Group selected tags by category key (e.g. { media: ["manga"], style: ["bob"] })
+            const selectedFilters = {};
+            selectedCheckboxes.forEach(cb => {
+                const category = (cb.dataset.category || "").toLowerCase();
+                const val = cb.value.toLowerCase();
+                if (!selectedFilters[category]) {
+                    selectedFilters[category] = [];
+                }
+                selectedFilters[category].push(val);
+            });
+
+            try {
+                // 2. Load tags.json and metadata index in parallel (cached after first run)
+                const [tagsData, dataIndex] = await Promise.all([
+                    getTagsData(),
+                    getDataIndex()
+                ]);
+
+                const matchingEntries = [];
+
+                // 3. Compare each entry in tags.json against selected filters
+                for (const rawPath in tagsData) {
+                    const entryTags = tagsData[rawPath] || {};
+                    let matchesAll = true;
+
+                    // Lowercase entry category keys and tags for case-insensitive matching
+                    const normalizedEntryTags = {};
+                    for (const catKey in entryTags) {
+                        const tagList = Array.isArray(entryTags[catKey]) ? entryTags[catKey] : [entryTags[catKey]];
+                        normalizedEntryTags[catKey.toLowerCase()] = tagList.map(t => String(t).toLowerCase());
+                    }
+
+                    // Must satisfy ALL selected filter rules
+                    for (const reqCategory in selectedFilters) {
+                        const requiredValues = selectedFilters[reqCategory];
+                        const availableValues = normalizedEntryTags[reqCategory] || [];
+
+                        // Check if entry contains all required tags for this category
+                        const categoryMatch = requiredValues.every(reqVal => availableValues.includes(reqVal));
+                        if (!categoryMatch) {
+                            matchesAll = false;
+                            break;
+                        }
+                    }
+
+                    if (matchesAll) {
+                        const normPath = normalizeImagePath(rawPath);
+                        const filename = normPath.split("/").pop() || normPath;
+
+                        // Look up entry metadata in index if available
+                        const meta = dataIndex[normPath.toLowerCase()] || dataIndex[filename.toLowerCase()] || null;
+
+                        matchingEntries.push({
+                            rawPath: rawPath,
+                            normalizedPath: normPath,
+                            filename: filename,
+                            meta: meta
+                        });
+                    }
+                }
+
+                // 4. Render results
+                renderResults(matchingEntries);
+
+            } catch (err) {
+                console.error("Error performing search:", err);
+                resultsContainer.innerHTML = "<p class='empty-state'>Unable to load search data. Please check assets/tags.json.</p>";
+            }
+        }
+
+        /**
+         * Renders matching results using the project's existing card structure (.recentes-lista & .recent-item).
+         */
+        function renderResults(entries) {
+            const resultsContainer = document.getElementById("results-container");
+            resultsContainer.innerHTML = "";
+
+            if (entries.length === 0) {
+                resultsContainer.innerHTML = "<p class='empty-state'>No entries match the selected filters.</p>";
+                return;
+            }
+
+            const listDiv = document.createElement("div");
+            listDiv.className = "recentes-lista";
+
+            entries.forEach(entry => {
+                const itemDiv = document.createElement("div");
+                itemDiv.className = "recent-item";
+
+                const link = document.createElement("a");
+                link.className = "recent-link";
+
+                const meta = entry.meta;
+                if (meta && meta.paginaObra && meta.obra) {
+                    // Navigate using existing obra page mechanism
+                    link.href = meta.paginaObra + "?nome=" + encodeURIComponent(meta.obra);
+                } else {
+                    link.href = formatImageURL(entry.normalizedPath);
+                    link.target = "_blank";
+                }
+
+                const img = document.createElement("img");
+                img.src = formatImageURL(entry.normalizedPath);
+                img.loading = "lazy";
+                img.decoding = "async";
+                img.alt = meta ? meta.personagem : entry.filename;
+
+                const textDiv = document.createElement("div");
+                textDiv.className = "recent-text";
+
+                if (meta) {
+                    const titleB = document.createElement("b");
+                    titleB.textContent = meta.personagem;
+
+                    const obraDiv = document.createElement("div");
+                    obraDiv.textContent = meta.obra;
+
+                    const infoDiv = document.createElement("div");
+                    infoDiv.textContent = meta.info;
+
+                    const catSmall = document.createElement("small");
+                    catSmall.textContent = meta.categoria;
+
+                    textDiv.appendChild(titleB);
+                    textDiv.appendChild(obraDiv);
+                    textDiv.appendChild(infoDiv);
+                    textDiv.appendChild(catSmall);
+                } else {
+                    const titleB = document.createElement("b");
+                    titleB.textContent = entry.filename;
+                    textDiv.appendChild(titleB);
+                }
+
+                link.appendChild(img);
+                link.appendChild(textDiv);
+                itemDiv.appendChild(link);
+                listDiv.appendChild(itemDiv);
+            });
+
+            resultsContainer.appendChild(listDiv);
+        }
+
+        // ============================================================
+        // INITIALIZATION
+        // ============================================================
+        document.addEventListener("DOMContentLoaded", () => {
+            loadAndRenderFilters();
+
+            const searchBtn = document.getElementById("search-button");
+            if (searchBtn) {
+                searchBtn.addEventListener("click", runSearch);
+            }
+        });
+    </script>
+
+</body>
+
+</html>
