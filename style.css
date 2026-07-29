@@ -353,6 +353,15 @@ html.dark-mode .nav-button[disabled] {
     margin-top: 24px;
 }
 
+.work-in-progress {
+    margin: 24px 0;
+    color: red;
+    font-family: "Times New Roman", Times, serif;
+    font-style: normal;
+    font-weight: normal;
+    text-align: center;
+}
+
 .filter-group {
     background: var(--surface);
     border: 1px solid var(--border);
