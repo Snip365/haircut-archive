@@ -4,6 +4,7 @@
  */
 window.TagsDatabase = (() => {
     let tagsPromise;
+    let contextPromise;
 
     function load() {
         if (!tagsPromise) {
@@ -27,5 +28,23 @@ window.TagsDatabase = (() => {
         return tags[imageKey(folder, filename)] || {};
     }
 
-    return { load, imageKey, getImageTags };
+    function loadContext() {
+        if (!contextPromise) {
+            contextPromise = fetch("assets/context.json").then(response => {
+                if (!response.ok) {
+                    throw new Error("Could not load assets/context.json");
+                }
+                return response.json();
+            });
+        }
+
+        return contextPromise;
+    }
+
+    async function getImageContext(folder, filename) {
+        const contexts = await loadContext();
+        return contexts[imageKey(folder, filename)]?.context || "";
+    }
+
+    return { load, imageKey, getImageTags, loadContext, getImageContext };
 })();

@@ -131,6 +131,19 @@ else {
         bloco.appendChild(texto);
         bloco.appendChild(tagsSection);
 
+        TagsDatabase.getImageContext("imagens_ln", item.arquivo)
+            .then(context => {
+                if (!context) {
+                    return;
+                }
+
+                const contextElement = document.createElement("div");
+                contextElement.className = "image-context";
+                contextElement.textContent = context;
+                bloco.insertBefore(contextElement, tagsSection);
+            })
+            .catch(() => {});
+
 
         galeria.appendChild(bloco);
 
