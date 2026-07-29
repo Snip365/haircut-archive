@@ -3,20 +3,23 @@
  * so a page reads assets/tags.json only once, even when it renders many images.
  */
 window.TagsDatabase = (() => {
-    let tagsPromise;
-    let contextPromise;
+    const databasePromises = {};
 
-    function load() {
-        if (!tagsPromise) {
-            tagsPromise = fetch("assets/tags.json").then(response => {
+    function loadDatabase(name) {
+        if (!databasePromises[name]) {
+            databasePromises[name] = fetch(`assets/${name}.json`).then(response => {
                 if (!response.ok) {
-                    throw new Error("Could not load assets/tags.json");
+                    throw new Error(`Could not load assets/${name}.json`);
                 }
                 return response.json();
             });
         }
 
-        return tagsPromise;
+        return databasePromises[name];
+    }
+
+    function load() {
+        return loadDatabase("tags");
     }
 
     function imageKey(folder, filename) {
@@ -29,16 +32,7 @@ window.TagsDatabase = (() => {
     }
 
     function loadContext() {
-        if (!contextPromise) {
-            contextPromise = fetch("assets/context.json").then(response => {
-                if (!response.ok) {
-                    throw new Error("Could not load assets/context.json");
-                }
-                return response.json();
-            });
-        }
-
-        return contextPromise;
+        return loadDatabase("context");
     }
 
     async function getImageContext(folder, filename) {

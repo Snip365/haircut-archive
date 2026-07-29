@@ -46,53 +46,6 @@
     <script src="theme.js"></script>
     <script src="tags.js"></script>
 
-    <script>
-        // ============================================================
-        // PARSE PYTHON CONFIGURATION (assets/config.py)
-        // ============================================================
-        function parseConfigPy(text) {
-            const categories = [];
-            const regex = /([A-Z0-9_]+)\s*=\s*\[([\s\S]*?)\]/g;
-            let match;
-
-            while ((match = regex.exec(text)) !== null) {
-                const rawVarName = match[1];
-                const content = match[2];
-
-                let categoryName = rawVarName.replace(/_TAGS$/i, '').replace(/_/g, ' ');
-                categoryName = categoryName.charAt(0).toUpperCase() + categoryName.slice(1).toLowerCase();
-
-                const itemRegex = /["']([^"']+)["']/g;
-                const items = [];
-                let itemMatch;
-                while ((itemMatch = itemRegex.exec(content)) !== null) {
-                    items.push(itemMatch[1]);
-                }
-
-                if (items.length > 0) {
-                    categories.push({
-                        name: categoryName,
-                        key: rawVarName,
-                        items: items
-                    });
-                }
-            }
-            return categories;
-        }
-
-        const fallbackConfig = [
-            {
-                name: "Media",
-                key: "MEDIA_TAGS",
-                items: ["Manga", "Anime", "Light Novel", "Manhwa", "Manhua", "Onscreen"]
-            },
-            {
-                name: "Style",
-                key: "STYLE_TAGS",
-                items: ["Long", "Bob", "Pixie", "Bald", "Dye", "Braid", "Twintail", "Ponytail", "Himecut", "Wolfcut", "Other"]
-            }
-        ];
-
         // ============================================================
         // RENDER CHECKBOX GROUPS
         // ============================================================
@@ -136,23 +89,35 @@
             });
         }
 
+        function formatCategoryName(category) {
+            return category
+                .replace(/[_-]+/g, " ")
+                .replace(/\b\w/g, character => character.toUpperCase());
+        }
+
+        function categoriesFromTags(tagsData) {
+            const categories = new Map();
+
+            Object.values(tagsData).forEach(imageTags => {
+                Object.entries(imageTags || {}).forEach(([category, values]) => {
+                    if (!categories.has(category)) {
+                        categories.set(category, new Set());
+                    }
+
+                    const tagValues = Array.isArray(values) ? values : [values];
+                    tagValues.forEach(value => categories.get(category).add(String(value)));
+                });
+            });
+
+            return Array.from(categories, ([key, values]) => ({
+                name: formatCategoryName(key),
+                key,
+                items: Array.from(values).sort((a, b) => a.localeCompare(b))
+            }));
+        }
+
         async function loadAndRenderFilters() {
-            let categories = [];
-            try {
-                const response = await fetch("assets/config.py");
-                if (response.ok) {
-                    const text = await response.text();
-                    categories = parseConfigPy(text);
-                }
-            } catch (err) {
-                console.warn("Could not fetch assets/config.py directly. Using fallback config.", err);
-            }
-
-            if (!categories || categories.length === 0) {
-                categories = fallbackConfig;
-            }
-
-            renderFilterPanel(categories);
+            renderFilterPanel(categoriesFromTags(await getTagsData()));
         }
 
         // ============================================================
@@ -209,7 +174,7 @@
                 if (!ds.data) return;
                 Object.keys(ds.data).forEach(obra => {
                     ds.data[obra].forEach(item => {
-                        const fullPath = ds.folder + "/" + item.arquivo;
+                        const imageKey = TagsDatabase.imageKey(ds.folder, item.arquivo);
                         const infoObj = {
                             personagem: item.personagem || obra,
                             obra: obra,
@@ -220,24 +185,13 @@
                             paginaObra: ds.page
                         };
 
-                        // Store lowercased path keys for fast lookup
-                        index[fullPath.toLowerCase()] = infoObj;
-                        index[item.arquivo.toLowerCase()] = infoObj;
+                        index[imageKey] = infoObj;
                     });
                 });
             });
 
             cachedDataIndex = index;
             return cachedDataIndex;
-        }
-
-        /**
-         * Normalizes Windows-style backslashes to forward slashes
-         * and strips any leading slashes.
-         */
-        function normalizeImagePath(pathStr) {
-            if (!pathStr) return "";
-            return pathStr.replace(/\\/g, "/").replace(/^\/+/, "");
         }
 
         /**
@@ -313,15 +267,15 @@
                     }
 
                     if (matchesAll) {
-                        const normPath = normalizeImagePath(rawPath);
-                        const filename = normPath.split("/").pop() || normPath;
-
-                        // Look up entry metadata in index if available
-                        const meta = dataIndex[normPath.toLowerCase()] || dataIndex[filename.toLowerCase()] || null;
+                        const meta = dataIndex[rawPath] || null;
+                        const imagePath = meta
+                            ? meta.pastaImagens + "/" + meta.arquivo
+                            : rawPath.replace(/\\/g, "/").replace(/^\/+/, "");
+                        const filename = imagePath.split("/").pop() || imagePath;
 
                         matchingEntries.push({
                             rawPath: rawPath,
-                            normalizedPath: normPath,
+                            imagePath: imagePath,
                             filename: filename,
                             meta: meta
                         });
@@ -364,12 +318,12 @@
                     // Navigate using existing obra page mechanism
                     link.href = meta.paginaObra + "?nome=" + encodeURIComponent(meta.obra);
                 } else {
-                    link.href = formatImageURL(entry.normalizedPath);
+                    link.href = formatImageURL(entry.imagePath);
                     link.target = "_blank";
                 }
 
                 const img = document.createElement("img");
-                img.src = formatImageURL(entry.normalizedPath);
+                img.src = formatImageURL(entry.imagePath);
                 img.loading = "lazy";
                 img.decoding = "async";
                 img.alt = meta ? meta.personagem : entry.filename;
