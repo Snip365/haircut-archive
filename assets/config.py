@@ -4,7 +4,8 @@ MEDIA_TAGS = [
     "Light Novel",
     "Manhwa",
     "Manhua",
-    "Onscreen"
+    "Onscreen",
+    "NSFW"
 ]
 
 STYLE_TAGS = [
@@ -18,5 +19,10 @@ STYLE_TAGS = [
     "Ponytail",
     "Himecut",
     "Wolfcut",
+    "Curly Hair",
+    "Short Hair",
+    "Straight Bangs",
+    "Short Bangs",
+    "Alternative",
     "Other"
-]
+]
