@@ -4,6 +4,7 @@ MEDIA_TAGS = [
     "Light Novel",
     "Manhwa",
     "Manhua",
+    "Webtoon"
     "Onscreen",
     "NSFW"
 ]
@@ -25,4 +26,10 @@ STYLE_TAGS = [
     "Short Bangs",
     "Alternative",
     "Other"
+    "Straight Bangs",
+    "Short Bangs",
+    "Blonde",
+    "Redhead",
+    "Black Hair",
+    "White Hair"    
 ]
