@@ -4,9 +4,10 @@ MEDIA_TAGS = [
     "Light Novel",
     "Manhwa",
     "Manhua",
-    "Webtoon"
+    "NSFW",
     "Onscreen",
-    "NSFW"
+    "Webtoon",
+    "Hair Salon"
 ]
 
 STYLE_TAGS = [
@@ -31,5 +32,14 @@ STYLE_TAGS = [
     "Blonde",
     "Redhead",
     "Black Hair",
-    "White Hair"    
+    "White Hair" , 
+    "Brown Hair",
+    "Pink Hair",
+    "Purple Hair",
+    "Blue Hair",
+    "Very Long Hair",
+    "Undercut",
+    "Green Hair",
+    "Drill Hair",
+    "Orange Hair"  
 ]
